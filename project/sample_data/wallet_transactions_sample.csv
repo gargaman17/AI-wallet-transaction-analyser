@@ -1,0 +1,2101 @@
+transaction_id,user_id,amount,merchant,category,timestamp,location,payment_status
+TXN-001035,U0098,12.62,Subway,Food,2025-10-12T05:57,"Toronto, Canada",Completed
+TXN-001177,U0058,77.66,Kraken,Crypto,2025-08-12T03:58,"Seattle, USA",Completed
+TXN-000068,U0074,104.14,PG&E,Bills,2026-01-05T23:49,"San Francisco, USA",Completed
+TXN-001331,U0133,80.0,Chase ATM,ATM,2025-06-01T21:13,"Los Angeles, USA",Completed
+TXN-000651,U0017,56.76,Apple Store,Shopping,2025-09-25T07:50,"Seattle, USA",Completed
+TXN-001869,U0058,54.33,Starbucks,Food,2026-04-20T21:07,"Chicago, USA",Completed
+TXN-000987,U0017,47.28,Walmart,Shopping,2025-08-22T22:55,"Austin, USA",Completed
+TXN-000553,U0081,231.98,Delta Airlines,Travel,2025-12-31T02:04,"San Francisco, USA",Completed
+TXN-001428,U0099,69.34,Trader Joe's,Groceries,2025-07-18T02:50,"Los Angeles, USA",Completed
+TXN-001669,U0136,153.46,Target,Shopping,2026-03-15T05:39,"Los Angeles, USA",Completed
+TXN-001575,U0092,17.14,Target,Shopping,2025-11-14T00:15,"Austin, USA",Completed
+TXN-001318,U0149,75.16,Kroger,Groceries,2025-09-03T23:50,"Seattle, USA",Completed
+TXN-000495,U0092,47.49,Chipotle,Food,2026-04-30T02:25,"Los Angeles, USA",Pending
+TXN-001979,U0120,200.0,Bank of America ATM,ATM,2026-01-30T09:33,"Austin, USA",Completed
+TXN-001761,U0084,37.73,Walmart,Shopping,2025-05-25T21:04,"Austin, USA",Completed
+TXN-000866,U0020,71.39,Coinbase,Crypto,2025-10-21T06:37,"Chicago, USA",Completed
+TXN-000530,U0120,16.23,Local Deli,Food,2025-10-02T21:25,"Seattle, USA",Completed
+TXN-001502,U0021,128.49,Walmart,Shopping,2025-10-15T00:26,"Seattle, USA",Completed
+TXN-000071,U0098,120.0,Wells Fargo ATM,ATM,2026-05-16T21:58,"Chicago, USA",Pending
+TXN-001849,U0145,52.73,Target,Shopping,2026-05-13T01:27,"Berlin, Germany",Completed
+TXN-001449,U0004,37.02,Local Deli,Food,2026-03-11T22:55,"Los Angeles, USA",Completed
+TXN-000572,U0121,31.04,Costco,Groceries,2025-07-08T03:32,"Los Angeles, USA",Completed
+TXN-000421,U0091,99.34,Costco,Groceries,2026-03-23T21:49,"Dubai, UAE",Completed
+TXN-000949,U0068,74.23,Safeway,Groceries,2025-10-17T05:43,"Chicago, USA",Completed
+TXN-001421,U0091,78.88,Kroger,Groceries,2026-01-07T23:02,"Tokyo, Japan",Completed
+TXN-SUSP-00008,U0127,2226.83,Offshore Exchange,Travel,2026-02-10T03:36,Singapore,Completed
+TXN-001194,U0140,88.11,Whole Foods,Groceries,2025-07-28T06:27,"San Francisco, USA",Failed
+TXN-001572,U0120,34.39,Apple Store,Shopping,2025-09-10T05:17,"San Francisco, USA",Pending
+TXN-001193,U0042,56.95,Amazon,Shopping,2025-07-30T03:45,"New York, USA",Completed
+TXN-000584,U0036,208.54,Kraken,Crypto,2026-05-22T09:51,"Los Angeles, USA",Completed
+TXN-000052,U0131,57.09,Target,Shopping,2025-06-30T05:26,"Austin, USA",Failed
+TXN-001445,U0051,8.44,Lyft,Travel,2025-06-04T22:05,"Chicago, USA",Completed
+TXN-001288,U0048,10.05,Local Deli,Food,2025-06-23T04:29,"Los Angeles, USA",Failed
+TXN-001125,U0131,9.01,Starbucks,Food,2026-04-02T11:28,"Seattle, USA",Completed
+TXN-000030,U0139,200.0,Bank of America ATM,ATM,2026-03-03T00:07,"Los Angeles, USA",Pending
+TXN-001221,U0048,64.89,Amazon,Shopping,2025-05-28T09:00,"Austin, USA",Completed
+TXN-000480,U0002,92.77,Kroger,Groceries,2025-08-30T21:47,"Seattle, USA",Completed
+TXN-001375,U0118,64.75,Whole Foods,Groceries,2025-09-25T22:01,"San Francisco, USA",Completed
+TXN-001088,U0140,68.22,Costco,Groceries,2025-08-31T01:58,"London, UK",Completed
+TXN-000232,U0044,16.69,DoorDash,Food,2026-04-04T23:36,"Chicago, USA",Completed
+TXN-001260,U0004,104.4,Netflix,Bills,2025-07-16T01:50,"Seattle, USA",Completed
+TXN-000213,U0128,15.99,Best Buy,Shopping,2025-12-09T07:15,"Seattle, USA",Completed
+TXN-000308,U0074,94.18,Amazon,Shopping,2026-02-21T05:38,"New York, USA",Completed
+TXN-000728,U0015,83.81,Delta Airlines,Travel,2026-01-17T11:03,"Los Angeles, USA",Completed
+TXN-001363,U0013,60.0,Bank of America ATM,ATM,2026-04-07T00:05,"Los Angeles, USA",Completed
+TXN-000448,U0004,8.05,Delta Airlines,Travel,2026-02-16T12:02,"Los Angeles, USA",Completed
+TXN-000382,U0018,48.86,Walmart,Shopping,2026-01-21T23:05,"New York, USA",Completed
+TXN-001339,U0032,64.72,Spotify,Bills,2025-07-17T00:33,"New York, USA",Completed
+TXN-000695,U0034,46.04,Costco,Groceries,2025-08-11T03:10,"San Francisco, USA",Completed
+TXN-000568,U0059,40.77,DoorDash,Food,2026-03-30T00:46,"Austin, USA",Completed
+TXN-000589,U0133,76.89,Netflix,Bills,2025-05-31T03:58,"San Francisco, USA",Completed
+TXN-001573,U0083,283.8,Lyft,Travel,2026-01-24T01:33,"Austin, USA",Completed
+TXN-001947,U0028,56.0,Amazon,Shopping,2025-06-15T23:21,"Chicago, USA",Completed
+TXN-001688,U0131,47.7,Local Deli,Food,2025-11-26T12:20,"New York, USA",Completed
+TXN-001420,U0149,60.16,Amazon,Shopping,2026-03-10T09:04,"Austin, USA",Completed
+TXN-001392,U0023,116.3,Netflix,Bills,2025-11-26T03:51,"San Francisco, USA",Pending
+TXN-000121,U0039,26.24,Subway,Food,2026-05-22T09:28,"Chicago, USA",Completed
+TXN-000745,U0120,132.18,Verizon,Bills,2026-01-14T06:47,"Chicago, USA",Pending
+TXN-001776,U0055,20.49,DoorDash,Food,2026-05-08T23:02,"New York, USA",Pending
+TXN-001932,U0041,94.53,Trader Joe's,Groceries,2026-01-26T10:45,"San Francisco, USA",Completed
+TXN-001805,U0052,148.42,PG&E,Bills,2026-04-10T10:07,"San Francisco, USA",Completed
+TXN-001104,U0045,66.71,Netflix,Bills,2025-11-19T06:29,"Austin, USA",Completed
+TXN-001700,U0127,14.12,Local Deli,Food,2025-11-29T00:34,"Seattle, USA",Completed
+TXN-000786,U0048,86.67,Apple Store,Shopping,2025-08-28T00:48,"San Francisco, USA",Completed
+TXN-SUSP-00073,U0043,3153.48,Unverified Marketplace,Travel,2026-04-14T04:26,"Tokyo, Japan",Completed
+TXN-000565,U0065,80.15,Best Buy,Shopping,2025-11-28T23:37,"Austin, USA",Completed
+TXN-000975,U0038,137.01,Comcast,Bills,2025-06-08T03:34,"Seattle, USA",Completed
+TXN-SUSP-00036,U0039,4909.88,Night ATM,Travel,2026-02-10T04:12,"Dubai, UAE",Pending
+TXN-000619,U0102,126.44,Target,Shopping,2026-05-24T05:42,"San Francisco, USA",Completed
+TXN-000252,U0135,90.31,Binance,Crypto,2025-06-21T12:14,"Seattle, USA",Completed
+TXN-000298,U0063,13.7,Chipotle,Food,2025-07-25T13:02,"Seattle, USA",Completed
+TXN-000367,U0073,149.7,Binance,Crypto,2026-02-03T05:24,"Austin, USA",Completed
+TXN-000412,U0032,80.0,Bank of America ATM,ATM,2025-07-30T00:01,"New York, USA",Completed
+TXN-000539,U0112,38.1,Subway,Food,2025-07-18T03:38,"Seattle, USA",Pending
+TXN-000234,U0147,28.75,Local Deli,Food,2025-10-08T03:53,"Austin, USA",Completed
+TXN-001583,U0123,8.69,Chipotle,Food,2025-08-12T08:04,"San Francisco, USA",Completed
+TXN-000101,U0121,8.89,Starbucks,Food,2025-12-21T11:48,"San Francisco, USA",Completed
+TXN-000368,U0026,153.4,Airbnb,Travel,2025-11-16T22:06,"Seattle, USA",Completed
+TXN-001943,U0019,80.0,Bank of America ATM,ATM,2026-02-25T07:13,"San Francisco, USA",Pending
+TXN-001437,U0058,19.34,Local Deli,Food,2026-02-26T07:05,"Los Angeles, USA",Completed
+TXN-000112,U0049,38.38,Local Deli,Food,2026-01-17T10:07,"Chicago, USA",Completed
+TXN-000255,U0144,60.0,Wells Fargo ATM,ATM,2025-06-26T01:37,"Austin, USA",Completed
+TXN-000887,U0037,17.71,Subway,Food,2026-02-16T23:11,"Austin, USA",Completed
+TXN-001051,U0133,67.4,Apple Store,Shopping,2026-01-19T12:27,"Los Angeles, USA",Completed
+TXN-001665,U0100,37.71,Best Buy,Shopping,2026-03-25T12:06,"Seattle, USA",Completed
+TXN-001550,U0055,70.26,Costco,Groceries,2026-02-21T00:00,"Tokyo, Japan",Pending
+TXN-001687,U0082,57.74,Whole Foods,Groceries,2026-01-31T08:51,"Austin, USA",Completed
+TXN-001475,U0076,92.88,Costco,Groceries,2025-12-20T08:34,"Seattle, USA",Completed
+TXN-000362,U0016,61.37,Whole Foods,Groceries,2025-08-03T11:02,"Toronto, Canada",Completed
+TXN-001429,U0019,27.92,Local Deli,Food,2025-10-01T00:06,"Austin, USA",Completed
+TXN-000556,U0020,6.97,Local Deli,Food,2025-09-03T05:50,"Seattle, USA",Completed
+TXN-000185,U0087,21.4,Target,Shopping,2025-12-10T10:53,"Seattle, USA",Completed
+TXN-000211,U0010,107.96,Best Buy,Shopping,2026-02-28T12:20,"Los Angeles, USA",Completed
+TXN-000479,U0052,214.3,Crypto.com,Crypto,2025-05-27T22:38,"Seattle, USA",Pending
+TXN-001342,U0003,70.7,Safeway,Groceries,2025-08-16T02:23,"London, UK",Completed
+TXN-000850,U0142,91.13,Amazon,Shopping,2026-01-25T22:12,"New York, USA",Completed
+TXN-001965,U0105,157.48,Best Buy,Shopping,2025-10-15T02:18,"Austin, USA",Completed
+TXN-001068,U0011,29.99,Target,Shopping,2025-08-17T00:33,"Chicago, USA",Completed
+TXN-000299,U0073,114.18,Walmart,Shopping,2026-03-04T07:53,"Austin, USA",Completed
+TXN-000057,U0105,4.31,DoorDash,Food,2026-02-09T06:46,"Austin, USA",Completed
+TXN-000536,U0133,25.65,DoorDash,Food,2026-02-26T06:05,"Los Angeles, USA",Completed
+TXN-000110,U0103,81.5,Costco,Groceries,2025-12-22T12:22,"Los Angeles, USA",Completed
+TXN-001212,U0148,79.77,Verizon,Bills,2025-09-24T23:14,"New York, USA",Completed
+TXN-000351,U0100,16.7,DoorDash,Food,2026-05-16T01:36,"Austin, USA",Completed
+TXN-000671,U0135,80.0,Wells Fargo ATM,ATM,2026-04-14T09:07,"New York, USA",Completed
+TXN-000129,U0062,21.35,Chipotle,Food,2025-07-05T09:43,"Chicago, USA",Completed
+TXN-000924,U0006,80.0,Bank of America ATM,ATM,2026-01-24T08:56,"Seattle, USA",Completed
+TXN-000652,U0142,28.48,Apple Store,Shopping,2026-05-10T12:53,"San Francisco, USA",Completed
+TXN-001595,U0099,248.11,Coinbase,Crypto,2025-08-25T10:38,"Los Angeles, USA",Completed
+TXN-001917,U0047,65.46,Trader Joe's,Groceries,2025-12-03T22:23,"San Francisco, USA",Completed
+TXN-000612,U0125,294.72,Walmart,Shopping,2026-04-13T07:54,"Austin, USA",Completed
+TXN-001376,U0141,68.85,Netflix,Bills,2025-11-22T05:11,"New York, USA",Completed
+TXN-001648,U0138,30.38,Spotify,Bills,2026-01-25T11:10,"Los Angeles, USA",Completed
+TXN-001474,U0073,185.81,Airbnb,Travel,2025-07-01T11:00,"New York, USA",Completed
+TXN-000509,U0058,125.44,Target,Shopping,2025-11-27T22:56,"Los Angeles, USA",Completed
+TXN-001135,U0093,287.72,Binance,Crypto,2025-10-12T12:09,"Austin, USA",Completed
+TXN-001711,U0131,229.93,Coinbase,Crypto,2026-02-08T02:29,"San Francisco, USA",Completed
+TXN-000290,U0037,55.64,PG&E,Bills,2025-09-24T07:00,"Toronto, Canada",Completed
+TXN-001742,U0057,30.81,DoorDash,Food,2025-06-08T12:18,"San Francisco, USA",Completed
+TXN-001430,U0116,104.29,Verizon,Bills,2025-08-23T07:10,"Austin, USA",Failed
+TXN-000430,U0086,73.01,Target,Shopping,2025-08-18T23:56,"Austin, USA",Completed
+TXN-001381,U0057,87.88,Safeway,Groceries,2025-12-12T09:10,"Seattle, USA",Completed
+TXN-001653,U0071,62.73,PG&E,Bills,2026-02-22T04:25,"Seattle, USA",Completed
+TXN-000197,U0112,69.94,Costco,Groceries,2026-01-11T01:57,"New York, USA",Completed
+TXN-001533,U0128,102.69,Walmart,Shopping,2026-03-09T12:38,"Austin, USA",Completed
+TXN-000355,U0057,57.94,Uber,Travel,2026-03-10T21:54,"San Francisco, USA",Completed
+TXN-SUSP-00020,U0139,1068.58,Night ATM,Crypto,2026-03-08T04:26,"Toronto, Canada",Completed
+TXN-SUSP-00096,U0041,5953.51,Unverified Marketplace,ATM,2026-05-19T04:15,Singapore,Failed
+TXN-001927,U0123,306.93,Lyft,Travel,2025-08-30T12:34,"San Francisco, USA",Completed
+TXN-001719,U0103,41.94,Whole Foods,Groceries,2025-09-18T05:12,"New York, USA",Completed
+TXN-001778,U0075,21.65,Subway,Food,2025-09-08T01:03,"New York, USA",Completed
+TXN-000531,U0078,27.09,DoorDash,Food,2026-03-26T22:53,"Chicago, USA",Completed
+TXN-000927,U0061,29.03,Target,Shopping,2025-10-27T00:03,"San Francisco, USA",Completed
+TXN-000070,U0016,14.08,Subway,Food,2025-11-11T11:30,"San Francisco, USA",Completed
+TXN-001317,U0147,185.71,Lyft,Travel,2026-05-17T10:26,"Austin, USA",Completed
+TXN-000939,U0053,22.17,Best Buy,Shopping,2025-07-25T04:49,"San Francisco, USA",Completed
+TXN-000433,U0116,77.73,Kroger,Groceries,2026-04-24T04:14,"New York, USA",Completed
+TXN-000241,U0101,71.09,Delta Airlines,Travel,2026-02-03T21:09,"Chicago, USA",Pending
+TXN-SUSP-00071,U0097,4615.73,Luxury Wire Transfer,Shopping,2026-02-04T04:51,"London, UK",Completed
+TXN-000388,U0069,132.65,Kraken,Crypto,2025-08-19T08:12,"Seattle, USA",Completed
+TXN-000307,U0125,138.47,Apple Store,Shopping,2026-04-17T12:46,"New York, USA",Completed
+TXN-001753,U0131,168.1,PG&E,Bills,2025-11-11T04:40,"Dubai, UAE",Completed
+TXN-000681,U0134,73.78,Apple Store,Shopping,2025-09-11T03:38,"Los Angeles, USA",Completed
+TXN-000890,U0104,80.63,Safeway,Groceries,2025-11-24T12:46,"Toronto, Canada",Completed
+TXN-000937,U0067,16.84,Subway,Food,2026-04-07T10:42,"New York, USA",Pending
+TXN-000985,U0126,117.46,Comcast,Bills,2025-08-22T03:14,"New York, USA",Completed
+TXN-001114,U0013,15.8,Local Deli,Food,2025-09-13T11:48,"Los Angeles, USA",Completed
+TXN-001434,U0054,137.23,Apple Store,Shopping,2026-02-04T03:57,"Chicago, USA",Completed
+TXN-001959,U0145,26.86,Walmart,Shopping,2025-12-06T12:05,"San Francisco, USA",Completed
+TXN-001868,U0030,11.32,Starbucks,Food,2025-09-09T11:14,"Los Angeles, USA",Completed
+TXN-000212,U0032,44.82,Amazon,Shopping,2026-04-26T07:21,"Los Angeles, USA",Completed
+TXN-000248,U0132,83.07,Kroger,Groceries,2026-01-14T01:42,"New York, USA",Pending
+TXN-000562,U0060,41.26,Trader Joe's,Groceries,2025-06-27T05:27,"New York, USA",Completed
+TXN-001680,U0148,118.74,Kroger,Groceries,2026-01-15T03:53,Singapore,Completed
+TXN-000260,U0021,87.45,Trader Joe's,Groceries,2025-10-20T22:22,"Austin, USA",Completed
+TXN-000343,U0028,34.84,Whole Foods,Groceries,2025-06-06T07:45,"Seattle, USA",Completed
+TXN-001880,U0074,128.89,Walmart,Shopping,2026-02-01T12:39,"Los Angeles, USA",Completed
+TXN-001893,U0089,200.0,Wells Fargo ATM,ATM,2026-03-04T01:24,"Austin, USA",Completed
+TXN-001457,U0099,8.21,Subway,Food,2025-06-12T05:21,"Austin, USA",Pending
+TXN-001642,U0051,3.5,DoorDash,Food,2026-04-02T00:45,"Austin, USA",Completed
+TXN-000125,U0139,221.54,Target,Shopping,2026-04-11T12:59,"New York, USA",Completed
+TXN-001738,U0029,49.07,Trader Joe's,Groceries,2025-08-20T07:05,"San Francisco, USA",Completed
+TXN-001343,U0124,56.21,Verizon,Bills,2025-07-25T07:26,"Toronto, Canada",Completed
+TXN-000766,U0149,32.92,Subway,Food,2026-05-21T08:11,"Chicago, USA",Completed
+TXN-001455,U0142,43.67,Walmart,Shopping,2025-08-04T04:23,"San Francisco, USA",Completed
+TXN-000614,U0093,118.87,Netflix,Bills,2025-11-13T05:27,"Chicago, USA",Pending
+TXN-000591,U0103,114.44,Comcast,Bills,2025-07-09T05:53,"Austin, USA",Completed
+TXN-000066,U0141,88.22,Crypto.com,Crypto,2026-04-04T10:57,"Austin, USA",Completed
+TXN-001281,U0149,146.06,Kraken,Crypto,2025-06-22T00:46,"New York, USA",Completed
+TXN-001161,U0084,40.0,Bank of America ATM,ATM,2025-06-03T08:59,"Seattle, USA",Completed
+TXN-000711,U0034,116.64,Best Buy,Shopping,2025-10-20T02:11,"Tokyo, Japan",Completed
+TXN-000618,U0021,40.0,Bank of America ATM,ATM,2026-04-14T09:58,"San Francisco, USA",Completed
+TXN-001845,U0128,137.54,Lyft,Travel,2025-08-31T12:42,"Austin, USA",Pending
+TXN-000483,U0049,103.98,Trader Joe's,Groceries,2025-11-17T12:26,"San Francisco, USA",Completed
+TXN-000603,U0139,86.55,Crypto.com,Crypto,2026-04-04T21:52,"Tokyo, Japan",Completed
+TXN-001504,U0134,29.11,Costco,Groceries,2025-06-14T10:10,"Austin, USA",Completed
+TXN-001690,U0100,98.85,Target,Shopping,2025-09-19T23:45,"Los Angeles, USA",Completed
+TXN-000586,U0100,87.31,Kroger,Groceries,2026-05-16T22:14,"Tokyo, Japan",Completed
+TXN-001658,U0102,85.49,PG&E,Bills,2025-08-14T03:53,"Los Angeles, USA",Completed
+TXN-001122,U0128,10.2,Chipotle,Food,2025-12-22T06:53,"Berlin, Germany",Completed
+TXN-000276,U0141,50.88,Local Deli,Food,2025-12-03T10:48,"London, UK",Completed
+TXN-000818,U0121,89.1,Trader Joe's,Groceries,2025-12-04T04:08,"Chicago, USA",Completed
+TXN-000904,U0006,79.65,Netflix,Bills,2026-03-12T10:21,"Seattle, USA",Completed
+TXN-001560,U0082,85.23,Kroger,Groceries,2025-06-03T07:57,"Los Angeles, USA",Completed
+TXN-001762,U0128,60.0,Wells Fargo ATM,ATM,2025-12-02T23:15,"San Francisco, USA",Completed
+TXN-000282,U0074,37.08,Starbucks,Food,2025-06-30T12:06,"Austin, USA",Completed
+TXN-001997,U0063,91.62,Apple Store,Shopping,2025-11-11T06:09,"San Francisco, USA",Completed
+TXN-001490,U0105,56.76,Coinbase,Crypto,2025-07-02T08:32,"Seattle, USA",Completed
+TXN-000793,U0018,43.62,Airbnb,Travel,2026-01-25T10:29,"Chicago, USA",Completed
+TXN-000322,U0024,11.09,Subway,Food,2025-11-04T08:10,"New York, USA",Completed
+TXN-000189,U0093,2.5,Kroger,Groceries,2025-07-12T10:36,"New York, USA",Completed
+TXN-001509,U0136,95.13,Comcast,Bills,2026-04-17T08:34,"Seattle, USA",Completed
+TXN-000880,U0044,51.98,Kroger,Groceries,2025-09-14T03:22,"London, UK",Completed
+TXN-000600,U0056,4.2,Chipotle,Food,2026-01-24T07:26,"Los Angeles, USA",Completed
+TXN-000451,U0122,46.86,Costco,Groceries,2025-12-08T12:40,"New York, USA",Completed
+TXN-001291,U0042,128.93,PG&E,Bills,2025-06-09T04:22,"Chicago, USA",Completed
+TXN-001522,U0032,100.5,Comcast,Bills,2025-06-12T05:51,"Los Angeles, USA",Completed
+TXN-001543,U0110,12.88,Amazon,Shopping,2025-09-01T05:22,"Chicago, USA",Completed
+TXN-001966,U0046,11.25,Starbucks,Food,2026-04-07T22:40,"San Francisco, USA",Completed
+TXN-001842,U0039,94.44,Amazon,Shopping,2025-08-05T07:28,"Austin, USA",Completed
+TXN-SUSP-00054,U0127,4233.19,Unverified Marketplace,ATM,2026-05-09T02:00,"London, UK",Completed
+TXN-SUSP-00015,U0139,5530.41,Offshore Exchange,Travel,2026-02-03T01:13,"London, UK",Completed
+TXN-000439,U0007,79.6,Kroger,Groceries,2026-01-26T03:10,"San Francisco, USA",Completed
+TXN-001191,U0133,11.71,Local Deli,Food,2026-02-24T12:08,"Los Angeles, USA",Completed
+TXN-000808,U0023,26.88,Uber,Travel,2025-05-29T03:03,"Seattle, USA",Completed
+TXN-000291,U0110,40.68,Target,Shopping,2025-06-26T02:44,"Chicago, USA",Completed
+TXN-001014,U0079,145.83,Apple Store,Shopping,2025-08-12T00:27,"Toronto, Canada",Completed
+TXN-001380,U0017,23.93,Starbucks,Food,2025-06-13T05:19,"Chicago, USA",Completed
+TXN-SUSP-00089,U0041,3659.79,Offshore Exchange,Travel,2026-03-26T03:01,"Berlin, Germany",Completed
+TXN-000136,U0011,71.9,Trader Joe's,Groceries,2026-04-12T01:01,"Austin, USA",Completed
+TXN-001091,U0022,14.39,Safeway,Groceries,2026-01-17T07:54,"Austin, USA",Completed
+TXN-000100,U0021,200.0,Chase ATM,ATM,2026-04-11T03:20,"San Francisco, USA",Completed
+TXN-000708,U0116,83.95,Whole Foods,Groceries,2025-07-11T00:49,"Seattle, USA",Completed
+TXN-001603,U0048,40.0,Wells Fargo ATM,ATM,2025-10-27T10:29,"Tokyo, Japan",Completed
+TXN-001511,U0115,66.46,Walmart,Shopping,2025-07-22T06:30,"Austin, USA",Completed
+TXN-000434,U0088,119.71,Target,Shopping,2025-10-06T00:08,"San Francisco, USA",Completed
+TXN-001714,U0109,70.7,Spotify,Bills,2025-09-18T01:38,"Los Angeles, USA",Completed
+TXN-000809,U0037,61.25,Best Buy,Shopping,2026-05-15T01:17,"Seattle, USA",Completed
+TXN-000221,U0133,64.16,Amazon,Shopping,2025-06-08T02:35,"Austin, USA",Completed
+TXN-001766,U0040,14.08,Starbucks,Food,2026-02-04T03:42,"Toronto, Canada",Completed
+TXN-000631,U0021,98.15,Netflix,Bills,2025-12-05T04:20,"Austin, USA",Completed
+TXN-SUSP-00004,U0026,3095.72,Luxury Wire Transfer,Travel,2026-02-09T03:22,"London, UK",Pending
+TXN-000238,U0120,86.83,Apple Store,Shopping,2025-07-19T07:19,"New York, USA",Completed
+TXN-000014,U0013,55.85,Walmart,Shopping,2026-02-10T12:09,"Los Angeles, USA",Completed
+TXN-000768,U0014,72.2,Amazon,Shopping,2026-05-11T06:43,"London, UK",Completed
+TXN-001993,U0063,75.05,Kroger,Groceries,2026-02-16T05:55,"San Francisco, USA",Completed
+TXN-001566,U0064,6.77,DoorDash,Food,2026-01-16T00:00,"Austin, USA",Completed
+TXN-001732,U0075,237.18,Uber,Travel,2026-04-13T07:10,Singapore,Completed
+TXN-000520,U0139,36.68,Walmart,Shopping,2026-05-24T02:36,"Seattle, USA",Completed
+TXN-000240,U0041,11.59,DoorDash,Food,2026-03-17T07:16,"Chicago, USA",Completed
+TXN-000757,U0131,40.0,Bank of America ATM,ATM,2025-11-17T23:41,"Austin, USA",Completed
+TXN-001354,U0003,81.73,Whole Foods,Groceries,2025-05-30T07:48,"Seattle, USA",Completed
+TXN-001324,U0046,80.72,Safeway,Groceries,2026-02-17T07:11,"Chicago, USA",Completed
+TXN-001519,U0059,17.4,Chipotle,Food,2026-02-24T09:59,"San Francisco, USA",Completed
+TXN-001048,U0067,25.19,Local Deli,Food,2025-07-29T23:12,"Dubai, UAE",Completed
+TXN-001008,U0109,72.85,Safeway,Groceries,2025-07-15T01:49,"Los Angeles, USA",Completed
+TXN-001333,U0100,114.32,Kroger,Groceries,2025-12-31T01:44,"Berlin, Germany",Completed
+TXN-001359,U0119,16.18,Starbucks,Food,2026-04-19T22:02,"San Francisco, USA",Completed
+TXN-000369,U0110,24.17,Chipotle,Food,2026-01-06T11:04,"San Francisco, USA",Completed
+TXN-001790,U0052,10.14,DoorDash,Food,2025-08-23T08:33,"London, UK",Completed
+TXN-001226,U0051,39.46,Target,Shopping,2025-06-11T02:46,"Dubai, UAE",Pending
+TXN-000675,U0102,112.2,Comcast,Bills,2026-01-27T03:35,"Seattle, USA",Completed
+TXN-001551,U0065,77.65,Trader Joe's,Groceries,2026-01-04T11:35,"Seattle, USA",Completed
+TXN-000788,U0016,143.86,Amazon,Shopping,2025-12-07T09:25,"San Francisco, USA",Completed
+TXN-000577,U0012,6.91,Subway,Food,2026-02-17T10:27,"Seattle, USA",Completed
+TXN-001759,U0059,237.55,Lyft,Travel,2025-10-06T09:16,"Austin, USA",Completed
+TXN-001037,U0111,17.66,Amazon,Shopping,2025-08-05T06:00,"San Francisco, USA",Completed
+TXN-000333,U0075,24.98,Subway,Food,2026-05-23T03:32,"Los Angeles, USA",Completed
+TXN-001340,U0093,25.52,Whole Foods,Groceries,2025-07-04T12:58,"London, UK",Completed
+TXN-001289,U0081,26.42,Verizon,Bills,2026-05-15T11:34,"Seattle, USA",Completed
+TXN-000979,U0125,136.5,Netflix,Bills,2026-02-03T06:06,"Austin, USA",Completed
+TXN-SUSP-00093,U0003,1820.67,Unverified Marketplace,ATM,2026-04-20T02:16,Singapore,Completed
+TXN-001371,U0088,15.19,Subway,Food,2025-08-30T12:10,"San Francisco, USA",Completed
+TXN-000922,U0066,23.85,Chipotle,Food,2025-10-13T11:30,"Los Angeles, USA",Completed
+TXN-001425,U0130,61.27,Airbnb,Travel,2026-04-01T02:40,"Los Angeles, USA",Completed
+TXN-001873,U0138,158.56,Walmart,Shopping,2025-12-15T03:13,"New York, USA",Completed
+TXN-000585,U0055,79.16,Safeway,Groceries,2026-05-19T02:10,"Chicago, USA",Completed
+TXN-001290,U0070,120.19,Amazon,Shopping,2025-12-02T10:16,"New York, USA",Completed
+TXN-001413,U0002,24.66,Chipotle,Food,2025-10-27T06:50,"Los Angeles, USA",Completed
+TXN-001338,U0014,5.57,Chipotle,Food,2025-12-05T05:46,"San Francisco, USA",Pending
+TXN-000122,U0113,274.09,Marriott,Travel,2025-11-11T00:59,"New York, USA",Completed
+TXN-000317,U0036,103.83,Apple Store,Shopping,2025-11-11T09:52,"Los Angeles, USA",Completed
+TXN-000487,U0040,27.91,Amazon,Shopping,2026-03-02T05:34,"San Francisco, USA",Completed
+TXN-001335,U0053,81.26,Costco,Groceries,2026-03-05T02:24,"New York, USA",Completed
+TXN-000974,U0004,140.46,PG&E,Bills,2025-07-09T01:12,"San Francisco, USA",Completed
+TXN-SUSP-00045,U0087,2822.97,Night ATM,Travel,2026-03-19T02:13,"Tokyo, Japan",Completed
+TXN-000669,U0148,110.99,Verizon,Bills,2026-03-26T06:06,"Austin, USA",Completed
+TXN-000116,U0124,82.33,Safeway,Groceries,2025-10-22T05:30,"Berlin, Germany",Completed
+TXN-001170,U0029,20.82,DoorDash,Food,2025-07-24T06:09,"New York, USA",Completed
+TXN-000555,U0021,54.42,Target,Shopping,2026-01-30T00:15,"Los Angeles, USA",Completed
+TXN-SUSP-00012,U0127,3069.01,Unknown Crypto Wallet,Travel,2026-04-29T03:46,"Tokyo, Japan",Completed
+TXN-SUSP-00003,U0022,5388.1,Unknown Crypto Wallet,Crypto,2026-05-13T00:37,Singapore,Pending
+TXN-001974,U0065,164.96,Marriott,Travel,2025-11-23T09:52,"Chicago, USA",Completed
+TXN-000915,U0061,74.55,Target,Shopping,2026-04-21T02:20,"Austin, USA",Completed
+TXN-001621,U0129,156.97,Amazon,Shopping,2026-04-07T04:12,"Toronto, Canada",Completed
+TXN-000722,U0007,96.33,PG&E,Bills,2025-09-01T21:11,"Chicago, USA",Completed
+TXN-001781,U0003,73.68,Delta Airlines,Travel,2025-09-07T05:30,"Austin, USA",Completed
+TXN-000620,U0043,87.68,Costco,Groceries,2026-03-22T11:30,"San Francisco, USA",Completed
+TXN-001362,U0117,88.91,Apple Store,Shopping,2025-06-19T09:23,"Chicago, USA",Completed
+TXN-000427,U0045,124.24,Spotify,Bills,2025-11-24T04:46,"Austin, USA",Completed
+TXN-000680,U0029,200.0,Chase ATM,ATM,2025-10-19T21:25,"Austin, USA",Completed
+TXN-001458,U0098,34.79,Local Deli,Food,2025-12-08T12:05,"Austin, USA",Completed
+TXN-001053,U0064,77.21,Whole Foods,Groceries,2025-09-18T10:08,"San Francisco, USA",Completed
+TXN-001987,U0051,109.71,Costco,Groceries,2025-08-07T01:52,"New York, USA",Completed
+TXN-000894,U0128,35.33,Airbnb,Travel,2025-09-06T06:46,"Chicago, USA",Completed
+TXN-001713,U0136,6.99,Local Deli,Food,2025-11-27T04:48,"San Francisco, USA",Completed
+TXN-SUSP-00024,U0084,2386.78,Night ATM,ATM,2026-05-20T02:04,"London, UK",Completed
+TXN-001902,U0001,11.22,Subway,Food,2025-08-13T03:49,"Los Angeles, USA",Pending
+TXN-000882,U0132,17.82,DoorDash,Food,2025-12-06T10:17,"San Francisco, USA",Completed
+TXN-000545,U0101,18.5,Chipotle,Food,2026-02-23T04:12,"Los Angeles, USA",Completed
+TXN-000857,U0078,71.75,Kroger,Groceries,2025-07-09T01:17,"Chicago, USA",Completed
+TXN-000716,U0149,48.46,DoorDash,Food,2026-04-03T02:33,"Austin, USA",Completed
+TXN-000986,U0013,302.08,Kraken,Crypto,2025-09-23T03:39,"Toronto, Canada",Completed
+TXN-000758,U0144,79.86,Target,Shopping,2026-03-02T22:04,"Los Angeles, USA",Completed
+TXN-001119,U0139,448.79,Lyft,Travel,2026-04-10T04:03,"Austin, USA",Completed
+TXN-000300,U0026,170.45,Target,Shopping,2025-11-26T12:33,"Los Angeles, USA",Completed
+TXN-001617,U0093,21.87,Local Deli,Food,2025-10-15T07:53,"Seattle, USA",Completed
+TXN-001477,U0097,69.06,Kroger,Groceries,2026-03-19T08:17,"Los Angeles, USA",Completed
+TXN-000064,U0133,68.58,Whole Foods,Groceries,2025-12-29T04:15,"Chicago, USA",Completed
+TXN-000325,U0100,34.03,Best Buy,Shopping,2025-06-01T06:30,"Los Angeles, USA",Completed
+TXN-001555,U0071,200.0,Wells Fargo ATM,ATM,2025-06-01T05:06,"Seattle, USA",Completed
+TXN-001179,U0019,127.91,Best Buy,Shopping,2025-11-20T09:29,"Chicago, USA",Completed
+TXN-001246,U0102,42.34,Local Deli,Food,2025-06-26T03:51,"Chicago, USA",Completed
+TXN-001034,U0075,100.0,Bank of America ATM,ATM,2025-06-15T21:56,"Seattle, USA",Completed
+TXN-001002,U0024,54.66,Trader Joe's,Groceries,2026-02-16T06:17,"Chicago, USA",Completed
+TXN-001396,U0038,80.16,Amazon,Shopping,2025-05-30T13:03,"Chicago, USA",Completed
+TXN-000606,U0045,108.64,Marriott,Travel,2025-11-19T09:59,"Chicago, USA",Completed
+TXN-000995,U0133,89.49,Safeway,Groceries,2025-12-21T11:58,"Los Angeles, USA",Completed
+TXN-000428,U0146,114.79,Walmart,Shopping,2025-05-26T09:58,"New York, USA",Completed
+TXN-001556,U0008,224.56,Kraken,Crypto,2025-10-12T22:40,"Los Angeles, USA",Pending
+TXN-001382,U0074,119.0,Walmart,Shopping,2025-08-21T03:26,"Seattle, USA",Completed
+TXN-001495,U0082,38.38,Airbnb,Travel,2025-10-19T07:28,"Los Angeles, USA",Pending
+TXN-000024,U0057,29.08,Starbucks,Food,2026-03-23T04:41,"New York, USA",Completed
+TXN-001625,U0063,106.24,Trader Joe's,Groceries,2026-03-17T11:33,"Seattle, USA",Completed
+TXN-000199,U0026,204.43,Kraken,Crypto,2025-09-16T21:24,"Los Angeles, USA",Completed
+TXN-000050,U0028,93.75,Comcast,Bills,2025-10-09T02:54,"Austin, USA",Completed
+TXN-000174,U0028,100.0,Bank of America ATM,ATM,2026-05-14T08:09,"San Francisco, USA",Completed
+TXN-000621,U0043,100.21,Costco,Groceries,2026-05-18T23:17,"Austin, USA",Completed
+TXN-001825,U0022,227.34,Delta Airlines,Travel,2025-07-07T12:02,"Los Angeles, USA",Completed
+TXN-000819,U0100,63.55,Walmart,Shopping,2026-04-03T11:15,"Austin, USA",Completed
+TXN-000917,U0067,40.0,Chase ATM,ATM,2025-08-15T05:12,"Los Angeles, USA",Completed
+TXN-001201,U0040,25.88,DoorDash,Food,2026-03-10T02:30,"Austin, USA",Completed
+TXN-001558,U0034,40.81,Chipotle,Food,2026-05-22T02:59,"New York, USA",Completed
+TXN-000846,U0009,44.52,Target,Shopping,2025-08-28T03:39,"Seattle, USA",Failed
+TXN-000072,U0057,57.23,Best Buy,Shopping,2025-12-26T04:35,"San Francisco, USA",Completed
+TXN-001377,U0113,35.19,Local Deli,Food,2026-01-01T07:07,"San Francisco, USA",Completed
+TXN-001783,U0030,92.78,Netflix,Bills,2025-07-30T04:08,"New York, USA",Completed
+TXN-000515,U0111,19.36,Subway,Food,2025-05-27T22:39,"Los Angeles, USA",Completed
+TXN-001385,U0020,162.21,Delta Airlines,Travel,2025-06-05T02:20,"San Francisco, USA",Completed
+TXN-000384,U0022,122.13,Apple Store,Shopping,2026-02-25T01:21,"Austin, USA",Completed
+TXN-000817,U0029,171.84,Walmart,Shopping,2026-05-07T07:18,"Austin, USA",Completed
+TXN-SUSP-00059,U0127,2281.29,Unverified Marketplace,Crypto,2026-05-09T04:18,Singapore,Completed
+TXN-001079,U0131,107.42,Comcast,Bills,2026-02-10T09:52,"Austin, USA",Completed
+TXN-000486,U0006,106.41,Verizon,Bills,2026-04-29T00:45,"New York, USA",Completed
+TXN-SUSP-00086,U0110,5015.58,Offshore Exchange,ATM,2026-04-20T01:12,"Toronto, Canada",Completed
+TXN-001229,U0061,27.54,DoorDash,Food,2026-02-05T21:53,"New York, USA",Completed
+TXN-000597,U0008,40.53,Best Buy,Shopping,2026-05-09T12:01,"Chicago, USA",Completed
+TXN-000257,U0064,75.61,Costco,Groceries,2026-04-03T12:16,"San Francisco, USA",Completed
+TXN-001273,U0072,100.76,Uber,Travel,2025-07-22T10:50,"New York, USA",Completed
+TXN-000459,U0032,18.82,DoorDash,Food,2026-01-18T09:44,"Seattle, USA",Completed
+TXN-001115,U0014,65.98,Verizon,Bills,2025-12-11T06:32,"Chicago, USA",Completed
+TXN-001166,U0008,19.31,Starbucks,Food,2025-07-19T10:49,"San Francisco, USA",Pending
+TXN-000021,U0122,241.01,Uber,Travel,2026-02-22T01:12,"Dubai, UAE",Completed
+TXN-001577,U0087,85.21,Lyft,Travel,2025-10-02T08:42,"Chicago, USA",Completed
+TXN-001062,U0131,115.37,Spotify,Bills,2025-09-02T01:44,"San Francisco, USA",Completed
+TXN-001821,U0070,132.46,Best Buy,Shopping,2026-01-02T07:06,"Seattle, USA",Completed
+TXN-000508,U0131,89.47,Spotify,Bills,2026-04-17T07:00,"Chicago, USA",Completed
+TXN-001448,U0061,40.0,Bank of America ATM,ATM,2025-09-02T07:31,"San Francisco, USA",Completed
+TXN-000782,U0047,96.75,Kroger,Groceries,2025-09-02T07:47,"Austin, USA",Completed
+TXN-SUSP-00072,U0087,3202.71,Offshore Exchange,ATM,2026-04-25T02:31,"Berlin, Germany",Completed
+TXN-000375,U0136,6.48,Trader Joe's,Groceries,2026-04-19T01:08,"Chicago, USA",Completed
+TXN-000868,U0137,96.19,PG&E,Bills,2025-10-11T08:10,"Chicago, USA",Completed
+TXN-001983,U0007,2.5,Starbucks,Food,2025-08-08T05:07,"Chicago, USA",Completed
+TXN-001857,U0031,147.07,Apple Store,Shopping,2025-09-05T04:03,"San Francisco, USA",Completed
+TXN-001038,U0116,111.43,Costco,Groceries,2026-04-16T05:52,"San Francisco, USA",Completed
+TXN-000875,U0124,116.81,Whole Foods,Groceries,2025-07-03T21:53,"Los Angeles, USA",Completed
+TXN-000271,U0103,21.36,Subway,Food,2025-12-30T07:09,"Seattle, USA",Completed
+TXN-001001,U0138,127.69,Walmart,Shopping,2025-10-26T23:06,"Austin, USA",Completed
+TXN-001126,U0032,106.31,Verizon,Bills,2025-09-21T21:43,"Austin, USA",Completed
+TXN-000737,U0023,38.66,Uber,Travel,2025-10-31T22:47,"Austin, USA",Completed
+TXN-000383,U0129,200.0,Bank of America ATM,ATM,2026-02-09T06:44,"Los Angeles, USA",Completed
+TXN-000496,U0030,137.73,Amazon,Shopping,2025-12-02T07:15,"Austin, USA",Pending
+TXN-000026,U0122,5.19,Chipotle,Food,2026-03-14T12:19,"Los Angeles, USA",Completed
+TXN-SUSP-00016,U0022,3838.52,Offshore Exchange,ATM,2026-05-07T01:12,"Berlin, Germany",Completed
+TXN-000079,U0043,80.0,Bank of America ATM,ATM,2026-05-19T05:53,"Seattle, USA",Pending
+TXN-001348,U0027,54.3,Walmart,Shopping,2026-05-12T05:29,"Chicago, USA",Completed
+TXN-000033,U0049,35.42,Kroger,Groceries,2026-04-29T12:13,"San Francisco, USA",Pending
+TXN-001767,U0030,100.0,Wells Fargo ATM,ATM,2026-03-02T09:54,"Seattle, USA",Completed
+TXN-000437,U0073,89.47,Apple Store,Shopping,2026-02-26T05:46,"San Francisco, USA",Completed
+TXN-001741,U0114,60.0,Chase ATM,ATM,2025-10-22T23:24,"Los Angeles, USA",Completed
+TXN-001657,U0077,79.19,Delta Airlines,Travel,2026-02-21T12:10,Singapore,Completed
+TXN-000164,U0037,83.93,Costco,Groceries,2025-11-20T21:15,"Chicago, USA",Completed
+TXN-000204,U0001,132.0,Lyft,Travel,2025-08-07T06:31,"Seattle, USA",Completed
+TXN-001994,U0104,130.53,Delta Airlines,Travel,2026-02-10T06:35,"New York, USA",Completed
+TXN-001643,U0094,60.0,Chase ATM,ATM,2026-02-18T04:51,"Seattle, USA",Completed
+TXN-000773,U0066,76.31,Walmart,Shopping,2026-04-06T05:21,"New York, USA",Completed
+TXN-001055,U0062,55.69,Target,Shopping,2025-09-29T00:34,"Tokyo, Japan",Completed
+TXN-000306,U0039,76.85,Safeway,Groceries,2025-08-04T04:08,"New York, USA",Completed
+TXN-001197,U0037,27.24,Verizon,Bills,2025-09-23T22:16,"San Francisco, USA",Completed
+TXN-001285,U0042,76.46,Whole Foods,Groceries,2026-03-31T02:36,"New York, USA",Completed
+TXN-SUSP-00083,U0039,3307.76,Night ATM,ATM,2026-05-04T01:12,"Dubai, UAE",Completed
+TXN-000193,U0115,186.34,Walmart,Shopping,2026-01-08T06:52,"San Francisco, USA",Completed
+TXN-001911,U0087,86.03,Verizon,Bills,2026-01-13T09:51,"San Francisco, USA",Failed
+TXN-000417,U0145,83.34,Costco,Groceries,2026-01-26T12:26,"Chicago, USA",Completed
+TXN-000787,U0083,100.0,Wells Fargo ATM,ATM,2026-01-13T05:53,"San Francisco, USA",Completed
+TXN-001484,U0067,142.15,Binance,Crypto,2025-12-20T01:42,"Los Angeles, USA",Completed
+TXN-000219,U0040,76.46,Best Buy,Shopping,2026-03-11T22:42,"Seattle, USA",Pending
+TXN-SUSP-00080,U0084,1967.42,Luxury Wire Transfer,Crypto,2026-04-08T00:20,"Tokyo, Japan",Completed
+TXN-SUSP-00066,U0087,5477.48,Luxury Wire Transfer,Travel,2026-02-02T02:14,"Tokyo, Japan",Completed
+TXN-000352,U0043,180.49,Walmart,Shopping,2026-01-30T02:39,"Chicago, USA",Completed
+TXN-001789,U0082,116.69,Spotify,Bills,2025-08-30T03:50,"New York, USA",Completed
+TXN-001353,U0056,80.99,Walmart,Shopping,2025-11-25T04:08,"Seattle, USA",Completed
+TXN-000484,U0034,58.57,Whole Foods,Groceries,2025-09-19T04:50,"San Francisco, USA",Completed
+TXN-001415,U0015,17.62,Starbucks,Food,2026-02-08T11:29,Singapore,Completed
+TXN-001527,U0005,36.46,Target,Shopping,2026-05-20T04:28,"Toronto, Canada",Completed
+TXN-000060,U0122,133.45,Best Buy,Shopping,2026-01-07T03:36,"Los Angeles, USA",Pending
+TXN-000837,U0021,109.1,Whole Foods,Groceries,2025-08-30T11:09,"Austin, USA",Completed
+TXN-000423,U0085,130.3,Verizon,Bills,2026-02-19T12:04,Singapore,Completed
+TXN-000410,U0103,37.28,Starbucks,Food,2025-09-16T01:16,"Austin, USA",Completed
+TXN-000074,U0110,200.0,Wells Fargo ATM,ATM,2026-03-09T21:09,"New York, USA",Completed
+TXN-001090,U0054,94.51,Comcast,Bills,2025-12-15T04:18,"Chicago, USA",Completed
+TXN-000163,U0069,19.49,Airbnb,Travel,2026-03-08T21:42,"New York, USA",Completed
+TXN-001816,U0087,58.7,Safeway,Groceries,2026-05-04T09:00,"Toronto, Canada",Completed
+TXN-000582,U0071,69.65,Safeway,Groceries,2026-03-11T08:43,"Toronto, Canada",Completed
+TXN-001259,U0019,38.73,Apple Store,Shopping,2025-08-29T23:13,"Austin, USA",Completed
+TXN-000465,U0027,18.14,DoorDash,Food,2026-05-07T09:41,"New York, USA",Failed
+TXN-000611,U0039,147.94,Airbnb,Travel,2025-09-03T01:55,"Chicago, USA",Completed
+TXN-001472,U0091,95.53,PG&E,Bills,2025-10-03T21:47,"Chicago, USA",Completed
+TXN-000835,U0096,172.68,Airbnb,Travel,2025-10-13T22:08,"Austin, USA",Completed
+TXN-001134,U0064,12.08,Chipotle,Food,2025-09-28T10:15,"Austin, USA",Completed
+TXN-001074,U0054,40.35,Chipotle,Food,2025-12-06T00:25,"Austin, USA",Completed
+TXN-000549,U0146,92.19,PG&E,Bills,2025-09-02T00:15,"Los Angeles, USA",Completed
+TXN-000046,U0079,92.48,Comcast,Bills,2026-01-01T01:06,"Austin, USA",Pending
+TXN-001069,U0124,99.93,Comcast,Bills,2026-01-19T03:19,"Seattle, USA",Pending
+TXN-001810,U0092,47.57,Starbucks,Food,2025-11-10T23:24,"San Francisco, USA",Completed
+TXN-000295,U0116,239.25,Target,Shopping,2026-04-22T00:03,"Los Angeles, USA",Completed
+TXN-001925,U0131,16.42,Subway,Food,2025-05-31T08:07,"Los Angeles, USA",Completed
+TXN-000077,U0011,121.06,Binance,Crypto,2026-04-22T23:53,"Los Angeles, USA",Pending
+TXN-000206,U0100,146.2,Uber,Travel,2025-12-11T12:06,"Berlin, Germany",Completed
+TXN-001531,U0127,43.74,Kroger,Groceries,2026-03-12T04:07,"San Francisco, USA",Completed
+TXN-001593,U0014,211.01,Best Buy,Shopping,2026-04-25T09:31,"Austin, USA",Completed
+TXN-000830,U0009,15.2,Starbucks,Food,2025-12-09T07:37,"San Francisco, USA",Completed
+TXN-000415,U0141,39.73,Target,Shopping,2026-02-05T11:00,"Chicago, USA",Completed
+TXN-000705,U0129,237.6,Lyft,Travel,2026-01-18T11:09,"New York, USA",Completed
+TXN-000756,U0146,100.44,Lyft,Travel,2025-09-08T07:23,"Los Angeles, USA",Completed
+TXN-001233,U0039,104.28,Spotify,Bills,2026-04-03T02:16,"San Francisco, USA",Completed
+TXN-000977,U0121,6.93,Chipotle,Food,2026-05-20T11:35,"New York, USA",Completed
+TXN-000394,U0014,67.02,Kroger,Groceries,2025-12-02T00:36,"San Francisco, USA",Completed
+TXN-001775,U0112,127.73,Target,Shopping,2026-02-24T22:56,"Seattle, USA",Completed
+TXN-000969,U0101,69.28,Safeway,Groceries,2025-08-25T02:57,"New York, USA",Completed
+TXN-000031,U0055,100.0,Chase ATM,ATM,2025-08-19T10:35,"Los Angeles, USA",Completed
+TXN-001182,U0051,89.3,Lyft,Travel,2025-09-10T03:55,"Seattle, USA",Completed
+TXN-001938,U0062,159.14,Comcast,Bills,2025-11-02T08:02,"Chicago, USA",Completed
+TXN-000446,U0021,109.49,Binance,Crypto,2025-07-28T22:31,"Toronto, Canada",Completed
+TXN-001147,U0079,80.03,Spotify,Bills,2026-02-22T09:41,"Seattle, USA",Completed
+TXN-002000,U0061,161.03,Binance,Crypto,2025-12-19T10:58,"San Francisco, USA",Completed
+TXN-001574,U0092,123.72,Verizon,Bills,2025-11-07T00:44,"Los Angeles, USA",Completed
+TXN-000906,U0087,104.36,Comcast,Bills,2025-11-14T12:36,"San Francisco, USA",Completed
+TXN-001041,U0008,61.2,Kroger,Groceries,2025-07-05T23:38,"Los Angeles, USA",Completed
+TXN-001671,U0118,87.86,Trader Joe's,Groceries,2025-11-06T11:18,"Austin, USA",Completed
+TXN-001689,U0093,13.37,Subway,Food,2025-12-16T00:26,"Dubai, UAE",Completed
+TXN-001607,U0107,131.58,Best Buy,Shopping,2025-09-08T21:54,"Seattle, USA",Completed
+TXN-001422,U0129,53.54,Costco,Groceries,2025-05-30T02:26,"Los Angeles, USA",Completed
+TXN-001695,U0068,30.24,Subway,Food,2026-04-11T09:02,"Seattle, USA",Completed
+TXN-000345,U0111,107.76,Airbnb,Travel,2026-04-13T02:15,"Austin, USA",Completed
+TXN-000045,U0039,63.56,Spotify,Bills,2025-05-30T00:08,"Chicago, USA",Completed
+TXN-001903,U0079,70.09,Safeway,Groceries,2025-08-06T23:48,"San Francisco, USA",Completed
+TXN-001605,U0147,92.89,Spotify,Bills,2025-09-26T22:27,"Chicago, USA",Completed
+TXN-000169,U0015,129.46,Delta Airlines,Travel,2025-06-18T04:29,"New York, USA",Completed
+TXN-000304,U0140,13.27,Lyft,Travel,2025-11-22T02:12,"Chicago, USA",Completed
+TXN-001928,U0033,154.36,Marriott,Travel,2025-07-01T01:46,"Los Angeles, USA",Completed
+TXN-001386,U0064,33.69,DoorDash,Food,2026-01-22T21:35,"Chicago, USA",Completed
+TXN-000353,U0092,184.48,Best Buy,Shopping,2026-04-07T22:59,"Tokyo, Japan",Completed
+TXN-000092,U0138,8.13,Chipotle,Food,2025-11-03T00:51,"Tokyo, Japan",Completed
+TXN-001503,U0117,13.77,Chipotle,Food,2026-02-09T07:21,"Seattle, USA",Completed
+TXN-001532,U0145,111.44,Walmart,Shopping,2025-06-13T07:48,"Chicago, USA",Completed
+TXN-001345,U0056,133.35,Trader Joe's,Groceries,2025-11-28T01:01,"New York, USA",Completed
+TXN-000528,U0050,83.28,Spotify,Bills,2026-03-01T03:53,"San Francisco, USA",Completed
+TXN-000262,U0013,136.77,Amazon,Shopping,2026-04-06T04:19,"Seattle, USA",Completed
+TXN-000679,U0022,200.0,Chase ATM,ATM,2025-09-05T08:13,"New York, USA",Completed
+TXN-000744,U0034,89.51,Spotify,Bills,2025-07-05T11:40,"New York, USA",Completed
+TXN-000650,U0048,11.88,Amazon,Shopping,2026-04-17T09:50,"Los Angeles, USA",Completed
+TXN-001112,U0076,79.41,Trader Joe's,Groceries,2025-06-04T00:15,"New York, USA",Completed
+TXN-001909,U0126,108.65,Uber,Travel,2025-12-28T08:47,"Toronto, Canada",Completed
+TXN-000354,U0126,24.34,Subway,Food,2026-03-09T12:30,"Austin, USA",Completed
+TXN-000901,U0025,57.68,Apple Store,Shopping,2025-06-08T07:28,"Austin, USA",Failed
+TXN-001164,U0023,68.62,Kroger,Groceries,2025-06-11T01:35,"Austin, USA",Completed
+TXN-001058,U0111,71.96,Whole Foods,Groceries,2026-01-06T22:23,"New York, USA",Completed
+TXN-000186,U0143,78.05,PG&E,Bills,2025-06-28T07:10,"Seattle, USA",Completed
+TXN-SUSP-00030,U0041,5855.19,Offshore Exchange,Travel,2026-01-30T03:16,"Dubai, UAE",Completed
+TXN-000638,U0065,25.44,Subway,Food,2025-08-26T04:01,"Los Angeles, USA",Completed
+TXN-000573,U0131,64.5,Kroger,Groceries,2025-08-07T02:43,"San Francisco, USA",Completed
+TXN-001300,U0080,15.51,Coinbase,Crypto,2025-06-02T01:53,"Chicago, USA",Pending
+TXN-000301,U0106,101.46,Costco,Groceries,2025-09-07T08:24,"New York, USA",Completed
+TXN-001334,U0033,40.0,Wells Fargo ATM,ATM,2025-08-15T10:18,"Chicago, USA",Completed
+TXN-000839,U0107,78.48,Kroger,Groceries,2026-04-11T21:22,"Berlin, Germany",Completed
+TXN-001010,U0128,115.23,Spotify,Bills,2025-12-14T05:41,"Seattle, USA",Failed
+TXN-000481,U0099,110.55,PG&E,Bills,2025-11-01T01:10,"Chicago, USA",Completed
+TXN-001557,U0140,94.89,Crypto.com,Crypto,2026-02-01T02:34,"Los Angeles, USA",Completed
+TXN-001722,U0019,100.14,Kroger,Groceries,2026-04-03T11:13,"Los Angeles, USA",Completed
+TXN-001323,U0117,116.17,Uber,Travel,2026-05-19T12:45,"Austin, USA",Completed
+TXN-001565,U0006,37.04,Starbucks,Food,2025-08-29T07:41,"Los Angeles, USA",Completed
+TXN-000316,U0145,56.46,Netflix,Bills,2025-07-04T06:14,"San Francisco, USA",Completed
+TXN-001476,U0055,27.27,Chipotle,Food,2026-03-23T21:10,"Los Angeles, USA",Completed
+TXN-000454,U0059,216.54,Best Buy,Shopping,2026-05-17T00:59,"New York, USA",Failed
+TXN-000807,U0097,200.0,Chase ATM,ATM,2025-08-02T00:54,"Los Angeles, USA",Completed
+TXN-001081,U0057,121.81,Spotify,Bills,2026-04-22T22:17,"Los Angeles, USA",Completed
+TXN-000176,U0090,112.67,Spotify,Bills,2026-02-11T04:01,"Austin, USA",Pending
+TXN-001883,U0072,78.1,Walmart,Shopping,2025-12-28T08:08,"Austin, USA",Completed
+TXN-000580,U0002,52.74,Verizon,Bills,2026-03-17T00:37,"Austin, USA",Completed
+TXN-000983,U0076,83.71,Spotify,Bills,2026-04-27T11:12,"Seattle, USA",Completed
+TXN-001733,U0064,87.07,Costco,Groceries,2025-11-25T08:26,"San Francisco, USA",Completed
+TXN-000841,U0149,76.01,Trader Joe's,Groceries,2026-02-16T07:30,"Austin, USA",Completed
+TXN-000124,U0085,123.77,Netflix,Bills,2026-04-22T23:58,"Los Angeles, USA",Completed
+TXN-000472,U0086,12.73,DoorDash,Food,2026-03-08T02:47,"Seattle, USA",Completed
+TXN-000533,U0057,112.59,Apple Store,Shopping,2025-12-17T23:26,"Los Angeles, USA",Completed
+TXN-000608,U0069,74.14,Target,Shopping,2025-08-29T05:19,"Chicago, USA",Completed
+TXN-000395,U0073,156.08,Crypto.com,Crypto,2025-06-30T11:59,"Los Angeles, USA",Completed
+TXN-001344,U0008,14.4,Local Deli,Food,2025-10-03T00:16,"Chicago, USA",Completed
+TXN-001426,U0104,20.24,DoorDash,Food,2026-03-23T08:41,"New York, USA",Completed
+TXN-000040,U0113,8.45,Chipotle,Food,2025-12-01T06:14,"Los Angeles, USA",Completed
+TXN-000463,U0045,10.93,Starbucks,Food,2026-01-23T01:45,"Seattle, USA",Completed
+TXN-001804,U0101,101.86,Safeway,Groceries,2025-12-03T06:17,"New York, USA",Completed
+TXN-000583,U0095,16.2,Local Deli,Food,2026-03-07T12:15,"Chicago, USA",Completed
+TXN-000332,U0140,56.59,Costco,Groceries,2025-07-23T03:41,"San Francisco, USA",Completed
+TXN-000535,U0083,72.06,Apple Store,Shopping,2026-04-09T04:06,"Austin, USA",Completed
+TXN-000409,U0119,23.87,Subway,Food,2026-01-12T04:10,"New York, USA",Completed
+TXN-000195,U0052,78.89,Best Buy,Shopping,2026-02-07T10:14,"Los Angeles, USA",Completed
+TXN-000615,U0051,216.31,Amazon,Shopping,2025-12-22T00:26,"Chicago, USA",Completed
+TXN-001005,U0077,48.98,Uber,Travel,2025-06-19T00:32,"Chicago, USA",Completed
+TXN-000706,U0083,100.0,Wells Fargo ATM,ATM,2026-03-01T01:29,"Chicago, USA",Completed
+TXN-001848,U0032,15.63,DoorDash,Food,2026-05-11T10:43,"Chicago, USA",Completed
+TXN-000323,U0048,41.88,Target,Shopping,2025-07-17T01:09,"Austin, USA",Completed
+TXN-000267,U0010,54.01,Safeway,Groceries,2025-08-29T07:00,"New York, USA",Completed
+TXN-001547,U0043,4.15,Chipotle,Food,2025-07-11T01:13,"Chicago, USA",Completed
+TXN-001517,U0006,83.14,Kraken,Crypto,2025-07-30T21:50,"Los Angeles, USA",Completed
+TXN-001269,U0136,100.0,Chase ATM,ATM,2026-03-31T01:15,"Austin, USA",Completed
+TXN-001054,U0007,42.3,Starbucks,Food,2025-06-09T12:31,"Chicago, USA",Completed
+TXN-001748,U0142,67.79,Local Deli,Food,2025-09-19T08:49,"Los Angeles, USA",Completed
+TXN-001865,U0018,195.87,Lyft,Travel,2026-02-04T00:03,"New York, USA",Completed
+TXN-000637,U0038,189.59,Amazon,Shopping,2025-11-10T23:57,"New York, USA",Completed
+TXN-001678,U0076,112.7,Airbnb,Travel,2025-06-05T09:40,"New York, USA",Completed
+TXN-000544,U0113,126.3,Target,Shopping,2026-03-31T23:22,"Austin, USA",Completed
+TXN-SUSP-00006,U0039,1602.72,Offshore Exchange,Travel,2026-05-13T03:39,"Tokyo, Japan",Pending
+TXN-001855,U0064,166.97,Walmart,Shopping,2025-11-27T22:34,"San Francisco, USA",Completed
+TXN-001651,U0117,200.0,Wells Fargo ATM,ATM,2026-01-07T03:41,"Toronto, Canada",Completed
+TXN-SUSP-00074,U0087,5853.69,Night ATM,Travel,2026-02-21T02:54,"Berlin, Germany",Completed
+TXN-001615,U0032,63.03,Trader Joe's,Groceries,2025-12-04T01:28,"New York, USA",Completed
+TXN-000783,U0135,23.66,Starbucks,Food,2025-06-01T10:10,"New York, USA",Completed
+TXN-000813,U0029,79.1,Comcast,Bills,2025-10-13T22:16,"Los Angeles, USA",Completed
+TXN-001011,U0130,138.34,Netflix,Bills,2025-12-25T02:13,"New York, USA",Completed
+TXN-001076,U0096,12.56,Chipotle,Food,2025-09-01T09:48,"Austin, USA",Completed
+TXN-001139,U0040,261.45,Delta Airlines,Travel,2025-08-03T12:16,"London, UK",Completed
+TXN-000963,U0109,93.55,Safeway,Groceries,2025-10-10T10:09,"Los Angeles, USA",Completed
+TXN-001567,U0074,100.0,Chase ATM,ATM,2025-08-01T06:07,"San Francisco, USA",Completed
+TXN-001442,U0145,75.01,Trader Joe's,Groceries,2026-02-01T23:55,"London, UK",Completed
+TXN-000832,U0029,40.0,Wells Fargo ATM,ATM,2026-05-06T09:00,"Austin, USA",Completed
+TXN-000366,U0017,92.03,Verizon,Bills,2026-01-15T08:58,"Los Angeles, USA",Completed
+TXN-001352,U0008,146.65,Apple Store,Shopping,2026-04-21T08:29,"New York, USA",Completed
+TXN-001111,U0113,131.07,Uber,Travel,2025-07-07T04:49,"New York, USA",Completed
+TXN-000687,U0101,14.76,Local Deli,Food,2025-10-29T07:35,"Seattle, USA",Completed
+TXN-001406,U0091,49.19,Spotify,Bills,2026-05-11T08:33,"Austin, USA",Completed
+TXN-001240,U0071,136.28,Target,Shopping,2026-03-23T08:19,"San Francisco, USA",Completed
+TXN-001469,U0067,122.26,PG&E,Bills,2025-06-27T11:15,"Los Angeles, USA",Completed
+TXN-001782,U0003,41.63,Walmart,Shopping,2026-01-30T05:42,"Seattle, USA",Completed
+TXN-001028,U0083,76.59,Amazon,Shopping,2025-11-05T01:30,"San Francisco, USA",Pending
+TXN-000966,U0064,142.02,Lyft,Travel,2025-07-30T06:57,"Chicago, USA",Completed
+TXN-000319,U0070,98.88,Kroger,Groceries,2025-12-15T07:05,"Los Angeles, USA",Completed
+TXN-001891,U0060,20.91,Airbnb,Travel,2026-03-08T12:54,"Seattle, USA",Completed
+TXN-001294,U0050,49.45,DoorDash,Food,2025-10-17T09:36,"Austin, USA",Completed
+TXN-001592,U0033,83.78,Netflix,Bills,2025-06-01T02:24,"Chicago, USA",Completed
+TXN-000874,U0034,5.88,Chipotle,Food,2025-10-30T01:17,"Berlin, Germany",Completed
+TXN-001084,U0116,8.04,Starbucks,Food,2026-01-19T07:31,"Chicago, USA",Completed
+TXN-000344,U0041,145.67,Binance,Crypto,2026-02-14T02:39,"Austin, USA",Completed
+TXN-000399,U0097,23.67,Verizon,Bills,2025-11-12T21:52,"Los Angeles, USA",Completed
+TXN-001552,U0094,110.1,Target,Shopping,2025-08-24T21:59,"Los Angeles, USA",Completed
+TXN-000293,U0058,18.25,Local Deli,Food,2026-01-23T04:58,"Austin, USA",Completed
+TXN-001467,U0003,69.29,Safeway,Groceries,2026-01-16T21:32,"Chicago, USA",Pending
+TXN-001874,U0100,153.98,PG&E,Bills,2026-03-06T08:36,"San Francisco, USA",Completed
+TXN-001942,U0063,45.39,Costco,Groceries,2025-08-27T12:27,"Austin, USA",Completed
+TXN-000142,U0017,25.8,Local Deli,Food,2025-11-09T04:45,"Seattle, USA",Completed
+TXN-001245,U0071,63.37,Apple Store,Shopping,2025-06-06T02:42,"Seattle, USA",Completed
+TXN-000003,U0115,117.67,Spotify,Bills,2025-09-04T10:18,"Chicago, USA",Completed
+TXN-001357,U0127,45.69,Trader Joe's,Groceries,2025-09-02T22:55,"Chicago, USA",Failed
+TXN-000340,U0124,60.42,Spotify,Bills,2025-08-11T08:05,"New York, USA",Completed
+TXN-000742,U0013,93.77,Walmart,Shopping,2025-06-09T13:01,"New York, USA",Completed
+TXN-000266,U0046,99.41,Whole Foods,Groceries,2025-08-23T11:00,"Dubai, UAE",Completed
+TXN-000377,U0099,7.95,Starbucks,Food,2025-08-05T00:41,"Austin, USA",Completed
+TXN-000980,U0005,92.97,Safeway,Groceries,2025-09-20T22:37,"Austin, USA",Completed
+TXN-000440,U0102,133.83,Crypto.com,Crypto,2025-07-24T06:54,"Chicago, USA",Completed
+TXN-000272,U0099,52.04,DoorDash,Food,2025-09-29T21:20,"San Francisco, USA",Completed
+TXN-000245,U0141,97.95,Uber,Travel,2025-12-09T11:52,"San Francisco, USA",Failed
+TXN-001165,U0124,278.82,Airbnb,Travel,2025-08-20T11:11,"Seattle, USA",Completed
+TXN-000713,U0105,61.62,Trader Joe's,Groceries,2025-09-14T12:33,"Austin, USA",Completed
+TXN-000998,U0142,85.31,Spotify,Bills,2025-10-24T10:29,"Los Angeles, USA",Completed
+TXN-001468,U0149,51.33,Marriott,Travel,2025-09-14T10:07,"Dubai, UAE",Completed
+TXN-000416,U0140,103.28,Best Buy,Shopping,2025-09-05T04:44,"Los Angeles, USA",Failed
+TXN-000274,U0129,23.6,DoorDash,Food,2025-08-15T09:47,Singapore,Completed
+TXN-000862,U0031,41.51,Walmart,Shopping,2026-02-01T04:05,"Los Angeles, USA",Completed
+TXN-000251,U0122,132.59,Kraken,Crypto,2026-05-12T21:42,"San Francisco, USA",Completed
+TXN-000414,U0039,127.16,Walmart,Shopping,2025-10-13T05:32,"New York, USA",Completed
+TXN-001186,U0023,159.66,Apple Store,Shopping,2025-08-22T09:53,"Los Angeles, USA",Completed
+TXN-001414,U0031,6.22,Starbucks,Food,2025-05-26T01:42,"Chicago, USA",Completed
+TXN-000311,U0009,97.39,Walmart,Shopping,2025-10-25T23:45,"New York, USA",Completed
+TXN-001341,U0020,27.78,Starbucks,Food,2025-12-22T23:35,"San Francisco, USA",Completed
+TXN-001387,U0038,14.87,DoorDash,Food,2025-09-19T02:52,"Los Angeles, USA",Completed
+TXN-000426,U0082,84.97,Walmart,Shopping,2026-01-04T12:45,"San Francisco, USA",Pending
+TXN-SUSP-00025,U0087,4324.2,Unverified Marketplace,Shopping,2026-02-12T02:34,"Berlin, Germany",Pending
+TXN-SUSP-00090,U0026,2579.68,Offshore Exchange,ATM,2026-05-12T00:50,Singapore,Completed
+TXN-001361,U0089,58.66,Costco,Groceries,2025-10-13T07:52,"Austin, USA",Completed
+TXN-001465,U0069,27.84,Uber,Travel,2026-04-06T05:27,"Seattle, USA",Completed
+TXN-000820,U0033,22.1,DoorDash,Food,2025-10-11T03:25,"New York, USA",Completed
+TXN-001117,U0017,30.55,Starbucks,Food,2025-11-14T03:47,"San Francisco, USA",Completed
+TXN-001478,U0058,79.81,Safeway,Groceries,2026-04-22T23:08,"Chicago, USA",Failed
+TXN-000527,U0058,79.5,Trader Joe's,Groceries,2026-04-08T11:57,"London, UK",Completed
+TXN-001601,U0135,115.77,Best Buy,Shopping,2026-05-13T05:02,"Chicago, USA",Completed
+TXN-000760,U0045,63.25,Best Buy,Shopping,2026-03-01T03:46,"Chicago, USA",Completed
+TXN-000183,U0088,165.21,Lyft,Travel,2025-06-26T11:10,"Berlin, Germany",Completed
+TXN-000171,U0144,2.5,Subway,Food,2026-02-22T04:36,"Los Angeles, USA",Completed
+TXN-001832,U0048,124.69,Netflix,Bills,2025-10-19T22:32,"Chicago, USA",Completed
+TXN-001677,U0047,67.2,Best Buy,Shopping,2025-08-11T07:08,"Seattle, USA",Completed
+TXN-SUSP-00027,U0110,2678.28,Unknown Crypto Wallet,ATM,2026-03-16T03:01,"Berlin, Germany",Completed
+TXN-001780,U0067,34.21,Chipotle,Food,2026-03-28T04:43,"Los Angeles, USA",Completed
+TXN-001619,U0074,92.09,Safeway,Groceries,2025-08-14T02:29,"New York, USA",Completed
+TXN-000747,U0017,80.88,Costco,Groceries,2026-01-13T12:05,"Chicago, USA",Completed
+TXN-000273,U0093,50.62,Kraken,Crypto,2026-03-19T21:20,"Seattle, USA",Completed
+TXN-001670,U0093,4.13,Starbucks,Food,2026-05-19T07:58,"London, UK",Completed
+TXN-001888,U0012,88.47,Safeway,Groceries,2025-08-22T21:40,"Seattle, USA",Pending
+TXN-001045,U0010,126.54,Trader Joe's,Groceries,2025-09-22T12:27,"San Francisco, USA",Completed
+TXN-000372,U0058,31.08,Chipotle,Food,2026-01-24T23:12,"Chicago, USA",Completed
+TXN-000223,U0114,13.68,Chipotle,Food,2025-07-02T11:15,"Toronto, Canada",Completed
+TXN-000594,U0045,67.5,Best Buy,Shopping,2026-03-15T21:20,"Austin, USA",Completed
+TXN-001526,U0024,103.99,Crypto.com,Crypto,2025-12-04T06:31,"San Francisco, USA",Completed
+TXN-000655,U0094,107.76,Safeway,Groceries,2026-02-19T05:07,"San Francisco, USA",Completed
+TXN-000916,U0144,29.0,Chipotle,Food,2025-10-31T11:35,"Toronto, Canada",Completed
+TXN-000519,U0054,52.91,Kroger,Groceries,2026-04-14T03:16,"Seattle, USA",Completed
+TXN-000335,U0123,14.43,Netflix,Bills,2025-07-02T11:42,"Chicago, USA",Completed
+TXN-001423,U0039,149.86,Apple Store,Shopping,2025-12-10T23:15,"Austin, USA",Completed
+TXN-001581,U0043,41.06,Chipotle,Food,2025-11-19T11:29,"Chicago, USA",Completed
+TXN-001597,U0095,10.3,Subway,Food,2026-01-16T08:07,"San Francisco, USA",Completed
+TXN-000772,U0033,60.28,Whole Foods,Groceries,2025-10-19T12:09,"Chicago, USA",Completed
+TXN-000016,U0138,47.81,Apple Store,Shopping,2025-05-31T00:47,"Los Angeles, USA",Completed
+TXN-000944,U0066,16.44,Subway,Food,2026-05-23T10:51,"New York, USA",Completed
+TXN-001613,U0120,10.94,Delta Airlines,Travel,2025-10-22T07:32,"New York, USA",Completed
+TXN-001660,U0086,80.0,Bank of America ATM,ATM,2025-10-28T08:13,"Seattle, USA",Completed
+TXN-001818,U0022,200.0,Wells Fargo ATM,ATM,2025-09-03T07:22,"Austin, USA",Failed
+TXN-000571,U0145,3.44,DoorDash,Food,2025-08-26T09:42,"Seattle, USA",Completed
+TXN-000889,U0149,43.41,Walmart,Shopping,2025-12-29T12:21,"Chicago, USA",Completed
+TXN-001736,U0024,86.84,Trader Joe's,Groceries,2025-11-04T06:10,"Seattle, USA",Completed
+TXN-000466,U0028,277.29,Kraken,Crypto,2026-03-09T06:23,"Chicago, USA",Completed
+TXN-000907,U0138,160.05,Binance,Crypto,2026-02-03T23:57,"San Francisco, USA",Completed
+TXN-000200,U0121,78.15,Trader Joe's,Groceries,2025-06-14T07:02,"Seattle, USA",Completed
+TXN-001303,U0036,63.52,Best Buy,Shopping,2025-10-04T11:45,"Dubai, UAE",Failed
+TXN-001180,U0034,114.14,Comcast,Bills,2026-05-19T09:10,"Austin, USA",Completed
+TXN-001494,U0013,80.77,Trader Joe's,Groceries,2025-10-25T12:25,"Chicago, USA",Completed
+TXN-001407,U0108,76.24,Amazon,Shopping,2026-03-07T21:53,"New York, USA",Completed
+TXN-001000,U0089,133.27,Walmart,Shopping,2026-02-28T11:48,"Los Angeles, USA",Completed
+TXN-000592,U0024,73.2,Spotify,Bills,2025-06-02T00:02,"Chicago, USA",Completed
+TXN-000858,U0002,302.07,Coinbase,Crypto,2026-03-24T09:09,"Austin, USA",Completed
+TXN-SUSP-00002,U0022,3026.61,Unverified Marketplace,Crypto,2026-02-28T02:43,Singapore,Failed
+TXN-001655,U0078,146.16,Lyft,Travel,2025-06-28T10:47,"New York, USA",Completed
+TXN-001886,U0006,67.19,Safeway,Groceries,2026-03-18T05:21,"Seattle, USA",Completed
+TXN-000789,U0101,34.39,Starbucks,Food,2026-02-01T03:43,"San Francisco, USA",Completed
+TXN-001739,U0020,211.74,Marriott,Travel,2025-10-24T02:29,"San Francisco, USA",Completed
+TXN-000044,U0068,154.29,Amazon,Shopping,2025-11-12T01:44,"San Francisco, USA",Completed
+TXN-000931,U0014,60.91,Costco,Groceries,2026-01-12T21:52,"Seattle, USA",Completed
+TXN-000275,U0057,41.99,Whole Foods,Groceries,2026-04-18T06:27,"San Francisco, USA",Completed
+TXN-001453,U0063,115.89,Target,Shopping,2025-11-29T06:59,"Chicago, USA",Completed
+TXN-000102,U0068,83.73,Netflix,Bills,2025-07-01T05:03,"Los Angeles, USA",Completed
+TXN-001152,U0105,12.31,Starbucks,Food,2025-08-27T03:20,"Austin, USA",Completed
+TXN-000860,U0144,326.26,Delta Airlines,Travel,2026-03-21T06:35,"Seattle, USA",Completed
+TXN-001562,U0069,30.24,Chipotle,Food,2026-02-06T01:50,"New York, USA",Completed
+TXN-000108,U0072,13.12,Local Deli,Food,2026-04-24T12:02,"San Francisco, USA",Completed
+TXN-000810,U0047,84.92,Walmart,Shopping,2026-04-02T22:42,"Seattle, USA",Completed
+TXN-000498,U0124,59.68,Starbucks,Food,2025-08-15T00:30,"Los Angeles, USA",Completed
+TXN-SUSP-00091,U0026,4238.06,Unverified Marketplace,Travel,2026-04-26T01:31,Singapore,Pending
+TXN-001390,U0133,79.06,Marriott,Travel,2026-01-28T00:21,"Seattle, USA",Completed
+TXN-001443,U0021,90.03,Whole Foods,Groceries,2025-11-18T23:30,"Los Angeles, USA",Completed
+TXN-000731,U0030,436.25,Lyft,Travel,2026-03-14T09:15,"Los Angeles, USA",Completed
+TXN-SUSP-00010,U0003,4068.38,Unknown Crypto Wallet,Travel,2026-05-09T01:56,"Toronto, Canada",Completed
+TXN-001199,U0117,181.65,Delta Airlines,Travel,2025-12-07T02:29,"New York, USA",Completed
+TXN-001913,U0129,35.42,Verizon,Bills,2026-02-09T11:08,"San Francisco, USA",Completed
+TXN-001812,U0039,34.11,Amazon,Shopping,2026-03-09T03:01,"San Francisco, USA",Completed
+TXN-001235,U0087,86.03,Target,Shopping,2026-05-19T04:18,"Austin, USA",Completed
+TXN-000694,U0106,16.76,Chipotle,Food,2025-06-10T08:00,"Tokyo, Japan",Completed
+TXN-000073,U0033,61.89,Best Buy,Shopping,2025-08-18T12:02,"Berlin, Germany",Completed
+TXN-000950,U0049,36.23,Subway,Food,2025-08-11T11:07,"New York, USA",Completed
+TXN-001549,U0099,19.57,Local Deli,Food,2025-12-13T09:53,"Seattle, USA",Completed
+TXN-001262,U0139,40.0,Wells Fargo ATM,ATM,2025-05-31T21:54,"Seattle, USA",Completed
+TXN-001620,U0149,40.85,Trader Joe's,Groceries,2026-05-10T00:28,"Seattle, USA",Failed
+TXN-000482,U0134,12.74,Starbucks,Food,2025-10-25T06:33,"Chicago, USA",Completed
+TXN-001158,U0103,76.13,Target,Shopping,2025-07-15T21:33,"Seattle, USA",Completed
+TXN-000507,U0141,44.46,Subway,Food,2025-12-22T22:39,"New York, USA",Completed
+TXN-001223,U0096,95.0,Costco,Groceries,2025-09-18T12:29,"San Francisco, USA",Completed
+TXN-000908,U0024,52.59,Apple Store,Shopping,2025-12-17T04:43,"Seattle, USA",Completed
+TXN-SUSP-00095,U0127,3961.5,Night ATM,Shopping,2026-03-18T00:53,"Toronto, Canada",Completed
+TXN-001056,U0113,52.85,Kroger,Groceries,2025-09-23T23:53,"Los Angeles, USA",Completed
+TXN-000781,U0150,223.36,Target,Shopping,2025-10-09T00:20,"Austin, USA",Completed
+TXN-001800,U0139,86.43,Trader Joe's,Groceries,2025-06-16T11:30,"Los Angeles, USA",Failed
+TXN-000312,U0044,121.86,Uber,Travel,2026-04-16T21:48,"New York, USA",Completed
+TXN-001481,U0081,10.09,Walmart,Shopping,2025-11-27T04:33,"Seattle, USA",Completed
+TXN-000406,U0031,94.27,Safeway,Groceries,2025-10-30T11:20,"New York, USA",Completed
+TXN-001961,U0090,100.96,Best Buy,Shopping,2025-07-10T10:20,"San Francisco, USA",Completed
+TXN-001720,U0071,200.0,Chase ATM,ATM,2025-09-08T11:13,"Los Angeles, USA",Completed
+TXN-001320,U0033,58.68,Best Buy,Shopping,2025-10-06T21:32,"Seattle, USA",Completed
+TXN-001360,U0005,38.09,Apple Store,Shopping,2026-02-19T22:25,"New York, USA",Completed
+TXN-000310,U0096,124.71,Target,Shopping,2025-10-09T09:09,"Tokyo, Japan",Completed
+TXN-000227,U0080,105.12,Kroger,Groceries,2025-07-30T23:08,"Austin, USA",Completed
+TXN-001833,U0032,33.56,Kraken,Crypto,2025-08-07T03:48,"Seattle, USA",Completed
+TXN-000999,U0136,25.61,Target,Shopping,2025-05-30T06:01,"Seattle, USA",Completed
+TXN-001337,U0062,158.3,Walmart,Shopping,2026-01-13T08:15,"Seattle, USA",Completed
+TXN-001774,U0137,40.0,Wells Fargo ATM,ATM,2025-08-22T07:51,"New York, USA",Pending
+TXN-SUSP-00078,U0041,4769.91,Unknown Crypto Wallet,ATM,2026-04-26T04:09,"Tokyo, Japan",Completed
+TXN-000938,U0135,31.39,Local Deli,Food,2025-07-24T21:49,"Austin, USA",Completed
+TXN-000149,U0056,275.76,Binance,Crypto,2025-06-30T03:41,"Los Angeles, USA",Completed
+TXN-000765,U0140,57.46,Local Deli,Food,2025-10-10T11:03,"Chicago, USA",Completed
+TXN-001252,U0022,8.03,DoorDash,Food,2026-04-14T08:24,"Dubai, UAE",Completed
+TXN-001840,U0091,26.61,Local Deli,Food,2025-08-20T22:48,"Austin, USA",Completed
+TXN-000693,U0143,40.0,Chase ATM,ATM,2026-04-26T02:24,"Chicago, USA",Completed
+TXN-000965,U0120,72.58,Comcast,Bills,2026-02-02T23:22,"Austin, USA",Completed
+TXN-000988,U0088,30.99,Local Deli,Food,2025-09-17T12:20,"Los Angeles, USA",Completed
+TXN-000576,U0034,100.0,Wells Fargo ATM,ATM,2025-06-14T00:09,"London, UK",Completed
+TXN-000558,U0101,107.77,Marriott,Travel,2026-01-22T01:27,"San Francisco, USA",Completed
+TXN-001747,U0130,84.2,Spotify,Bills,2026-03-18T01:10,"Seattle, USA",Completed
+TXN-000702,U0117,99.72,Whole Foods,Groceries,2026-02-16T00:32,"Los Angeles, USA",Completed
+TXN-001311,U0010,34.48,Subway,Food,2025-07-23T05:33,"Chicago, USA",Pending
+TXN-001250,U0011,14.24,Chipotle,Food,2025-06-18T04:22,"Seattle, USA",Pending
+TXN-000989,U0132,113.21,Kroger,Groceries,2025-10-09T01:58,"Seattle, USA",Completed
+TXN-001456,U0113,64.55,Trader Joe's,Groceries,2025-06-13T04:48,"Seattle, USA",Completed
+TXN-001256,U0115,49.8,Walmart,Shopping,2026-03-19T09:13,"San Francisco, USA",Completed
+TXN-SUSP-00077,U0039,2657.72,Night ATM,Crypto,2026-04-13T03:16,"London, UK",Completed
+TXN-000168,U0029,116.51,Apple Store,Shopping,2025-07-23T08:31,"San Francisco, USA",Completed
+TXN-001101,U0052,51.1,Comcast,Bills,2026-03-31T06:41,"Chicago, USA",Completed
+TXN-000287,U0005,78.01,Whole Foods,Groceries,2025-06-11T10:43,"San Francisco, USA",Completed
+TXN-001727,U0125,144.99,Target,Shopping,2025-07-06T21:10,"San Francisco, USA",Completed
+TXN-001968,U0119,79.85,Costco,Groceries,2025-08-25T00:53,"Chicago, USA",Completed
+TXN-000629,U0111,16.84,Subway,Food,2026-01-25T06:04,"Los Angeles, USA",Completed
+TXN-000599,U0103,145.7,Delta Airlines,Travel,2025-09-30T06:09,"Seattle, USA",Completed
+TXN-001059,U0106,144.3,Delta Airlines,Travel,2025-12-07T09:10,"San Francisco, USA",Completed
+TXN-000943,U0083,60.66,Amazon,Shopping,2026-01-21T01:59,"Berlin, Germany",Completed
+TXN-001764,U0114,54.85,Trader Joe's,Groceries,2026-02-09T01:56,"New York, USA",Completed
+TXN-001279,U0142,47.74,Trader Joe's,Groceries,2025-10-23T11:13,"Berlin, Germany",Completed
+TXN-001709,U0033,65.6,Safeway,Groceries,2026-04-18T21:38,"New York, USA",Failed
+TXN-001129,U0074,35.92,Whole Foods,Groceries,2026-02-16T10:45,"Los Angeles, USA",Completed
+TXN-001330,U0107,24.18,DoorDash,Food,2025-10-10T05:23,"Seattle, USA",Completed
+TXN-000953,U0073,8.1,DoorDash,Food,2025-07-12T03:59,"San Francisco, USA",Completed
+TXN-000042,U0073,4.24,Starbucks,Food,2026-03-05T01:21,"Seattle, USA",Completed
+TXN-001321,U0140,19.06,Uber,Travel,2025-09-14T03:30,"Los Angeles, USA",Completed
+TXN-001491,U0047,45.37,Best Buy,Shopping,2026-05-19T01:50,"Seattle, USA",Completed
+TXN-000942,U0064,156.63,Target,Shopping,2025-09-23T12:02,"Austin, USA",Completed
+TXN-000753,U0028,95.12,Target,Shopping,2025-12-18T23:42,"Seattle, USA",Completed
+TXN-000610,U0026,52.17,Apple Store,Shopping,2025-08-01T04:56,"Seattle, USA",Completed
+TXN-001133,U0021,94.59,Local Deli,Food,2025-09-07T04:36,"Austin, USA",Completed
+TXN-000940,U0111,40.83,Costco,Groceries,2026-02-03T09:12,"Los Angeles, USA",Completed
+TXN-001539,U0065,47.06,Walmart,Shopping,2026-04-05T08:37,"Chicago, USA",Completed
+TXN-001890,U0001,94.13,Trader Joe's,Groceries,2026-05-14T11:55,"Toronto, Canada",Completed
+TXN-001685,U0113,14.08,Chipotle,Food,2025-12-05T22:32,"Austin, USA",Completed
+TXN-000494,U0030,22.95,Costco,Groceries,2025-11-26T07:31,"New York, USA",Completed
+TXN-001862,U0014,23.73,Chipotle,Food,2025-11-06T21:11,"Los Angeles, USA",Completed
+TXN-000278,U0039,120.0,Chase ATM,ATM,2025-06-26T03:40,"San Francisco, USA",Completed
+TXN-001996,U0139,95.17,Crypto.com,Crypto,2025-08-12T00:48,"Chicago, USA",Completed
+TXN-000359,U0090,54.6,Amazon,Shopping,2025-09-24T03:55,"Los Angeles, USA",Completed
+TXN-001203,U0086,116.03,Target,Shopping,2026-04-17T23:27,"Los Angeles, USA",Completed
+TXN-000237,U0089,55.63,Walmart,Shopping,2025-11-02T07:50,"Berlin, Germany",Completed
+TXN-000552,U0079,120.0,Bank of America ATM,ATM,2026-01-29T11:25,"Seattle, USA",Completed
+TXN-SUSP-00017,U0097,5241.37,Offshore Exchange,Shopping,2026-01-29T01:47,"London, UK",Completed
+TXN-001737,U0125,55.05,Lyft,Travel,2025-12-07T03:20,"Austin, USA",Completed
+TXN-000209,U0035,165.16,Crypto.com,Crypto,2026-04-14T02:55,"New York, USA",Completed
+TXN-001500,U0147,271.08,Uber,Travel,2025-12-01T03:22,"Austin, USA",Completed
+TXN-000721,U0128,91.62,Comcast,Bills,2026-04-05T12:37,"Chicago, USA",Completed
+TXN-000863,U0112,388.62,Kraken,Crypto,2026-03-19T12:40,"Los Angeles, USA",Completed
+TXN-001682,U0090,5.39,Local Deli,Food,2025-06-15T01:38,"Tokyo, Japan",Completed
+TXN-001508,U0108,110.51,Lyft,Travel,2026-05-24T02:06,"Seattle, USA",Completed
+TXN-000059,U0111,82.44,Uber,Travel,2025-10-28T06:17,"Los Angeles, USA",Completed
+TXN-000632,U0137,93.83,Kroger,Groceries,2026-05-16T05:22,"Los Angeles, USA",Completed
+TXN-001706,U0117,45.54,Apple Store,Shopping,2025-12-19T11:17,"Seattle, USA",Completed
+TXN-001305,U0106,61.25,PG&E,Bills,2025-12-02T23:47,"Chicago, USA",Completed
+TXN-SUSP-00009,U0041,4693.4,Unknown Crypto Wallet,Crypto,2026-02-24T01:20,"London, UK",Completed
+TXN-SUSP-00007,U0110,5227.52,Night ATM,Travel,2026-05-05T04:07,"Dubai, UAE",Completed
+TXN-000364,U0107,65.92,Netflix,Bills,2025-08-06T05:44,"Austin, USA",Completed
+TXN-000506,U0031,356.72,Uber,Travel,2026-02-05T11:24,"Berlin, Germany",Completed
+TXN-001293,U0013,72.29,Uber,Travel,2026-03-10T12:06,"Austin, USA",Pending
+TXN-001611,U0100,103.35,Marriott,Travel,2026-05-18T02:47,"San Francisco, USA",Completed
+TXN-SUSP-00039,U0026,6444.61,Unknown Crypto Wallet,Crypto,2026-04-14T02:26,Singapore,Completed
+TXN-000734,U0124,3.66,Starbucks,Food,2026-01-07T21:55,"London, UK",Completed
+TXN-001315,U0067,78.42,Netflix,Bills,2026-02-18T03:46,"San Francisco, USA",Completed
+TXN-000994,U0136,27.12,Best Buy,Shopping,2025-11-26T04:13,"Austin, USA",Completed
+TXN-001086,U0071,7.82,Starbucks,Food,2025-10-22T23:54,Singapore,Completed
+TXN-000964,U0088,92.32,Best Buy,Shopping,2025-07-11T22:36,"Berlin, Germany",Completed
+TXN-000119,U0086,52.41,Comcast,Bills,2026-01-09T12:26,"Chicago, USA",Completed
+TXN-001710,U0089,43.59,Whole Foods,Groceries,2026-03-03T06:12,"Austin, USA",Completed
+TXN-000707,U0083,158.42,Comcast,Bills,2026-01-12T23:20,"Seattle, USA",Completed
+TXN-001654,U0082,59.86,Verizon,Bills,2025-08-27T12:04,"Los Angeles, USA",Completed
+TXN-000746,U0047,2.5,Local Deli,Food,2025-10-05T08:29,"Seattle, USA",Completed
+TXN-000523,U0042,25.43,Starbucks,Food,2025-09-05T05:52,"Toronto, Canada",Completed
+TXN-001402,U0026,90.36,Netflix,Bills,2025-12-28T10:01,"Los Angeles, USA",Pending
+TXN-000514,U0118,100.0,Wells Fargo ATM,ATM,2026-03-23T00:53,"Seattle, USA",Pending
+TXN-000082,U0137,64.18,Kroger,Groceries,2025-07-25T22:26,"Austin, USA",Completed
+TXN-001692,U0010,32.52,Lyft,Travel,2026-05-16T12:52,"New York, USA",Completed
+TXN-001866,U0087,30.21,Chipotle,Food,2025-07-12T08:26,"New York, USA",Completed
+TXN-001107,U0142,76.04,Comcast,Bills,2026-02-02T10:52,"New York, USA",Completed
+TXN-000381,U0100,12.27,Starbucks,Food,2025-11-26T07:12,"Los Angeles, USA",Completed
+TXN-001118,U0132,90.48,Trader Joe's,Groceries,2025-08-18T22:30,"New York, USA",Completed
+TXN-001923,U0068,231.2,Lyft,Travel,2026-01-09T08:39,"Chicago, USA",Failed
+TXN-000085,U0069,66.35,Apple Store,Shopping,2026-01-28T11:31,"Austin, USA",Completed
+TXN-001809,U0025,102.63,Spotify,Bills,2026-02-20T22:47,"Los Angeles, USA",Completed
+TXN-000673,U0101,198.63,Coinbase,Crypto,2025-09-16T10:22,"New York, USA",Completed
+TXN-000775,U0038,161.64,Marriott,Travel,2025-06-11T07:09,"Chicago, USA",Completed
+TXN-000330,U0052,72.19,Kroger,Groceries,2025-08-03T06:24,"Chicago, USA",Completed
+TXN-000007,U0018,63.26,Costco,Groceries,2026-03-17T03:49,"New York, USA",Completed
+TXN-001454,U0106,57.48,Spotify,Bills,2025-07-17T22:26,"Seattle, USA",Completed
+TXN-001721,U0121,9.85,DoorDash,Food,2026-02-18T00:53,"San Francisco, USA",Completed
+TXN-000893,U0020,67.49,Comcast,Bills,2025-10-28T00:52,"Seattle, USA",Completed
+TXN-000165,U0108,11.64,Starbucks,Food,2025-07-11T03:28,"Chicago, USA",Completed
+TXN-001404,U0052,81.93,Costco,Groceries,2025-08-03T10:39,"Austin, USA",Completed
+TXN-000452,U0102,15.03,Local Deli,Food,2026-05-09T09:06,"Los Angeles, USA",Completed
+TXN-000491,U0061,32.03,Lyft,Travel,2026-05-13T12:25,"New York, USA",Completed
+TXN-001600,U0038,16.73,Local Deli,Food,2025-07-13T01:50,"Seattle, USA",Completed
+TXN-000288,U0012,113.01,Netflix,Bills,2026-03-27T22:19,"Austin, USA",Completed
+TXN-001092,U0143,97.1,Safeway,Groceries,2025-09-10T11:32,"New York, USA",Completed
+TXN-000088,U0049,103.57,Costco,Groceries,2026-03-05T21:37,"New York, USA",Completed
+TXN-SUSP-00067,U0003,5139.47,Unverified Marketplace,Shopping,2026-02-14T04:15,"Dubai, UAE",Completed
+TXN-000910,U0139,88.41,Kroger,Groceries,2025-10-26T10:46,"Austin, USA",Completed
+TXN-001542,U0090,32.48,Subway,Food,2026-03-26T02:08,"Seattle, USA",Completed
+TXN-001867,U0107,54.11,Subway,Food,2026-02-28T22:37,"Seattle, USA",Completed
+TXN-000945,U0012,14.75,Chipotle,Food,2026-01-22T08:42,"New York, USA",Completed
+TXN-001836,U0016,47.71,Kraken,Crypto,2025-10-17T02:08,"New York, USA",Completed
+TXN-000941,U0047,100.83,Kraken,Crypto,2026-05-07T03:30,"Austin, USA",Completed
+TXN-001030,U0119,114.37,Amazon,Shopping,2025-10-09T22:24,"Chicago, USA",Completed
+TXN-001108,U0043,90.82,Kroger,Groceries,2025-11-08T10:32,"San Francisco, USA",Completed
+TXN-001178,U0041,99.82,Trader Joe's,Groceries,2026-01-30T09:23,"Toronto, Canada",Completed
+TXN-001436,U0133,77.22,Kroger,Groceries,2025-07-05T01:54,"San Francisco, USA",Completed
+TXN-001779,U0059,83.46,Costco,Groceries,2025-08-24T09:56,"Austin, USA",Completed
+TXN-000328,U0051,9.58,DoorDash,Food,2025-09-29T12:42,"Chicago, USA",Completed
+TXN-001248,U0041,70.53,Target,Shopping,2025-09-08T02:04,"Chicago, USA",Completed
+TXN-000443,U0139,96.95,Verizon,Bills,2025-07-08T08:55,"Austin, USA",Completed
+TXN-001113,U0113,12.68,Starbucks,Food,2026-05-07T05:13,"Austin, USA",Completed
+TXN-001419,U0107,95.54,Netflix,Bills,2025-12-09T00:33,"Los Angeles, USA",Completed
+TXN-001703,U0034,203.38,Best Buy,Shopping,2026-05-03T05:52,"Austin, USA",Completed
+TXN-000349,U0045,102.64,PG&E,Bills,2025-11-22T11:43,"Los Angeles, USA",Completed
+TXN-001858,U0097,81.23,Kroger,Groceries,2026-02-08T06:19,"Austin, USA",Completed
+TXN-000178,U0145,44.99,Whole Foods,Groceries,2025-08-24T12:33,"Los Angeles, USA",Completed
+TXN-001302,U0019,34.81,Local Deli,Food,2025-11-28T08:09,"San Francisco, USA",Completed
+TXN-000870,U0049,10.26,Chipotle,Food,2025-08-13T04:57,"Los Angeles, USA",Completed
+TXN-000833,U0053,18.13,DoorDash,Food,2025-08-22T23:39,"New York, USA",Completed
+TXN-000087,U0091,20.79,DoorDash,Food,2025-08-27T12:17,"Los Angeles, USA",Completed
+TXN-001524,U0101,76.82,Amazon,Shopping,2026-02-27T01:10,"San Francisco, USA",Completed
+TXN-SUSP-00052,U0022,1417.22,Luxury Wire Transfer,ATM,2026-04-04T04:24,"Berlin, Germany",Failed
+TXN-000458,U0117,16.81,Chipotle,Food,2025-06-24T04:06,"New York, USA",Completed
+TXN-000778,U0100,54.37,Airbnb,Travel,2026-02-22T04:28,"Chicago, USA",Completed
+TXN-001042,U0092,298.72,Amazon,Shopping,2025-11-22T09:56,"Austin, USA",Completed
+TXN-001975,U0019,111.77,Airbnb,Travel,2025-07-28T22:17,"Chicago, USA",Completed
+TXN-000055,U0134,33.16,Starbucks,Food,2026-05-23T10:04,Singapore,Completed
+TXN-001622,U0146,81.53,Whole Foods,Groceries,2025-11-08T04:14,"Seattle, USA",Completed
+TXN-000644,U0041,136.83,Comcast,Bills,2025-12-01T23:19,"Chicago, USA",Completed
+TXN-001026,U0037,22.88,Starbucks,Food,2026-02-27T02:22,"San Francisco, USA",Completed
+TXN-000678,U0114,158.03,PG&E,Bills,2025-08-20T08:43,"Seattle, USA",Completed
+TXN-000222,U0074,128.89,Target,Shopping,2026-05-21T11:17,"Seattle, USA",Failed
+TXN-000114,U0062,90.44,Safeway,Groceries,2025-07-26T21:44,"Seattle, USA",Completed
+TXN-001085,U0046,53.99,Costco,Groceries,2025-10-12T09:05,"Austin, USA",Completed
+TXN-001829,U0036,63.67,Spotify,Bills,2025-07-26T22:49,"San Francisco, USA",Completed
+TXN-001095,U0053,17.64,DoorDash,Food,2026-03-12T09:28,"Dubai, UAE",Completed
+TXN-000175,U0086,114.22,Airbnb,Travel,2025-10-31T07:18,"Los Angeles, USA",Completed
+TXN-001659,U0107,147.45,Comcast,Bills,2025-11-08T12:45,"Los Angeles, USA",Completed
+TXN-000590,U0044,74.04,Spotify,Bills,2026-05-18T04:43,"Seattle, USA",Completed
+TXN-001935,U0121,80.0,Bank of America ATM,ATM,2026-02-24T08:02,"Chicago, USA",Completed
+TXN-001681,U0038,143.35,Spotify,Bills,2025-08-12T03:53,"San Francisco, USA",Completed
+TXN-000019,U0083,11.23,DoorDash,Food,2025-08-15T21:42,"Chicago, USA",Completed
+TXN-000424,U0038,8.97,Chipotle,Food,2025-11-06T22:05,"Chicago, USA",Completed
+TXN-001450,U0073,13.16,Starbucks,Food,2025-07-29T11:15,"New York, USA",Completed
+TXN-000286,U0040,195.53,Lyft,Travel,2025-09-29T11:26,"San Francisco, USA",Pending
+TXN-001755,U0106,2.67,Starbucks,Food,2026-04-04T23:37,"Seattle, USA",Completed
+TXN-000429,U0037,100.0,Wells Fargo ATM,ATM,2025-09-16T01:03,"Austin, USA",Completed
+TXN-001630,U0131,98.3,Whole Foods,Groceries,2025-11-28T09:49,"Seattle, USA",Completed
+TXN-001612,U0089,81.73,Whole Foods,Groceries,2026-04-14T12:39,"New York, USA",Completed
+TXN-000670,U0059,40.0,Bank of America ATM,ATM,2025-11-20T10:30,"Seattle, USA",Completed
+TXN-000032,U0117,7.2,Starbucks,Food,2025-12-11T06:03,"San Francisco, USA",Completed
+TXN-001584,U0121,170.05,Airbnb,Travel,2026-05-18T04:02,"Seattle, USA",Completed
+TXN-000723,U0012,78.0,Trader Joe's,Groceries,2026-04-06T10:30,"Austin, USA",Completed
+TXN-001234,U0052,25.99,Chipotle,Food,2025-08-08T10:05,"New York, USA",Completed
+TXN-000215,U0076,185.81,Delta Airlines,Travel,2025-07-16T23:24,"Austin, USA",Completed
+TXN-001673,U0132,87.44,Whole Foods,Groceries,2026-02-19T23:02,"Austin, USA",Completed
+TXN-001346,U0052,34.3,Chipotle,Food,2025-10-10T05:34,"Tokyo, Japan",Completed
+TXN-000933,U0106,10.33,Local Deli,Food,2026-04-23T01:58,"Los Angeles, USA",Completed
+TXN-000327,U0071,77.66,Walmart,Shopping,2025-06-27T02:31,"Austin, USA",Completed
+TXN-000561,U0124,255.71,Marriott,Travel,2026-04-28T01:51,"Dubai, UAE",Completed
+TXN-001205,U0025,100.0,Chase ATM,ATM,2026-02-19T06:41,"Chicago, USA",Completed
+TXN-000701,U0147,67.97,Kroger,Groceries,2025-12-06T07:29,"Chicago, USA",Completed
+TXN-001860,U0098,208.33,Target,Shopping,2026-01-19T01:32,"Chicago, USA",Completed
+TXN-001284,U0004,96.02,Best Buy,Shopping,2025-11-14T11:54,"San Francisco, USA",Completed
+TXN-000342,U0116,267.76,Airbnb,Travel,2025-07-14T11:50,"Austin, USA",Completed
+TXN-000630,U0144,75.62,Kroger,Groceries,2025-12-03T03:30,"Austin, USA",Completed
+TXN-000148,U0006,200.0,Bank of America ATM,ATM,2025-07-11T03:45,"New York, USA",Completed
+TXN-001520,U0010,94.25,Best Buy,Shopping,2025-09-13T04:04,"Los Angeles, USA",Completed
+TXN-000361,U0075,60.71,Marriott,Travel,2026-02-25T02:24,"San Francisco, USA",Completed
+TXN-000084,U0046,95.14,Netflix,Bills,2026-05-23T01:31,"Seattle, USA",Pending
+TXN-001507,U0055,32.43,Walmart,Shopping,2026-04-15T23:37,"New York, USA",Completed
+TXN-000049,U0086,94.89,Safeway,Groceries,2025-06-07T02:51,"Los Angeles, USA",Completed
+TXN-000469,U0100,45.74,PG&E,Bills,2025-10-05T10:29,"Seattle, USA",Completed
+TXN-000156,U0136,29.96,Local Deli,Food,2026-04-15T07:28,"San Francisco, USA",Completed
+TXN-001106,U0138,80.06,Verizon,Bills,2025-09-25T02:21,"San Francisco, USA",Completed
+TXN-001585,U0035,144.06,Verizon,Bills,2025-12-10T01:24,"Austin, USA",Completed
+TXN-001579,U0077,49.03,Amazon,Shopping,2025-08-17T03:03,"Los Angeles, USA",Pending
+TXN-SUSP-00088,U0043,2512.49,Luxury Wire Transfer,Shopping,2026-05-10T01:27,"Toronto, Canada",Completed
+TXN-SUSP-00070,U0039,2089.7,Luxury Wire Transfer,Travel,2026-03-21T01:23,"Dubai, UAE",Completed
+TXN-001754,U0014,25.74,Marriott,Travel,2025-11-02T21:43,"Seattle, USA",Completed
+TXN-000856,U0109,66.68,Best Buy,Shopping,2026-01-07T06:14,"Seattle, USA",Completed
+TXN-000501,U0087,135.02,Marriott,Travel,2026-03-11T04:46,"Chicago, USA",Completed
+TXN-001905,U0065,20.89,Chipotle,Food,2026-05-08T23:08,"Chicago, USA",Completed
+TXN-000180,U0130,59.87,Target,Shopping,2025-10-12T22:26,"New York, USA",Completed
+TXN-001768,U0104,61.42,Walmart,Shopping,2025-09-25T12:16,"New York, USA",Completed
+TXN-001895,U0036,107.98,Coinbase,Crypto,2026-03-30T06:00,"Austin, USA",Completed
+TXN-000926,U0114,105.26,Verizon,Bills,2026-02-23T04:58,"Austin, USA",Completed
+TXN-000179,U0081,200.0,Wells Fargo ATM,ATM,2026-04-20T07:59,"San Francisco, USA",Completed
+TXN-001356,U0108,15.31,DoorDash,Food,2026-04-01T23:40,"Seattle, USA",Completed
+TXN-001395,U0117,88.73,Spotify,Bills,2025-07-27T10:54,"Chicago, USA",Completed
+TXN-001743,U0063,85.16,Comcast,Bills,2025-08-07T21:22,"Tokyo, Japan",Completed
+TXN-000529,U0011,164.13,Comcast,Bills,2025-08-22T00:28,"Austin, USA",Completed
+TXN-000347,U0138,58.84,Whole Foods,Groceries,2026-03-17T00:55,"San Francisco, USA",Completed
+TXN-001861,U0051,62.7,Whole Foods,Groceries,2025-10-13T11:21,"Seattle, USA",Completed
+TXN-SUSP-00081,U0097,1933.94,Night ATM,ATM,2026-03-04T04:58,"Dubai, UAE",Failed
+TXN-001327,U0129,100.0,Chase ATM,ATM,2026-02-04T00:44,"Chicago, USA",Completed
+TXN-000386,U0112,597.89,Binance,Crypto,2025-06-24T04:09,"New York, USA",Completed
+TXN-001006,U0077,104.8,Walmart,Shopping,2026-03-19T04:26,"San Francisco, USA",Completed
+TXN-001103,U0148,280.67,Apple Store,Shopping,2026-02-01T11:33,"New York, USA",Completed
+TXN-000602,U0028,10.34,Chipotle,Food,2025-09-30T08:13,"New York, USA",Completed
+TXN-001138,U0117,121.83,Costco,Groceries,2025-12-06T11:23,"San Francisco, USA",Completed
+TXN-000244,U0014,114.25,Safeway,Groceries,2025-11-28T22:29,"Chicago, USA",Completed
+TXN-SUSP-00019,U0039,2832.47,Luxury Wire Transfer,Travel,2026-04-30T01:25,"Tokyo, Japan",Failed
+TXN-000803,U0028,14.76,Local Deli,Food,2025-08-20T23:56,"New York, USA",Completed
+TXN-001948,U0146,100.9,Safeway,Groceries,2025-09-06T23:01,"New York, USA",Completed
+TXN-001594,U0122,133.06,Spotify,Bills,2026-01-11T08:53,"Seattle, USA",Completed
+TXN-000313,U0136,49.34,PG&E,Bills,2026-03-11T01:01,Singapore,Completed
+TXN-000436,U0026,110.47,Spotify,Bills,2026-01-03T02:07,"Austin, USA",Failed
+TXN-SUSP-00051,U0041,1246.13,Unknown Crypto Wallet,Crypto,2026-05-17T00:52,"London, UK",Completed
+TXN-000137,U0107,211.26,Lyft,Travel,2025-07-11T06:24,"San Francisco, USA",Completed
+TXN-000309,U0039,94.48,Comcast,Bills,2025-07-19T00:37,"San Francisco, USA",Completed
+TXN-000431,U0028,284.51,Amazon,Shopping,2025-11-21T05:54,"Seattle, USA",Completed
+TXN-000661,U0041,14.39,Subway,Food,2026-02-08T07:46,"Chicago, USA",Completed
+TXN-001308,U0120,67.82,Best Buy,Shopping,2026-05-02T23:26,"Chicago, USA",Completed
+TXN-000371,U0060,80.0,Chase ATM,ATM,2025-06-21T09:44,"Austin, USA",Completed
+TXN-000567,U0132,62.07,Safeway,Groceries,2025-08-18T04:08,"Seattle, USA",Completed
+TXN-001174,U0117,35.08,DoorDash,Food,2025-09-15T12:47,"New York, USA",Completed
+TXN-001384,U0117,27.89,Starbucks,Food,2025-08-19T02:25,"New York, USA",Completed
+TXN-000825,U0121,40.0,Wells Fargo ATM,ATM,2025-05-28T10:06,"Seattle, USA",Completed
+TXN-000182,U0147,24.86,Marriott,Travel,2025-06-16T12:02,"Seattle, USA",Completed
+TXN-001379,U0013,128.36,Spotify,Bills,2026-01-02T00:47,"Seattle, USA",Pending
+TXN-000622,U0135,100.0,Bank of America ATM,ATM,2026-03-01T22:05,"Los Angeles, USA",Completed
+TXN-000967,U0109,23.11,Starbucks,Food,2025-06-18T00:36,"Austin, USA",Completed
+TXN-001287,U0097,17.7,Walmart,Shopping,2025-10-11T23:37,"Berlin, Germany",Completed
+TXN-001544,U0040,126.24,Netflix,Bills,2025-10-03T03:08,"New York, USA",Completed
+TXN-000814,U0012,120.91,Crypto.com,Crypto,2026-02-04T02:14,"New York, USA",Completed
+TXN-001538,U0096,35.84,Costco,Groceries,2026-02-17T07:43,"Chicago, USA",Completed
+TXN-001989,U0054,31.82,Walmart,Shopping,2025-12-30T06:02,"New York, USA",Completed
+TXN-000779,U0081,91.11,Whole Foods,Groceries,2025-10-20T11:28,"Tokyo, Japan",Completed
+TXN-SUSP-00011,U0084,6103.21,Night ATM,Crypto,2026-02-23T03:44,"Toronto, Canada",Completed
+TXN-000297,U0086,49.49,Kroger,Groceries,2025-09-14T12:17,"Austin, USA",Completed
+TXN-001044,U0024,9.68,DoorDash,Food,2026-05-09T08:16,"Los Angeles, USA",Completed
+TXN-000462,U0053,71.98,Binance,Crypto,2026-04-22T04:47,"San Francisco, USA",Completed
+TXN-001914,U0150,85.33,Marriott,Travel,2026-04-24T22:20,"New York, USA",Completed
+TXN-001271,U0001,83.54,Target,Shopping,2026-05-24T23:54,"Los Angeles, USA",Failed
+TXN-000905,U0147,291.04,Crypto.com,Crypto,2026-03-14T09:24,"New York, USA",Completed
+TXN-000378,U0142,73.35,Trader Joe's,Groceries,2025-10-13T23:19,"Seattle, USA",Completed
+TXN-000799,U0015,39.83,Airbnb,Travel,2025-06-02T22:25,"Austin, USA",Completed
+TXN-001944,U0066,62.52,Safeway,Groceries,2025-05-26T23:16,Singapore,Completed
+TXN-000106,U0111,255.76,Uber,Travel,2026-03-27T23:00,"Seattle, USA",Completed
+TXN-000127,U0008,8.98,Chipotle,Food,2026-05-16T07:01,"New York, USA",Completed
+TXN-000840,U0006,17.41,DoorDash,Food,2025-12-27T11:51,"San Francisco, USA",Completed
+TXN-001986,U0097,80.66,Marriott,Travel,2026-03-10T23:13,"Austin, USA",Completed
+TXN-000888,U0087,224.68,Binance,Crypto,2025-06-28T08:16,"San Francisco, USA",Completed
+TXN-001224,U0113,3.73,DoorDash,Food,2025-07-20T11:46,"San Francisco, USA",Completed
+TXN-000991,U0075,8.34,Starbucks,Food,2025-09-08T08:14,"Seattle, USA",Completed
+TXN-000356,U0131,33.23,Lyft,Travel,2026-01-15T12:39,"New York, USA",Completed
+TXN-001740,U0088,129.15,Netflix,Bills,2025-10-07T01:49,"Chicago, USA",Completed
+TXN-000683,U0070,19.84,Amazon,Shopping,2025-10-18T03:54,"New York, USA",Completed
+TXN-001656,U0028,79.46,Apple Store,Shopping,2025-08-27T03:53,"Los Angeles, USA",Completed
+TXN-001980,U0026,7.72,Starbucks,Food,2025-09-28T02:01,"San Francisco, USA",Completed
+TXN-001667,U0035,160.96,Airbnb,Travel,2025-10-18T00:34,"Los Angeles, USA",Completed
+TXN-000210,U0052,109.9,Target,Shopping,2025-09-05T22:54,"Los Angeles, USA",Completed
+TXN-001559,U0025,12.29,Subway,Food,2026-04-16T22:24,"Los Angeles, USA",Completed
+TXN-001894,U0127,41.38,Target,Shopping,2025-10-22T01:56,"Seattle, USA",Completed
+TXN-000141,U0096,28.06,Target,Shopping,2026-03-21T09:56,"New York, USA",Completed
+TXN-001554,U0080,74.47,Subway,Food,2025-11-26T03:04,"Austin, USA",Completed
+TXN-001772,U0100,45.29,Delta Airlines,Travel,2026-03-09T12:43,"Austin, USA",Failed
+TXN-001806,U0114,9.41,Subway,Food,2026-02-14T10:15,"New York, USA",Completed
+TXN-001856,U0070,97.56,Apple Store,Shopping,2026-01-28T01:54,"Tokyo, Japan",Completed
+TXN-001188,U0147,122.67,Marriott,Travel,2025-09-17T21:41,"Toronto, Canada",Completed
+TXN-001626,U0085,21.5,Walmart,Shopping,2026-01-17T00:55,"Los Angeles, USA",Completed
+TXN-001546,U0122,49.02,Apple Store,Shopping,2026-03-31T05:55,"San Francisco, USA",Completed
+TXN-000712,U0128,101.24,Whole Foods,Groceries,2026-01-15T12:58,"Chicago, USA",Completed
+TXN-001369,U0143,14.52,DoorDash,Food,2026-05-24T23:26,"Los Angeles, USA",Completed
+TXN-001023,U0053,153.45,Spotify,Bills,2025-08-25T21:21,"San Francisco, USA",Completed
+TXN-001813,U0064,80.0,Bank of America ATM,ATM,2025-08-15T12:48,"Berlin, Germany",Completed
+TXN-001904,U0049,83.58,Kroger,Groceries,2026-04-17T00:56,"New York, USA",Completed
+TXN-001304,U0034,40.43,Delta Airlines,Travel,2025-10-19T09:30,"Austin, USA",Completed
+TXN-000011,U0081,31.88,Whole Foods,Groceries,2025-09-19T22:55,"Austin, USA",Completed
+TXN-001828,U0118,45.61,Kroger,Groceries,2025-07-01T01:41,"Seattle, USA",Completed
+TXN-001217,U0044,51.8,Amazon,Shopping,2025-12-28T12:28,"Austin, USA",Completed
+TXN-000283,U0097,75.13,Safeway,Groceries,2025-12-03T09:32,"Austin, USA",Completed
+TXN-000811,U0143,9.58,DoorDash,Food,2025-11-20T10:04,"San Francisco, USA",Completed
+TXN-001183,U0110,115.38,Kroger,Groceries,2025-07-17T01:28,"Seattle, USA",Completed
+TXN-000292,U0107,61.23,Best Buy,Shopping,2026-02-18T07:48,"Austin, USA",Completed
+TXN-000932,U0079,56.57,Walmart,Shopping,2025-05-27T09:16,"Austin, USA",Completed
+TXN-000755,U0116,60.0,Wells Fargo ATM,ATM,2025-05-26T01:46,"Chicago, USA",Completed
+TXN-000627,U0023,179.31,Delta Airlines,Travel,2026-01-27T04:55,"Austin, USA",Completed
+TXN-001209,U0118,113.72,Binance,Crypto,2026-05-08T10:49,"San Francisco, USA",Failed
+TXN-001019,U0060,13.9,DoorDash,Food,2025-07-10T10:28,"London, UK",Completed
+TXN-000130,U0003,16.96,DoorDash,Food,2026-01-16T05:46,"Los Angeles, USA",Completed
+TXN-001270,U0027,51.18,Target,Shopping,2026-04-10T06:26,"San Francisco, USA",Completed
+TXN-000844,U0138,62.52,Best Buy,Shopping,2025-08-19T02:49,"San Francisco, USA",Failed
+TXN-000324,U0142,114.92,Uber,Travel,2025-06-07T23:26,"New York, USA",Completed
+TXN-SUSP-00023,U0097,6125.95,Offshore Exchange,Travel,2026-04-17T01:04,"Dubai, UAE",Completed
+TXN-SUSP-00049,U0087,2986.05,Unverified Marketplace,Travel,2026-02-11T05:16,"Toronto, Canada",Completed
+TXN-001991,U0088,126.04,Verizon,Bills,2025-07-05T11:55,"Seattle, USA",Failed
+TXN-SUSP-00014,U0026,1007.27,Offshore Exchange,Travel,2026-02-14T02:41,"Toronto, Canada",Completed
+TXN-001024,U0012,84.87,Safeway,Groceries,2025-07-08T07:29,"Chicago, USA",Pending
+TXN-SUSP-00022,U0087,4640.06,Night ATM,ATM,2026-03-26T04:09,"Berlin, Germany",Completed
+TXN-000696,U0060,113.37,PG&E,Bills,2026-04-01T04:42,"San Francisco, USA",Completed
+TXN-001493,U0131,95.73,Netflix,Bills,2025-11-06T11:15,"Seattle, USA",Completed
+TXN-000216,U0091,65.89,Best Buy,Shopping,2025-11-21T11:06,"Seattle, USA",Completed
+TXN-001121,U0072,78.81,Best Buy,Shopping,2025-09-14T23:46,"Seattle, USA",Completed
+TXN-SUSP-00098,U0039,5004.8,Luxury Wire Transfer,Travel,2026-03-18T00:33,Singapore,Pending
+TXN-001951,U0024,11.45,Subway,Food,2025-09-06T21:14,"Chicago, USA",Completed
+TXN-000159,U0022,92.72,Crypto.com,Crypto,2025-06-28T23:57,"New York, USA",Completed
+TXN-001319,U0118,39.86,Kraken,Crypto,2025-06-02T02:01,"Dubai, UAE",Completed
+TXN-001834,U0076,27.17,DoorDash,Food,2025-09-19T02:29,"Seattle, USA",Completed
+TXN-001981,U0076,70.85,Airbnb,Travel,2026-04-25T10:08,"Austin, USA",Completed
+TXN-000865,U0070,194.46,Walmart,Shopping,2025-11-24T02:07,"Austin, USA",Completed
+TXN-000842,U0078,104.6,Apple Store,Shopping,2026-05-01T11:33,"Chicago, USA",Completed
+TXN-000635,U0113,146.87,Kraken,Crypto,2025-10-10T01:49,"Seattle, USA",Completed
+TXN-000517,U0064,45.77,PG&E,Bills,2026-02-08T09:30,"San Francisco, USA",Pending
+TXN-001545,U0134,9.49,Local Deli,Food,2025-07-17T01:55,"Chicago, USA",Completed
+TXN-001641,U0017,82.05,Airbnb,Travel,2025-12-05T21:46,"Austin, USA",Completed
+TXN-000598,U0081,102.8,Walmart,Shopping,2026-05-07T04:55,"Austin, USA",Completed
+TXN-000196,U0133,272.52,Best Buy,Shopping,2025-12-02T00:49,"Los Angeles, USA",Completed
+TXN-001770,U0052,120.0,Wells Fargo ATM,ATM,2026-03-16T09:52,"San Francisco, USA",Completed
+TXN-SUSP-00005,U0097,5104.31,Unverified Marketplace,Travel,2026-05-08T00:34,"Toronto, Canada",Completed
+TXN-000951,U0030,14.93,DoorDash,Food,2025-08-17T11:31,"Toronto, Canada",Pending
+TXN-000411,U0020,77.94,Spotify,Bills,2026-03-22T06:02,"New York, USA",Completed
+TXN-001684,U0113,20.68,Chipotle,Food,2025-11-22T21:12,"New York, USA",Pending
+TXN-000097,U0145,52.2,Verizon,Bills,2025-08-11T01:55,"Dubai, UAE",Completed
+TXN-000441,U0098,35.42,Apple Store,Shopping,2025-12-10T02:27,"Austin, USA",Completed
+TXN-000550,U0018,200.0,Wells Fargo ATM,ATM,2026-01-16T23:22,"San Francisco, USA",Completed
+TXN-000157,U0116,167.14,Amazon,Shopping,2026-04-26T03:31,"Los Angeles, USA",Completed
+TXN-000420,U0045,99.1,Whole Foods,Groceries,2025-09-15T09:26,"San Francisco, USA",Completed
+TXN-000923,U0064,130.3,Uber,Travel,2025-11-04T10:34,"Tokyo, Japan",Completed
+TXN-000478,U0112,5.81,Chipotle,Food,2026-01-30T23:12,"Seattle, USA",Completed
+TXN-000554,U0085,77.4,Safeway,Groceries,2025-10-14T08:12,"Los Angeles, USA",Completed
+TXN-000391,U0131,15.37,Starbucks,Food,2026-03-15T00:18,"New York, USA",Completed
+TXN-000579,U0140,15.69,Lyft,Travel,2025-07-07T06:42,"Austin, USA",Completed
+TXN-001841,U0040,61.31,Best Buy,Shopping,2026-01-18T11:32,"New York, USA",Completed
+TXN-001771,U0112,140.52,Costco,Groceries,2026-04-11T10:29,"Austin, USA",Completed
+TXN-000821,U0044,66.51,Amazon,Shopping,2026-01-19T11:30,"Los Angeles, USA",Completed
+TXN-001971,U0072,65.98,Trader Joe's,Groceries,2026-04-02T08:40,"Chicago, USA",Completed
+TXN-001007,U0084,91.7,Comcast,Bills,2025-12-05T04:10,"Chicago, USA",Completed
+TXN-001877,U0055,13.01,Chipotle,Food,2025-09-05T06:57,"Los Angeles, USA",Completed
+TXN-000665,U0055,180.61,Delta Airlines,Travel,2025-05-29T06:18,"Los Angeles, USA",Completed
+TXN-001623,U0131,130.49,Coinbase,Crypto,2026-03-29T09:39,"Los Angeles, USA",Completed
+TXN-000143,U0010,156.7,Netflix,Bills,2025-07-24T01:06,"Austin, USA",Completed
+TXN-001876,U0048,213.55,Best Buy,Shopping,2026-03-30T09:17,"New York, USA",Completed
+TXN-000422,U0126,312.94,Lyft,Travel,2026-02-02T06:15,"New York, USA",Completed
+TXN-000800,U0138,61.51,Walmart,Shopping,2026-04-25T11:47,"New York, USA",Completed
+TXN-000616,U0131,149.71,Delta Airlines,Travel,2025-11-23T07:47,"Chicago, USA",Completed
+TXN-SUSP-00038,U0003,4387.06,Unknown Crypto Wallet,ATM,2026-02-15T05:02,"Berlin, Germany",Completed
+TXN-000402,U0146,65.48,Spotify,Bills,2025-08-02T09:08,"New York, USA",Completed
+TXN-000089,U0126,212.86,Lyft,Travel,2026-05-14T12:45,"Austin, USA",Completed
+TXN-SUSP-00068,U0003,1211.39,Night ATM,Shopping,2026-04-30T03:01,Singapore,Completed
+TXN-000132,U0099,201.27,Kraken,Crypto,2026-01-14T06:16,"Los Angeles, USA",Completed
+TXN-001299,U0020,124.5,Best Buy,Shopping,2025-09-25T03:43,"Tokyo, Japan",Completed
+TXN-001746,U0035,200.0,Chase ATM,ATM,2025-11-05T08:08,"Austin, USA",Completed
+TXN-001452,U0092,58.22,DoorDash,Food,2026-02-28T03:35,"Los Angeles, USA",Completed
+TXN-001618,U0104,123.35,PG&E,Bills,2026-02-07T09:18,"Chicago, USA",Completed
+TXN-000725,U0086,34.4,Apple Store,Shopping,2025-11-06T21:11,"Austin, USA",Completed
+TXN-001236,U0094,139.98,Amazon,Shopping,2025-10-28T00:21,"San Francisco, USA",Completed
+TXN-SUSP-00079,U0127,2421.15,Unverified Marketplace,Shopping,2026-05-16T00:47,Singapore,Completed
+TXN-001576,U0148,9.77,Starbucks,Food,2026-01-05T11:41,"Seattle, USA",Completed
+TXN-000918,U0022,126.01,Uber,Travel,2026-01-28T21:07,"Austin, USA",Completed
+TXN-001587,U0061,226.71,Coinbase,Crypto,2025-09-16T02:53,"Austin, USA",Completed
+TXN-001424,U0101,25.48,Walmart,Shopping,2025-10-15T07:03,"New York, USA",Completed
+TXN-000376,U0106,20.2,DoorDash,Food,2025-09-12T02:02,"Seattle, USA",Completed
+TXN-000334,U0078,68.12,Safeway,Groceries,2026-05-05T12:12,"San Francisco, USA",Completed
+TXN-001591,U0022,14.65,Local Deli,Food,2025-07-19T11:55,"Austin, USA",Completed
+TXN-001901,U0105,97.62,Netflix,Bills,2025-09-15T08:51,"Seattle, USA",Failed
+TXN-000911,U0005,38.32,Apple Store,Shopping,2026-01-13T03:00,"Seattle, USA",Completed
+TXN-000777,U0030,111.97,Delta Airlines,Travel,2025-06-22T05:52,"New York, USA",Completed
+TXN-001745,U0068,87.4,Netflix,Bills,2025-10-06T08:55,"Austin, USA",Completed
+TXN-000329,U0085,19.57,Subway,Food,2025-11-12T09:55,"Austin, USA",Completed
+TXN-001650,U0146,28.88,Lyft,Travel,2026-03-28T12:23,"New York, USA",Completed
+TXN-000013,U0150,10.79,Chipotle,Food,2025-09-29T05:51,"Austin, USA",Completed
+TXN-000898,U0142,44.34,Uber,Travel,2026-03-13T12:46,"Seattle, USA",Completed
+TXN-000172,U0020,19.2,Starbucks,Food,2026-01-03T21:33,"Los Angeles, USA",Completed
+TXN-000261,U0138,177.85,Best Buy,Shopping,2025-09-12T03:56,"San Francisco, USA",Completed
+TXN-001675,U0041,7.12,Starbucks,Food,2026-03-07T00:38,"Los Angeles, USA",Completed
+TXN-001525,U0071,211.95,Target,Shopping,2025-12-28T21:23,"Chicago, USA",Completed
+TXN-000902,U0061,102.34,Amazon,Shopping,2026-04-29T04:19,"Seattle, USA",Completed
+TXN-000259,U0140,120.0,Wells Fargo ATM,ATM,2025-10-13T06:11,"Austin, USA",Failed
+TXN-000845,U0011,93.78,Trader Joe's,Groceries,2025-08-16T04:11,"Toronto, Canada",Completed
+TXN-000139,U0020,28.21,Delta Airlines,Travel,2025-11-15T00:33,"New York, USA",Pending
+TXN-000320,U0150,11.88,Local Deli,Food,2025-12-04T10:15,"Seattle, USA",Completed
+TXN-001647,U0078,48.42,Walmart,Shopping,2025-06-27T01:37,"New York, USA",Completed
+TXN-001336,U0140,14.25,Local Deli,Food,2025-08-11T21:43,Singapore,Completed
+TXN-001272,U0115,59.63,Trader Joe's,Groceries,2025-11-05T01:28,"Seattle, USA",Completed
+TXN-000559,U0131,64.01,Costco,Groceries,2025-08-02T11:36,"New York, USA",Completed
+TXN-000140,U0102,80.35,Safeway,Groceries,2026-03-07T08:09,"New York, USA",Completed
+TXN-001871,U0107,5.28,DoorDash,Food,2026-02-01T21:46,"Chicago, USA",Completed
+TXN-000532,U0134,50.39,Target,Shopping,2026-02-19T04:15,"New York, USA",Completed
+TXN-000225,U0093,223.18,Walmart,Shopping,2026-05-25T02:54,"Chicago, USA",Completed
+TXN-000724,U0073,116.47,Verizon,Bills,2026-04-18T03:48,"San Francisco, USA",Completed
+TXN-001852,U0064,275.53,Binance,Crypto,2026-05-23T04:56,"Chicago, USA",Completed
+TXN-000326,U0098,428.06,Lyft,Travel,2026-03-14T02:47,"San Francisco, USA",Completed
+TXN-001365,U0012,104.85,Kroger,Groceries,2025-05-27T22:20,"New York, USA",Pending
+TXN-001171,U0098,80.0,Wells Fargo ATM,ATM,2025-07-24T08:12,"Chicago, USA",Completed
+TXN-000715,U0023,19.35,Starbucks,Food,2026-05-02T06:25,"New York, USA",Completed
+TXN-000847,U0078,30.38,Subway,Food,2026-02-26T02:38,"New York, USA",Completed
+TXN-000194,U0147,321.36,Crypto.com,Crypto,2025-09-02T08:47,"Toronto, Canada",Completed
+TXN-000574,U0097,62.22,Best Buy,Shopping,2026-03-26T23:18,"Austin, USA",Completed
+TXN-000947,U0023,8.79,Subway,Food,2025-11-15T11:12,"Austin, USA",Completed
+TXN-000504,U0062,437.1,Lyft,Travel,2025-07-03T12:24,"Austin, USA",Completed
+TXN-001937,U0069,8.09,Apple Store,Shopping,2026-04-05T23:20,"Dubai, UAE",Completed
+TXN-001897,U0041,227.7,Binance,Crypto,2026-03-28T07:38,"Los Angeles, USA",Completed
+TXN-001929,U0043,45.86,Safeway,Groceries,2026-02-11T23:40,"San Francisco, USA",Completed
+TXN-000004,U0072,43.35,Chipotle,Food,2026-05-18T10:25,"San Francisco, USA",Pending
+TXN-001243,U0141,50.86,Whole Foods,Groceries,2025-07-30T03:30,"Seattle, USA",Completed
+TXN-000468,U0082,58.26,Amazon,Shopping,2026-03-29T09:46,"Seattle, USA",Completed
+TXN-000006,U0142,100.26,Kroger,Groceries,2025-07-28T09:09,"San Francisco, USA",Completed
+TXN-001960,U0098,91.83,Amazon,Shopping,2025-12-11T08:27,"New York, USA",Completed
+TXN-000548,U0132,103.23,Costco,Groceries,2025-09-11T11:01,"New York, USA",Completed
+TXN-000229,U0034,116.84,PG&E,Bills,2025-07-30T02:53,"Austin, USA",Completed
+TXN-001064,U0121,61.22,Target,Shopping,2025-11-01T01:13,"Austin, USA",Completed
+TXN-000543,U0019,102.27,Spotify,Bills,2025-06-26T22:48,"Austin, USA",Completed
+TXN-000243,U0028,23.7,PG&E,Bills,2026-02-23T21:58,"Austin, USA",Completed
+TXN-000899,U0068,124.41,Lyft,Travel,2026-02-08T22:29,"Chicago, USA",Failed
+TXN-001227,U0127,173.79,Coinbase,Crypto,2025-12-27T12:39,"Los Angeles, USA",Completed
+TXN-001286,U0147,68.93,Netflix,Bills,2026-03-05T06:02,"Chicago, USA",Completed
+TXN-001176,U0075,69.49,Crypto.com,Crypto,2026-04-14T03:35,"Seattle, USA",Completed
+TXN-000843,U0074,26.73,Target,Shopping,2025-09-19T12:27,"Los Angeles, USA",Completed
+TXN-001823,U0070,184.12,Best Buy,Shopping,2025-12-06T09:06,"Seattle, USA",Completed
+TXN-001995,U0058,62.2,Costco,Groceries,2025-07-19T01:39,"Los Angeles, USA",Completed
+TXN-000277,U0115,73.16,Trader Joe's,Groceries,2025-09-28T23:37,"Chicago, USA",Completed
+TXN-000662,U0106,80.0,Bank of America ATM,ATM,2026-03-03T07:58,"Los Angeles, USA",Completed
+TXN-001728,U0145,20.09,PG&E,Bills,2025-07-18T12:39,"Austin, USA",Completed
+TXN-000315,U0054,201.7,Uber,Travel,2025-08-25T07:05,"Chicago, USA",Completed
+TXN-000692,U0135,120.44,Lyft,Travel,2025-08-04T06:48,"London, UK",Completed
+TXN-001624,U0052,10.1,DoorDash,Food,2025-09-25T02:34,"Austin, USA",Completed
+TXN-000425,U0102,43.88,Kroger,Groceries,2025-11-27T23:27,"Chicago, USA",Completed
+TXN-000595,U0132,12.61,DoorDash,Food,2025-11-16T00:55,"Tokyo, Japan",Completed
+TXN-SUSP-00082,U0139,2815.8,Luxury Wire Transfer,ATM,2026-05-10T00:52,"Tokyo, Japan",Completed
+TXN-000623,U0059,185.28,Walmart,Shopping,2025-07-08T09:23,"San Francisco, USA",Completed
+TXN-001955,U0098,51.84,Netflix,Bills,2025-08-10T09:58,"New York, USA",Completed
+TXN-001132,U0037,14.68,Subway,Food,2025-06-30T03:07,"Dubai, UAE",Completed
+TXN-000228,U0082,41.25,Airbnb,Travel,2025-12-20T23:12,"Seattle, USA",Completed
+TXN-001211,U0105,85.54,Costco,Groceries,2026-04-15T23:23,"Los Angeles, USA",Completed
+TXN-001438,U0041,80.08,Safeway,Groceries,2026-05-21T08:08,"Berlin, Germany",Completed
+TXN-001190,U0138,41.98,Walmart,Shopping,2025-07-15T07:08,"San Francisco, USA",Completed
+TXN-000067,U0071,82.4,Safeway,Groceries,2025-10-05T04:57,"Los Angeles, USA",Completed
+TXN-000025,U0132,5.82,Starbucks,Food,2025-06-11T07:08,"San Francisco, USA",Completed
+TXN-000145,U0026,100.0,Bank of America ATM,ATM,2026-03-22T02:00,"Los Angeles, USA",Completed
+TXN-000537,U0050,84.5,Safeway,Groceries,2026-01-29T22:22,"Austin, USA",Completed
+TXN-000812,U0139,69.85,Uber,Travel,2026-04-07T08:59,"Chicago, USA",Completed
+TXN-001962,U0150,83.05,Crypto.com,Crypto,2025-08-14T02:18,"Seattle, USA",Completed
+TXN-000086,U0146,100.0,Bank of America ATM,ATM,2026-01-11T04:52,"Seattle, USA",Completed
+TXN-001808,U0034,21.57,DoorDash,Food,2026-01-20T04:59,"Los Angeles, USA",Completed
+TXN-001548,U0121,17.2,Starbucks,Food,2025-08-04T11:31,"Austin, USA",Completed
+TXN-001160,U0049,109.99,Netflix,Bills,2026-02-13T10:46,"New York, USA",Completed
+TXN-001949,U0060,16.72,Kraken,Crypto,2025-10-18T10:19,"San Francisco, USA",Completed
+TXN-001964,U0135,22.89,Local Deli,Food,2025-06-20T05:09,Singapore,Completed
+TXN-SUSP-00092,U0139,3329.53,Night ATM,Shopping,2026-03-18T04:18,"Berlin, Germany",Pending
+TXN-001238,U0048,2.85,Subway,Food,2025-10-16T00:31,"San Francisco, USA",Completed
+TXN-000363,U0083,17.4,Chipotle,Food,2025-09-30T01:49,"Los Angeles, USA",Completed
+TXN-001819,U0094,63.37,Marriott,Travel,2026-03-24T10:14,"Los Angeles, USA",Completed
+TXN-001433,U0105,5.19,Starbucks,Food,2025-08-04T21:27,"Chicago, USA",Completed
+TXN-001027,U0084,15.21,Subway,Food,2026-05-08T02:07,"San Francisco, USA",Completed
+TXN-001031,U0026,4.53,Chipotle,Food,2025-06-04T05:39,"San Francisco, USA",Completed
+TXN-001316,U0051,74.64,Safeway,Groceries,2025-11-17T06:14,"Austin, USA",Completed
+TXN-001464,U0064,18.31,Starbucks,Food,2025-10-16T05:09,"Los Angeles, USA",Completed
+TXN-001162,U0122,41.6,Marriott,Travel,2025-07-06T08:31,"Toronto, Canada",Completed
+TXN-000666,U0010,74.28,Costco,Groceries,2026-03-05T01:10,"Chicago, USA",Completed
+TXN-000365,U0095,84.76,Whole Foods,Groceries,2025-12-18T05:48,"Chicago, USA",Completed
+TXN-000078,U0033,3.48,Starbucks,Food,2026-04-09T01:19,"Chicago, USA",Completed
+TXN-000028,U0087,120.85,Verizon,Bills,2025-06-26T09:50,"Los Angeles, USA",Completed
+TXN-001553,U0096,107.79,Best Buy,Shopping,2025-09-12T03:28,"San Francisco, USA",Completed
+TXN-000526,U0081,138.9,Amazon,Shopping,2025-12-07T09:30,"Tokyo, Japan",Completed
+TXN-SUSP-00050,U0026,6100.33,Night ATM,Crypto,2026-02-18T00:29,"Dubai, UAE",Completed
+TXN-000056,U0085,76.3,Comcast,Bills,2025-11-28T10:08,"Seattle, USA",Completed
+TXN-000639,U0009,19.2,Chipotle,Food,2025-12-09T11:19,"San Francisco, USA",Completed
+TXN-000303,U0126,41.87,Lyft,Travel,2026-02-05T07:20,"Tokyo, Japan",Completed
+TXN-000719,U0147,11.1,Chipotle,Food,2026-04-03T22:10,"Seattle, USA",Completed
+TXN-000625,U0114,83.65,Best Buy,Shopping,2026-01-20T05:39,"New York, USA",Pending
+TXN-000008,U0072,107.36,Amazon,Shopping,2025-09-22T00:28,"Chicago, USA",Completed
+TXN-000804,U0103,95.55,Verizon,Bills,2025-09-06T10:25,"Austin, USA",Failed
+TXN-001050,U0083,74.92,Whole Foods,Groceries,2025-12-29T22:58,"Austin, USA",Failed
+TXN-000337,U0012,4.21,Chipotle,Food,2026-04-27T08:14,"Chicago, USA",Completed
+TXN-000048,U0061,244.86,Airbnb,Travel,2026-04-08T02:03,"Los Angeles, USA",Failed
+TXN-001958,U0091,30.18,Best Buy,Shopping,2025-09-09T03:24,"Austin, USA",Completed
+TXN-000107,U0069,24.14,Chipotle,Food,2026-05-05T21:52,"Chicago, USA",Completed
+TXN-000350,U0035,133.08,Apple Store,Shopping,2026-03-23T23:47,"Austin, USA",Completed
+TXN-001080,U0127,6.59,DoorDash,Food,2026-02-19T12:49,"Chicago, USA",Completed
+TXN-000239,U0108,35.37,Starbucks,Food,2025-10-21T09:59,"San Francisco, USA",Completed
+TXN-000214,U0111,44.49,Costco,Groceries,2025-07-07T10:09,"Seattle, USA",Completed
+TXN-001145,U0030,124.18,PG&E,Bills,2025-09-29T02:04,"Los Angeles, USA",Completed
+TXN-001922,U0036,75.49,Netflix,Bills,2025-12-17T05:02,"New York, USA",Completed
+TXN-001232,U0122,126.83,Binance,Crypto,2026-05-02T10:16,"Seattle, USA",Completed
+TXN-000794,U0078,116.37,Crypto.com,Crypto,2025-07-27T08:25,"Austin, USA",Completed
+TXN-001097,U0126,3.98,Local Deli,Food,2025-08-23T22:56,"New York, USA",Completed
+TXN-001274,U0109,8.05,Subway,Food,2025-11-22T07:35,"Chicago, USA",Failed
+TXN-001712,U0039,24.4,Starbucks,Food,2025-09-04T08:37,"Chicago, USA",Completed
+TXN-001704,U0051,10.91,Starbucks,Food,2025-12-08T22:54,"Berlin, Germany",Completed
+TXN-001802,U0103,220.16,Crypto.com,Crypto,2025-11-28T07:24,"New York, USA",Completed
+TXN-000524,U0139,4.19,Starbucks,Food,2026-05-14T06:17,"New York, USA",Completed
+TXN-000233,U0145,13.28,Local Deli,Food,2026-03-31T07:57,"New York, USA",Completed
+TXN-000645,U0040,21.32,Amazon,Shopping,2025-06-25T08:45,"Seattle, USA",Completed
+TXN-001628,U0138,113.34,Whole Foods,Groceries,2025-12-25T06:00,"New York, USA",Completed
+TXN-000534,U0003,20.29,Target,Shopping,2025-09-14T12:39,"New York, USA",Completed
+TXN-001629,U0016,70.37,Spotify,Bills,2025-06-07T11:34,"San Francisco, USA",Completed
+TXN-000604,U0047,91.53,Target,Shopping,2026-02-02T05:35,"Toronto, Canada",Completed
+TXN-001306,U0063,64.25,Whole Foods,Groceries,2026-04-07T22:51,"Seattle, USA",Completed
+TXN-001075,U0017,80.14,Trader Joe's,Groceries,2026-02-19T11:00,"New York, USA",Completed
+TXN-001878,U0065,94.87,Amazon,Shopping,2026-04-22T04:40,"San Francisco, USA",Completed
+TXN-000061,U0061,83.22,Whole Foods,Groceries,2025-10-18T07:09,"Seattle, USA",Completed
+TXN-001405,U0112,308.45,Airbnb,Travel,2026-03-01T02:28,"New York, USA",Completed
+TXN-000093,U0050,17.76,Subway,Food,2025-10-14T06:10,"San Francisco, USA",Completed
+TXN-000667,U0077,94.9,Apple Store,Shopping,2025-09-30T04:20,"New York, USA",Completed
+TXN-000281,U0019,15.43,DoorDash,Food,2025-05-27T03:41,"New York, USA",Completed
+TXN-001394,U0080,41.05,Target,Shopping,2025-12-12T10:21,"San Francisco, USA",Completed
+TXN-000360,U0053,47.94,Apple Store,Shopping,2025-08-05T03:56,"Los Angeles, USA",Completed
+TXN-001222,U0032,59.22,Walmart,Shopping,2025-07-08T01:30,"London, UK",Completed
+TXN-001264,U0140,57.07,Best Buy,Shopping,2025-08-13T04:07,"Seattle, USA",Completed
+TXN-000848,U0140,40.0,Chase ATM,ATM,2026-01-15T07:13,"Berlin, Germany",Completed
+TXN-001207,U0033,128.41,Target,Shopping,2026-05-08T09:34,"San Francisco, USA",Completed
+TXN-001489,U0087,65.97,Delta Airlines,Travel,2025-07-25T08:01,"Chicago, USA",Completed
+TXN-000111,U0104,123.66,Target,Shopping,2025-10-02T07:11,"Los Angeles, USA",Completed
+TXN-000043,U0014,34.27,DoorDash,Food,2026-02-08T12:20,"New York, USA",Completed
+TXN-000126,U0026,47.05,PG&E,Bills,2025-09-18T23:31,"Los Angeles, USA",Completed
+TXN-000205,U0135,53.43,Amazon,Shopping,2026-02-18T08:08,"Chicago, USA",Completed
+TXN-000053,U0149,119.2,Uber,Travel,2025-07-24T05:15,"Tokyo, Japan",Completed
+TXN-000546,U0142,101.25,Walmart,Shopping,2025-10-25T08:04,"Los Angeles, USA",Completed
+TXN-000069,U0099,75.13,Whole Foods,Groceries,2025-08-04T01:18,"Seattle, USA",Completed
+TXN-001230,U0075,47.06,Apple Store,Shopping,2025-05-30T10:34,"San Francisco, USA",Completed
+TXN-001668,U0077,269.37,Crypto.com,Crypto,2025-08-11T01:41,"Chicago, USA",Completed
+TXN-000184,U0135,152.8,Verizon,Bills,2025-09-29T11:32,"Chicago, USA",Completed
+TXN-000138,U0043,59.63,Delta Airlines,Travel,2026-02-21T05:57,"San Francisco, USA",Completed
+TXN-000900,U0008,124.35,PG&E,Bills,2025-10-18T07:07,"Chicago, USA",Completed
+TXN-000797,U0113,23.02,DoorDash,Food,2026-01-30T00:00,"Seattle, USA",Completed
+TXN-000133,U0076,39.69,Target,Shopping,2026-03-16T06:48,"New York, USA",Completed
+TXN-000081,U0063,120.0,Bank of America ATM,ATM,2025-12-15T03:08,"New York, USA",Completed
+TXN-001602,U0132,117.61,Amazon,Shopping,2025-08-09T00:28,"Berlin, Germany",Completed
+TXN-001661,U0107,159.99,Target,Shopping,2025-12-29T09:52,"New York, USA",Pending
+TXN-000542,U0100,100.19,Best Buy,Shopping,2026-01-02T07:05,"Seattle, USA",Completed
+TXN-001717,U0106,8.56,Local Deli,Food,2026-03-25T23:07,"New York, USA",Completed
+TXN-000984,U0054,63.63,Target,Shopping,2026-01-22T02:43,"San Francisco, USA",Completed
+TXN-000166,U0014,146.91,Target,Shopping,2026-03-12T00:00,"San Francisco, USA",Completed
+TXN-000249,U0087,40.7,Best Buy,Shopping,2026-04-06T06:41,"Chicago, USA",Completed
+TXN-000447,U0018,236.22,Binance,Crypto,2026-03-26T05:24,"New York, USA",Completed
+TXN-001972,U0097,113.86,Comcast,Bills,2025-08-15T22:08,"New York, USA",Completed
+TXN-000859,U0048,193.98,Apple Store,Shopping,2026-01-17T01:16,"Los Angeles, USA",Completed
+TXN-001310,U0082,57.16,Trader Joe's,Groceries,2025-12-17T07:08,"Austin, USA",Completed
+TXN-000098,U0134,37.64,Apple Store,Shopping,2025-12-25T04:53,"Austin, USA",Completed
+TXN-000806,U0095,3.61,Chipotle,Food,2025-12-24T02:48,"Chicago, USA",Completed
+TXN-000738,U0054,10.22,DoorDash,Food,2025-06-06T06:44,"Austin, USA",Completed
+TXN-001358,U0084,149.9,Amazon,Shopping,2026-01-12T02:42,"Chicago, USA",Completed
+TXN-000103,U0058,82.51,Comcast,Bills,2025-12-29T00:38,"Seattle, USA",Completed
+TXN-000435,U0124,80.42,Kroger,Groceries,2025-07-12T07:42,"Seattle, USA",Completed
+TXN-000075,U0084,19.58,Subway,Food,2025-11-09T03:33,"Austin, USA",Completed
+TXN-001934,U0072,54.17,Whole Foods,Groceries,2025-12-01T05:29,"Chicago, USA",Completed
+TXN-001470,U0013,14.75,Trader Joe's,Groceries,2025-09-19T02:13,"San Francisco, USA",Completed
+TXN-001231,U0072,43.96,Apple Store,Shopping,2025-08-12T02:19,"Los Angeles, USA",Completed
+TXN-000919,U0036,5.28,Subway,Food,2025-11-27T23:29,"San Francisco, USA",Completed
+TXN-001846,U0083,35.51,Starbucks,Food,2025-11-22T00:08,"Seattle, USA",Completed
+TXN-001801,U0107,41.81,DoorDash,Food,2025-09-09T09:30,"Chicago, USA",Completed
+TXN-001757,U0105,24.27,Subway,Food,2026-03-15T09:55,"Austin, USA",Completed
+TXN-000763,U0131,88.02,Kroger,Groceries,2025-12-29T02:33,"Austin, USA",Completed
+TXN-000990,U0027,23.85,Subway,Food,2026-01-15T00:10,"Los Angeles, USA",Completed
+TXN-000389,U0017,87.2,Costco,Groceries,2025-12-31T05:37,"San Francisco, USA",Failed
+TXN-000236,U0113,169.51,Amazon,Shopping,2026-05-12T22:14,"Austin, USA",Completed
+TXN-001627,U0105,47.81,Amazon,Shopping,2025-05-28T22:47,"Los Angeles, USA",Failed
+TXN-000268,U0140,10.45,DoorDash,Food,2025-10-18T11:45,"Chicago, USA",Completed
+TXN-001282,U0021,93.97,Whole Foods,Groceries,2025-08-09T08:13,"San Francisco, USA",Completed
+TXN-000118,U0077,85.2,Apple Store,Shopping,2025-10-08T21:22,"Los Angeles, USA",Completed
+TXN-001729,U0026,200.0,Bank of America ATM,ATM,2025-06-16T00:41,"Chicago, USA",Completed
+TXN-000674,U0022,289.16,Uber,Travel,2026-03-02T09:20,"Austin, USA",Completed
+TXN-000250,U0005,179.03,Marriott,Travel,2025-10-26T12:56,"Austin, USA",Completed
+TXN-001570,U0138,204.45,Lyft,Travel,2025-06-13T09:13,"Chicago, USA",Failed
+TXN-SUSP-00097,U0039,2826.16,Unknown Crypto Wallet,ATM,2026-02-05T04:51,"Berlin, Germany",Completed
+TXN-000095,U0073,29.99,Subway,Food,2025-07-16T21:40,"Chicago, USA",Completed
+TXN-000034,U0013,85.49,Marriott,Travel,2025-06-26T07:07,"Chicago, USA",Completed
+TXN-001582,U0048,17.87,Chipotle,Food,2025-10-27T06:09,"San Francisco, USA",Completed
+TXN-001798,U0138,111.05,Best Buy,Shopping,2026-01-26T01:33,"Los Angeles, USA",Completed
+TXN-000449,U0038,292.72,Airbnb,Travel,2025-07-22T10:13,"Chicago, USA",Completed
+TXN-000717,U0018,79.95,Costco,Groceries,2025-11-30T09:56,"Los Angeles, USA",Completed
+TXN-001367,U0115,24.6,DoorDash,Food,2025-08-09T10:44,"Seattle, USA",Completed
+TXN-001638,U0004,62.63,Kroger,Groceries,2025-10-28T01:41,"San Francisco, USA",Completed
+TXN-000001,U0036,112.38,Verizon,Bills,2025-10-13T04:18,"Seattle, USA",Completed
+TXN-001976,U0077,29.73,Apple Store,Shopping,2025-12-23T09:28,"Austin, USA",Completed
+TXN-001102,U0103,25.8,Amazon,Shopping,2025-08-07T11:08,"Seattle, USA",Completed
+TXN-001109,U0088,86.33,Uber,Travel,2026-04-18T11:28,"Seattle, USA",Completed
+TXN-001513,U0061,9.86,Airbnb,Travel,2026-03-29T10:47,"New York, USA",Completed
+TXN-000083,U0126,71.42,Delta Airlines,Travel,2025-06-01T10:56,"New York, USA",Pending
+TXN-001885,U0122,47.42,Trader Joe's,Groceries,2025-07-25T22:00,"San Francisco, USA",Completed
+TXN-000677,U0090,80.0,Chase ATM,ATM,2025-07-22T10:31,"San Francisco, USA",Completed
+TXN-001568,U0052,16.15,Walmart,Shopping,2025-08-30T06:00,"San Francisco, USA",Completed
+TXN-001047,U0145,252.68,Lyft,Travel,2026-03-04T03:46,"Seattle, USA",Completed
+TXN-000771,U0014,15.83,Subway,Food,2026-03-18T02:40,"Seattle, USA",Completed
+TXN-001314,U0071,54.43,Walmart,Shopping,2025-07-07T01:08,"Austin, USA",Completed
+TXN-001906,U0077,120.0,Wells Fargo ATM,ATM,2025-12-17T21:48,"Austin, USA",Completed
+TXN-001702,U0058,10.4,Subway,Food,2025-10-17T00:19,"San Francisco, USA",Completed
+TXN-001608,U0005,189.37,Delta Airlines,Travel,2025-07-14T04:18,"Seattle, USA",Completed
+TXN-000405,U0105,19.87,Chipotle,Food,2026-01-11T11:24,"New York, USA",Completed
+TXN-001939,U0068,125.99,Target,Shopping,2026-02-15T10:21,"Chicago, USA",Completed
+TXN-001403,U0083,97.1,Comcast,Bills,2026-03-10T10:47,"Los Angeles, USA",Completed
+TXN-001447,U0113,68.47,Best Buy,Shopping,2026-03-03T01:11,"New York, USA",Completed
+TXN-000105,U0104,80.0,Bank of America ATM,ATM,2025-07-28T11:48,"Dubai, UAE",Completed
+TXN-000689,U0039,20.0,Best Buy,Shopping,2025-06-10T05:18,"Austin, USA",Completed
+TXN-001412,U0037,225.73,Uber,Travel,2026-05-20T03:37,"Chicago, USA",Pending
+TXN-000827,U0076,10.29,Subway,Food,2025-09-14T01:26,"San Francisco, USA",Failed
+TXN-001241,U0049,116.0,Trader Joe's,Groceries,2026-04-13T00:06,"San Francisco, USA",Completed
+TXN-000063,U0038,142.78,Airbnb,Travel,2026-02-03T09:19,"Seattle, USA",Completed
+TXN-000853,U0126,113.35,Verizon,Bills,2026-02-12T09:16,"Austin, USA",Completed
+TXN-001462,U0074,39.69,Whole Foods,Groceries,2026-03-05T09:50,"Los Angeles, USA",Pending
+TXN-001263,U0145,95.75,Comcast,Bills,2025-08-05T12:52,"Los Angeles, USA",Completed
+TXN-000224,U0017,69.11,Kraken,Crypto,2026-05-02T08:49,"Chicago, USA",Completed
+TXN-000146,U0114,100.0,Bank of America ATM,ATM,2025-06-11T08:17,"Tokyo, Japan",Completed
+TXN-001089,U0149,51.83,Target,Shopping,2025-12-18T09:56,"Los Angeles, USA",Completed
+TXN-000374,U0077,20.48,Starbucks,Food,2025-07-17T07:27,"New York, USA",Completed
+TXN-001537,U0112,65.03,Airbnb,Travel,2025-05-30T06:11,"Toronto, Canada",Completed
+TXN-001143,U0109,111.97,Verizon,Bills,2026-04-24T10:03,"Seattle, USA",Completed
+TXN-001973,U0139,155.93,Airbnb,Travel,2026-05-07T09:39,"Seattle, USA",Completed
+TXN-001614,U0006,34.22,DoorDash,Food,2026-03-11T10:30,"Los Angeles, USA",Completed
+TXN-001275,U0108,87.61,PG&E,Bills,2025-08-04T04:28,"Chicago, USA",Completed
+TXN-001266,U0099,29.24,Chipotle,Food,2025-06-07T04:31,"New York, USA",Completed
+TXN-001724,U0027,106.48,Netflix,Bills,2025-10-22T04:37,"New York, USA",Completed
+TXN-001698,U0107,8.87,Starbucks,Food,2025-07-22T12:33,"Los Angeles, USA",Completed
+TXN-000010,U0143,51.9,Trader Joe's,Groceries,2026-01-17T09:21,"San Francisco, USA",Completed
+TXN-000450,U0074,55.42,Coinbase,Crypto,2025-07-19T00:54,"Los Angeles, USA",Completed
+TXN-000709,U0141,108.76,Spotify,Bills,2026-04-04T02:28,"Austin, USA",Completed
+TXN-000256,U0137,126.22,Delta Airlines,Travel,2025-08-22T12:02,"Austin, USA",Completed
+TXN-000883,U0035,319.52,Coinbase,Crypto,2026-01-19T00:37,"Chicago, USA",Completed
+TXN-000390,U0128,150.3,Netflix,Bills,2026-01-14T08:07,"Los Angeles, USA",Completed
+TXN-001487,U0111,40.0,Wells Fargo ATM,ATM,2025-07-16T01:59,"New York, USA",Completed
+TXN-000909,U0054,86.73,PG&E,Bills,2025-06-29T12:31,"Austin, USA",Completed
+TXN-000925,U0142,2.5,Starbucks,Food,2026-05-14T04:20,"Austin, USA",Completed
+TXN-001838,U0068,21.48,Local Deli,Food,2025-11-26T23:40,"Seattle, USA",Completed
+TXN-001332,U0101,11.83,Apple Store,Shopping,2026-01-01T04:39,"San Francisco, USA",Completed
+TXN-000461,U0013,91.86,Whole Foods,Groceries,2025-10-17T21:28,"San Francisco, USA",Completed
+TXN-001919,U0128,109.23,Kroger,Groceries,2026-03-09T21:32,"Austin, USA",Completed
+TXN-001835,U0062,122.08,Best Buy,Shopping,2025-10-01T08:51,"Chicago, USA",Completed
+TXN-001169,U0144,104.48,PG&E,Bills,2025-12-05T09:45,"Tokyo, Japan",Completed
+TXN-000959,U0103,64.83,Whole Foods,Groceries,2026-03-02T09:09,"San Francisco, USA",Completed
+TXN-000502,U0089,101.85,Netflix,Bills,2026-04-29T04:34,"Seattle, USA",Completed
+TXN-000740,U0082,73.71,Coinbase,Crypto,2025-09-08T08:39,"San Francisco, USA",Pending
+TXN-001999,U0125,10.72,DoorDash,Food,2025-07-25T06:19,"Los Angeles, USA",Completed
+TXN-000869,U0125,9.0,Local Deli,Food,2025-10-17T08:53,"Austin, USA",Pending
+TXN-000732,U0106,132.75,PG&E,Bills,2026-05-23T22:21,"New York, USA",Completed
+TXN-000540,U0085,101.56,Trader Joe's,Groceries,2025-06-07T11:49,"New York, USA",Completed
+TXN-001202,U0032,148.57,Apple Store,Shopping,2025-09-28T23:21,"Chicago, USA",Completed
+TXN-000698,U0105,146.28,Lyft,Travel,2025-09-01T04:06,"Los Angeles, USA",Completed
+TXN-001506,U0125,18.74,Chipotle,Food,2025-10-08T12:13,"Los Angeles, USA",Completed
+TXN-001488,U0109,8.53,Local Deli,Food,2026-02-21T10:01,"Austin, USA",Completed
+TXN-001146,U0109,60.0,Bank of America ATM,ATM,2026-05-21T23:37,"San Francisco, USA",Completed
+TXN-001032,U0022,47.34,Costco,Groceries,2026-03-12T10:32,"Los Angeles, USA",Completed
+TXN-000373,U0034,9.07,DoorDash,Food,2025-07-26T10:48,"Chicago, USA",Completed
+TXN-000668,U0045,100.0,Wells Fargo ATM,ATM,2025-07-04T07:54,"Chicago, USA",Completed
+TXN-001646,U0011,112.84,Trader Joe's,Groceries,2025-09-19T11:15,"Berlin, Germany",Completed
+TXN-000358,U0068,24.72,Chipotle,Food,2025-10-24T22:32,"Austin, USA",Completed
+TXN-000968,U0021,58.06,Costco,Groceries,2025-11-23T05:41,"Los Angeles, USA",Completed
+TXN-000784,U0007,16.42,DoorDash,Food,2025-10-01T03:06,"Seattle, USA",Completed
+TXN-000736,U0010,88.32,Kroger,Groceries,2026-05-07T01:17,"Chicago, USA",Completed
+TXN-001036,U0137,8.62,Local Deli,Food,2025-10-16T22:14,"Chicago, USA",Completed
+TXN-000971,U0067,149.65,Binance,Crypto,2025-09-11T02:09,"Los Angeles, USA",Completed
+TXN-001645,U0134,132.65,Uber,Travel,2025-06-23T11:40,"San Francisco, USA",Completed
+TXN-001606,U0103,101.76,Walmart,Shopping,2025-10-13T22:42,"London, UK",Completed
+TXN-001907,U0011,65.71,Apple Store,Shopping,2026-03-23T12:44,"Seattle, USA",Failed
+TXN-001926,U0036,65.3,Spotify,Bills,2026-02-20T21:23,"Austin, USA",Completed
+TXN-001329,U0102,86.19,Whole Foods,Groceries,2025-11-21T11:30,"New York, USA",Completed
+TXN-001569,U0149,106.19,PG&E,Bills,2025-07-12T12:26,"Austin, USA",Completed
+TXN-001610,U0114,71.35,Delta Airlines,Travel,2025-11-16T07:26,"San Francisco, USA",Completed
+TXN-001908,U0122,65.75,Delta Airlines,Travel,2025-06-10T05:48,"Los Angeles, USA",Completed
+TXN-001253,U0015,46.31,Walmart,Shopping,2025-12-21T06:24,"Seattle, USA",Completed
+TXN-001827,U0020,16.16,Local Deli,Food,2025-09-23T23:59,"New York, USA",Completed
+TXN-001850,U0060,157.21,Best Buy,Shopping,2025-09-29T03:24,"London, UK",Completed
+TXN-001237,U0001,46.88,Target,Shopping,2025-06-19T02:06,"New York, USA",Completed
+TXN-000886,U0004,39.82,Safeway,Groceries,2026-05-08T08:15,"Toronto, Canada",Completed
+TXN-000080,U0007,98.58,Comcast,Bills,2025-11-01T00:41,Singapore,Completed
+TXN-001173,U0003,100.0,Chase ATM,ATM,2026-02-16T04:10,"Chicago, USA",Completed
+TXN-000815,U0027,4.85,DoorDash,Food,2025-11-13T11:06,"Seattle, USA",Pending
+TXN-001388,U0090,56.38,Costco,Groceries,2026-01-12T12:51,"Toronto, Canada",Completed
+TXN-000672,U0013,23.11,Local Deli,Food,2026-05-18T04:13,"Seattle, USA",Failed
+TXN-001652,U0130,47.03,Target,Shopping,2026-02-02T02:25,"Chicago, USA",Completed
+TXN-000058,U0045,61.92,Lyft,Travel,2025-12-27T09:47,"Seattle, USA",Completed
+TXN-000134,U0128,32.96,Amazon,Shopping,2026-03-10T23:02,"Los Angeles, USA",Completed
+TXN-001141,U0010,66.37,Best Buy,Shopping,2025-10-29T23:30,"Toronto, Canada",Completed
+TXN-000934,U0084,97.94,Lyft,Travel,2025-10-06T02:47,"Los Angeles, USA",Completed
+TXN-001817,U0101,6.65,Chipotle,Food,2026-04-10T06:47,Singapore,Completed
+TXN-000824,U0149,50.39,Trader Joe's,Groceries,2025-09-29T07:31,"San Francisco, USA",Pending
+TXN-001215,U0136,90.38,Safeway,Groceries,2026-05-20T08:19,"Seattle, USA",Completed
+TXN-000505,U0061,208.15,Marriott,Travel,2026-04-20T09:29,"New York, USA",Completed
+TXN-001916,U0064,58.53,Verizon,Bills,2025-09-04T12:35,"New York, USA",Completed
+TXN-000348,U0081,32.65,Target,Shopping,2026-05-04T12:37,"Chicago, USA",Completed
+TXN-000387,U0036,18.97,Chipotle,Food,2025-07-25T21:49,"Seattle, USA",Completed
+TXN-001025,U0136,29.4,Walmart,Shopping,2025-12-23T21:59,"Austin, USA",Completed
+TXN-000895,U0009,80.41,Apple Store,Shopping,2026-02-28T21:52,"Toronto, Canada",Completed
+TXN-000829,U0095,123.04,Walmart,Shopping,2026-05-21T09:15,"Seattle, USA",Completed
+TXN-SUSP-00044,U0041,2361.87,Night ATM,ATM,2026-02-25T03:00,"Dubai, UAE",Pending
+TXN-000476,U0047,81.04,Apple Store,Shopping,2026-01-15T01:24,"Los Angeles, USA",Completed
+TXN-001589,U0087,7.57,Chipotle,Food,2025-10-27T10:09,"Austin, USA",Completed
+TXN-001564,U0119,19.37,Subway,Food,2026-03-11T23:40,"New York, USA",Completed
+TXN-001510,U0101,19.12,Walmart,Shopping,2025-10-22T12:35,"Chicago, USA",Completed
+TXN-000653,U0018,67.04,Target,Shopping,2025-07-21T00:37,"New York, USA",Pending
+TXN-000173,U0006,62.9,Airbnb,Travel,2025-10-21T00:29,"Tokyo, Japan",Completed
+TXN-001150,U0111,111.92,Spotify,Bills,2025-12-25T06:50,"San Francisco, USA",Completed
+TXN-000039,U0068,232.16,Uber,Travel,2025-07-02T03:36,"New York, USA",Completed
+TXN-000714,U0048,38.76,Local Deli,Food,2025-10-15T03:07,"New York, USA",Completed
+TXN-000091,U0117,171.82,Apple Store,Shopping,2025-11-11T08:48,"San Francisco, USA",Completed
+TXN-000167,U0109,9.45,Starbucks,Food,2025-10-12T11:46,"Chicago, USA",Completed
+TXN-001206,U0013,32.38,Kroger,Groceries,2025-10-11T01:01,"San Francisco, USA",Pending
+TXN-000876,U0031,22.5,Local Deli,Food,2026-03-24T22:34,"London, UK",Completed
+TXN-001460,U0068,90.96,Whole Foods,Groceries,2026-04-02T08:03,"Los Angeles, USA",Completed
+TXN-SUSP-00041,U0087,2803.84,Unverified Marketplace,Crypto,2026-05-08T00:56,Singapore,Completed
+TXN-001094,U0006,85.15,Netflix,Bills,2026-05-14T06:24,"Chicago, USA",Completed
+TXN-001156,U0087,145.7,Kraken,Crypto,2026-01-29T12:52,"Seattle, USA",Completed
+TXN-001325,U0073,276.47,Lyft,Travel,2026-02-27T10:28,"Los Angeles, USA",Completed
+TXN-001473,U0131,17.08,Starbucks,Food,2025-07-04T11:11,"New York, USA",Completed
+TXN-001351,U0009,111.37,Verizon,Bills,2026-01-11T03:00,"Tokyo, Japan",Completed
+TXN-000511,U0134,17.12,DoorDash,Food,2025-11-23T06:39,"Austin, USA",Completed
+TXN-000500,U0081,42.79,Safeway,Groceries,2025-06-17T23:20,"New York, USA",Completed
+TXN-001466,U0146,46.65,Kroger,Groceries,2025-06-01T00:23,"Seattle, USA",Completed
+TXN-001731,U0111,84.03,Netflix,Bills,2026-01-15T22:29,"Seattle, USA",Completed
+TXN-000339,U0096,226.89,Marriott,Travel,2026-05-13T04:32,"Austin, USA",Completed
+TXN-001189,U0124,108.04,Verizon,Bills,2026-03-25T02:28,"Toronto, Canada",Completed
+TXN-000029,U0047,19.0,Local Deli,Food,2026-01-10T01:31,"San Francisco, USA",Completed
+TXN-001218,U0124,80.0,Chase ATM,ATM,2026-02-26T00:22,"San Francisco, USA",Completed
+TXN-001432,U0150,114.22,Safeway,Groceries,2026-02-20T03:09,"New York, USA",Pending
+TXN-001977,U0038,29.2,Starbucks,Food,2025-09-13T10:53,"Austin, USA",Completed
+TXN-000946,U0144,129.56,Best Buy,Shopping,2026-05-04T08:12,"New York, USA",Completed
+TXN-000170,U0031,9.99,Chipotle,Food,2025-10-03T06:24,"New York, USA",Completed
+TXN-001518,U0013,115.6,PG&E,Bills,2026-03-04T23:45,"Chicago, USA",Completed
+TXN-001198,U0033,136.72,Binance,Crypto,2026-03-24T08:21,"Seattle, USA",Completed
+TXN-001254,U0138,146.55,Target,Shopping,2025-08-24T05:05,"Seattle, USA",Completed
+TXN-001512,U0102,12.78,Subway,Food,2025-11-05T00:26,"Seattle, USA",Completed
+TXN-000913,U0094,60.0,Wells Fargo ATM,ATM,2026-04-10T22:37,"Chicago, USA",Completed
+TXN-000492,U0131,40.0,Wells Fargo ATM,ATM,2026-05-03T12:13,"New York, USA",Completed
+TXN-000954,U0002,33.66,Delta Airlines,Travel,2026-03-10T03:41,"Chicago, USA",Completed
+TXN-001098,U0135,80.0,Bank of America ATM,ATM,2025-10-18T03:18,"New York, USA",Completed
+TXN-001033,U0063,93.06,Trader Joe's,Groceries,2025-12-03T02:54,"Chicago, USA",Completed
+TXN-000588,U0015,180.94,Netflix,Bills,2025-12-17T06:49,"Dubai, UAE",Completed
+TXN-000751,U0061,51.4,Netflix,Bills,2026-01-03T07:38,"San Francisco, USA",Completed
+TXN-000658,U0060,36.86,Whole Foods,Groceries,2025-09-13T00:10,"Chicago, USA",Completed
+TXN-000235,U0063,194.35,Marriott,Travel,2025-10-21T06:34,"Los Angeles, USA",Completed
+TXN-000733,U0029,73.87,Target,Shopping,2025-09-13T06:15,"Austin, USA",Completed
+TXN-SUSP-00094,U0026,1552.87,Unknown Crypto Wallet,Crypto,2026-02-16T04:33,"London, UK",Completed
+TXN-001950,U0006,51.89,Kroger,Groceries,2025-11-23T04:13,"Chicago, USA",Completed
+TXN-001157,U0103,113.25,PG&E,Bills,2025-11-03T04:27,"Austin, USA",Completed
+TXN-001588,U0020,75.83,Kroger,Groceries,2026-03-28T10:02,"Seattle, USA",Completed
+TXN-001541,U0025,2.71,Starbucks,Food,2025-11-01T03:16,"Chicago, USA",Completed
+TXN-SUSP-00065,U0026,5964.41,Unknown Crypto Wallet,Shopping,2026-03-27T01:19,"Dubai, UAE",Completed
+TXN-000935,U0147,84.41,Walmart,Shopping,2025-12-13T09:57,"San Francisco, USA",Pending
+TXN-001210,U0134,69.45,Kroger,Groceries,2025-10-19T05:31,"Dubai, UAE",Completed
+TXN-001066,U0052,113.58,Safeway,Groceries,2025-11-18T03:16,"Los Angeles, USA",Completed
+TXN-000109,U0105,87.79,Netflix,Bills,2025-07-11T12:26,"Austin, USA",Completed
+TXN-001672,U0031,111.81,Kraken,Crypto,2025-10-02T21:12,"Seattle, USA",Completed
+TXN-000569,U0042,30.84,Subway,Food,2026-01-26T03:41,"Seattle, USA",Completed
+TXN-001168,U0058,82.64,Netflix,Bills,2025-07-11T07:59,Singapore,Completed
+TXN-001175,U0129,21.95,Whole Foods,Groceries,2026-03-28T07:23,"Toronto, Canada",Completed
+TXN-000891,U0126,18.5,Subway,Food,2025-07-20T00:20,"Chicago, USA",Completed
+TXN-000948,U0128,7.3,Starbucks,Food,2025-11-01T22:12,"Los Angeles, USA",Completed
+TXN-001049,U0137,54.55,Costco,Groceries,2025-08-31T21:48,"Seattle, USA",Completed
+TXN-001461,U0110,53.04,Costco,Groceries,2026-04-09T10:59,"Los Angeles, USA",Pending
+TXN-001482,U0144,89.78,Best Buy,Shopping,2025-11-26T23:26,"Chicago, USA",Completed
+TXN-001563,U0001,56.16,Walmart,Shopping,2026-05-13T10:15,"Austin, USA",Completed
+TXN-000885,U0110,61.65,Safeway,Groceries,2025-09-18T10:22,"San Francisco, USA",Completed
+TXN-001811,U0115,33.72,Starbucks,Food,2025-11-27T07:41,"Chicago, USA",Completed
+TXN-SUSP-00063,U0039,5121.66,Offshore Exchange,ATM,2026-02-27T02:34,"Tokyo, Japan",Completed
+TXN-000851,U0084,172.79,Comcast,Bills,2026-01-09T08:09,"New York, USA",Completed
+TXN-001408,U0140,120.0,Chase ATM,ATM,2026-03-19T08:12,"Los Angeles, USA",Completed
+TXN-000735,U0084,49.99,Best Buy,Shopping,2026-02-18T06:53,"New York, USA",Completed
+TXN-000718,U0071,7.04,Subway,Food,2025-08-02T00:48,"Austin, USA",Completed
+TXN-000455,U0023,149.94,Target,Shopping,2025-10-10T10:42,"San Francisco, USA",Completed
+TXN-000265,U0023,111.69,Kraken,Crypto,2025-10-18T23:02,"Seattle, USA",Completed
+TXN-000076,U0005,12.08,Best Buy,Shopping,2025-10-01T23:34,"Seattle, USA",Completed
+TXN-001787,U0100,146.59,Uber,Travel,2025-09-19T22:57,"San Francisco, USA",Completed
+TXN-000445,U0115,49.39,Best Buy,Shopping,2025-06-12T01:11,"San Francisco, USA",Failed
+TXN-000396,U0075,57.42,Subway,Food,2025-05-30T08:16,"Chicago, USA",Completed
+TXN-000177,U0066,125.3,Comcast,Bills,2025-09-23T00:13,"San Francisco, USA",Completed
+TXN-001043,U0050,78.16,Whole Foods,Groceries,2025-07-28T11:27,"Austin, USA",Completed
+TXN-001872,U0090,125.37,Comcast,Bills,2025-09-20T12:04,"Seattle, USA",Completed
+TXN-001515,U0057,23.59,Target,Shopping,2025-06-22T05:35,"Austin, USA",Completed
+TXN-001631,U0149,120.33,Whole Foods,Groceries,2025-08-08T05:52,"Los Angeles, USA",Completed
+TXN-001492,U0002,73.97,Kroger,Groceries,2025-07-07T02:01,"Chicago, USA",Completed
+TXN-000596,U0145,45.66,Kroger,Groceries,2025-10-01T11:28,"Chicago, USA",Completed
+TXN-000062,U0019,39.94,Starbucks,Food,2025-06-18T04:34,"Chicago, USA",Completed
+TXN-001297,U0037,155.09,Uber,Travel,2025-09-21T03:55,"Los Angeles, USA",Completed
+TXN-000873,U0031,233.19,Kraken,Crypto,2025-08-22T06:05,"San Francisco, USA",Completed
+TXN-001609,U0085,95.25,Spotify,Bills,2026-01-16T10:44,"Chicago, USA",Completed
+TXN-SUSP-00029,U0003,6204.1,Luxury Wire Transfer,ATM,2026-05-23T00:17,"Toronto, Canada",Completed
+TXN-000279,U0131,62.2,Walmart,Shopping,2026-03-20T12:09,"Austin, USA",Completed
+TXN-001393,U0135,95.04,PG&E,Bills,2026-04-11T12:00,"San Francisco, USA",Completed
+TXN-000037,U0081,99.71,Spotify,Bills,2025-11-03T05:17,"San Francisco, USA",Completed
+TXN-001636,U0113,151.57,Walmart,Shopping,2026-03-12T06:34,"Seattle, USA",Completed
+TXN-000663,U0141,43.71,Kroger,Groceries,2025-09-26T03:28,Singapore,Completed
+TXN-001952,U0105,162.98,Crypto.com,Crypto,2025-07-28T00:19,"San Francisco, USA",Completed
+TXN-001561,U0104,29.61,Kraken,Crypto,2026-02-13T21:46,"Austin, USA",Completed
+TXN-000978,U0086,106.98,Target,Shopping,2026-03-13T09:07,"New York, USA",Completed
+TXN-001693,U0041,80.17,Costco,Groceries,2025-12-02T10:56,"Austin, USA",Completed
+TXN-000739,U0039,98.11,Target,Shopping,2026-01-06T00:21,"San Francisco, USA",Completed
+TXN-000192,U0043,49.49,Comcast,Bills,2025-08-17T02:57,"Seattle, USA",Completed
+TXN-000920,U0024,74.78,Uber,Travel,2026-02-17T05:35,"San Francisco, USA",Completed
+TXN-000457,U0135,31.92,Apple Store,Shopping,2025-12-18T01:53,"Los Angeles, USA",Completed
+TXN-001418,U0026,73.64,Airbnb,Travel,2026-01-26T06:22,"Tokyo, Japan",Completed
+TXN-000676,U0069,71.33,Spotify,Bills,2025-09-29T04:08,"Los Angeles, USA",Completed
+TXN-000761,U0033,158.8,Target,Shopping,2025-12-25T01:22,"New York, USA",Completed
+TXN-001953,U0001,20.23,Chipotle,Food,2025-09-15T05:10,"San Francisco, USA",Completed
+TXN-001725,U0111,132.26,Kraken,Crypto,2025-09-26T12:57,"Austin, USA",Completed
+TXN-000729,U0148,114.35,Costco,Groceries,2026-03-05T21:17,"Seattle, USA",Completed
+TXN-SUSP-00035,U0127,957.59,Unknown Crypto Wallet,Crypto,2026-05-23T04:56,Singapore,Completed
+TXN-001400,U0070,107.16,Marriott,Travel,2025-08-12T23:49,"New York, USA",Completed
+TXN-000413,U0008,22.27,Local Deli,Food,2026-01-02T09:35,"Austin, USA",Completed
+TXN-001099,U0041,80.45,Lyft,Travel,2025-11-09T10:29,"Toronto, Canada",Completed
+TXN-000826,U0127,137.66,Best Buy,Shopping,2026-01-26T00:32,"San Francisco, USA",Completed
+TXN-001616,U0103,52.72,Kraken,Crypto,2025-08-25T02:53,"Chicago, USA",Completed
+TXN-000617,U0038,82.64,Safeway,Groceries,2026-04-05T06:33,"Los Angeles, USA",Completed
+TXN-000115,U0030,36.65,Subway,Food,2025-07-12T04:57,"Chicago, USA",Completed
+TXN-000418,U0072,38.11,DoorDash,Food,2026-03-27T04:05,"New York, USA",Failed
+TXN-SUSP-00057,U0139,3401.6,Luxury Wire Transfer,ATM,2026-04-03T04:21,"Toronto, Canada",Completed
+TXN-000970,U0116,98.15,PG&E,Bills,2026-03-22T11:52,"Seattle, USA",Completed
+TXN-000605,U0135,94.4,Walmart,Shopping,2026-03-17T01:07,"Los Angeles, USA",Completed
+TXN-SUSP-00061,U0087,4606.72,Offshore Exchange,Crypto,2026-03-13T00:41,"Tokyo, Japan",Completed
+TXN-000090,U0149,41.57,Best Buy,Shopping,2026-05-15T04:23,"Austin, USA",Completed
+TXN-000849,U0145,71.43,Netflix,Bills,2025-10-21T01:55,"Seattle, USA",Pending
+TXN-001640,U0125,76.52,Spotify,Bills,2025-11-02T08:28,"Seattle, USA",Completed
+TXN-SUSP-00060,U0084,3537.38,Unknown Crypto Wallet,Shopping,2026-04-24T00:50,Singapore,Completed
+TXN-000754,U0056,36.1,Costco,Groceries,2026-02-02T22:09,"Los Angeles, USA",Completed
+TXN-000499,U0034,26.5,Subway,Food,2025-11-24T21:59,"Chicago, USA",Completed
+TXN-001277,U0093,87.8,Trader Joe's,Groceries,2026-05-19T23:19,"New York, USA",Failed
+TXN-001326,U0027,96.52,Target,Shopping,2026-05-20T00:09,"New York, USA",Completed
+TXN-000012,U0102,100.0,Wells Fargo ATM,ATM,2025-11-03T03:45,"Los Angeles, USA",Completed
+TXN-000397,U0051,137.04,Netflix,Bills,2025-11-30T12:53,"Seattle, USA",Completed
+TXN-000285,U0119,11.85,Chipotle,Food,2025-05-26T21:23,"Seattle, USA",Completed
+TXN-001067,U0149,45.62,Netflix,Bills,2026-03-29T07:58,"Chicago, USA",Completed
+TXN-001192,U0047,80.03,Whole Foods,Groceries,2025-09-09T00:15,"New York, USA",Completed
+TXN-001441,U0085,63.75,Whole Foods,Groceries,2025-08-05T03:39,Singapore,Completed
+TXN-001963,U0059,76.69,Whole Foods,Groceries,2025-12-07T08:07,"New York, USA",Completed
+TXN-001451,U0102,82.03,Comcast,Bills,2025-10-22T01:42,"Chicago, USA",Completed
+TXN-000691,U0034,36.13,Apple Store,Shopping,2025-11-10T11:38,"San Francisco, USA",Completed
+TXN-001756,U0127,39.32,Apple Store,Shopping,2025-08-25T02:05,"Seattle, USA",Completed
+TXN-SUSP-00026,U0127,4699.6,Unverified Marketplace,Crypto,2026-02-13T03:04,"Berlin, Germany",Completed
+TXN-000690,U0062,27.99,Subway,Food,2026-02-16T04:30,"Chicago, USA",Completed
+TXN-000852,U0022,51.68,Comcast,Bills,2025-10-15T03:05,"Chicago, USA",Completed
+TXN-001499,U0139,87.46,Whole Foods,Groceries,2026-03-27T23:01,"Chicago, USA",Completed
+TXN-000160,U0144,93.97,Trader Joe's,Groceries,2026-03-05T22:41,"Chicago, USA",Completed
+TXN-000896,U0118,27.1,Subway,Food,2025-11-03T09:32,"New York, USA",Completed
+TXN-001777,U0053,118.97,Costco,Groceries,2025-07-02T03:35,"Chicago, USA",Completed
+TXN-000258,U0126,200.0,Bank of America ATM,ATM,2025-10-20T03:48,"Austin, USA",Completed
+TXN-000336,U0138,80.0,Wells Fargo ATM,ATM,2025-12-25T22:54,"Chicago, USA",Completed
+TXN-SUSP-00031,U0039,5038.78,Unknown Crypto Wallet,Crypto,2026-02-26T04:44,"London, UK",Pending
+TXN-001040,U0143,291.43,Uber,Travel,2026-05-05T02:30,"Los Angeles, USA",Completed
+TXN-000516,U0033,74.65,Lyft,Travel,2026-05-15T02:50,"New York, USA",Completed
+TXN-001349,U0115,70.5,Walmart,Shopping,2026-01-30T11:00,"Austin, USA",Completed
+TXN-001016,U0090,90.59,Safeway,Groceries,2025-05-27T00:39,"New York, USA",Completed
+TXN-000769,U0085,16.35,Subway,Food,2026-02-12T12:40,"Austin, USA",Pending
+TXN-001884,U0117,88.95,Whole Foods,Groceries,2025-10-27T01:20,Singapore,Completed
+TXN-000762,U0022,8.46,Subway,Food,2026-04-27T10:12,"New York, USA",Completed
+TXN-001247,U0131,194.0,Uber,Travel,2025-08-18T11:52,"Austin, USA",Completed
+TXN-001204,U0057,122.5,Costco,Groceries,2025-05-31T00:28,"Austin, USA",Completed
+TXN-SUSP-00058,U0110,3708.5,Unknown Crypto Wallet,Shopping,2026-03-09T03:18,Singapore,Completed
+TXN-001124,U0082,135.67,Comcast,Bills,2025-11-12T02:44,"Berlin, Germany",Completed
+TXN-000522,U0004,119.51,Spotify,Bills,2025-10-19T10:55,"Chicago, USA",Completed
+TXN-000023,U0133,89.34,Netflix,Bills,2026-05-04T08:32,"Chicago, USA",Completed
+TXN-000357,U0113,40.04,Costco,Groceries,2026-02-26T22:52,"Chicago, USA",Failed
+TXN-001278,U0029,14.81,Local Deli,Food,2026-01-23T02:02,"New York, USA",Completed
+TXN-001313,U0006,122.28,Safeway,Groceries,2025-09-11T22:17,"Tokyo, Japan",Completed
+TXN-001815,U0113,53.81,Kroger,Groceries,2026-05-13T09:03,"Chicago, USA",Completed
+TXN-000341,U0088,814.55,Coinbase,Crypto,2025-08-06T08:23,"Chicago, USA",Completed
+TXN-000432,U0097,82.69,Best Buy,Shopping,2025-08-19T10:35,"Austin, USA",Completed
+TXN-000474,U0050,15.73,Starbucks,Food,2026-04-14T23:34,"Chicago, USA",Completed
+TXN-000218,U0033,229.98,Binance,Crypto,2026-04-02T11:06,"New York, USA",Completed
+TXN-000912,U0137,17.43,Subway,Food,2025-09-12T11:21,"Los Angeles, USA",Completed
+TXN-001228,U0029,132.23,Best Buy,Shopping,2026-02-06T09:12,"Tokyo, Japan",Completed
+TXN-001718,U0108,5.06,Chipotle,Food,2025-12-12T02:45,"Austin, USA",Completed
+TXN-001012,U0055,17.06,Local Deli,Food,2026-02-20T00:48,"Chicago, USA",Completed
+TXN-000958,U0013,39.03,Netflix,Bills,2025-11-08T01:17,"Los Angeles, USA",Completed
+TXN-000094,U0014,202.11,Apple Store,Shopping,2025-07-29T05:06,"Chicago, USA",Completed
+TXN-001009,U0020,28.91,Chipotle,Food,2026-01-24T03:32,"Austin, USA",Completed
+TXN-001071,U0050,32.97,Starbucks,Food,2025-08-06T06:32,"Seattle, USA",Completed
+TXN-001093,U0091,93.42,Costco,Groceries,2025-05-30T12:55,"Austin, USA",Completed
+TXN-001707,U0048,16.85,DoorDash,Food,2026-04-26T07:25,"San Francisco, USA",Completed
+TXN-001309,U0028,71.23,Whole Foods,Groceries,2025-07-08T02:50,Singapore,Pending
+TXN-000697,U0096,49.61,Subway,Food,2025-08-02T12:49,"San Francisco, USA",Completed
+TXN-001936,U0087,45.35,Kroger,Groceries,2026-05-16T01:34,"New York, USA",Completed
+TXN-000997,U0039,14.22,Starbucks,Food,2025-12-12T22:46,"London, UK",Completed
+TXN-001459,U0014,7.98,Chipotle,Food,2026-04-28T10:38,"Seattle, USA",Completed
+TXN-000154,U0008,104.0,Spotify,Bills,2025-10-27T11:45,"New York, USA",Completed
+TXN-001100,U0053,124.55,Amazon,Shopping,2025-12-11T03:12,"Austin, USA",Completed
+TXN-001853,U0038,5.28,Local Deli,Food,2025-07-13T09:52,"Seattle, USA",Completed
+TXN-SUSP-00100,U0039,6116.71,Unknown Crypto Wallet,Shopping,2026-05-07T04:45,"London, UK",Completed
+TXN-000790,U0114,36.03,Subway,Food,2025-09-14T01:02,"Seattle, USA",Completed
+TXN-000581,U0110,99.61,Safeway,Groceries,2025-11-27T00:13,"Seattle, USA",Completed
+TXN-001471,U0142,15.87,Local Deli,Food,2026-01-06T07:06,"Seattle, USA",Completed
+TXN-000704,U0076,109.98,Costco,Groceries,2026-01-17T02:31,"Seattle, USA",Completed
+TXN-001213,U0131,212.67,Airbnb,Travel,2025-05-31T10:47,Singapore,Completed
+TXN-001296,U0010,70.66,Lyft,Travel,2025-06-07T09:34,"San Francisco, USA",Completed
+TXN-001796,U0122,26.15,Starbucks,Food,2026-03-09T23:05,"Dubai, UAE",Completed
+TXN-001261,U0064,33.81,Starbucks,Food,2026-04-19T22:12,"Los Angeles, USA",Completed
+TXN-000488,U0134,5.69,Subway,Food,2026-04-29T00:46,"San Francisco, USA",Completed
+TXN-000560,U0132,10.0,Chipotle,Food,2026-04-05T02:52,"New York, USA",Completed
+TXN-001142,U0090,200.0,Chase ATM,ATM,2025-09-02T10:20,"Chicago, USA",Completed
+TXN-001120,U0004,40.5,Starbucks,Food,2025-11-24T07:15,"Austin, USA",Completed
+TXN-000802,U0013,171.08,Walmart,Shopping,2025-06-02T02:44,"London, UK",Completed
+TXN-000513,U0087,60.0,Bank of America ATM,ATM,2025-09-13T11:56,"New York, USA",Completed
+TXN-000634,U0013,147.33,Comcast,Bills,2025-11-05T21:13,"Berlin, Germany",Completed
+TXN-001931,U0096,23.53,Best Buy,Shopping,2025-06-09T03:46,"Austin, USA",Completed
+TXN-001930,U0016,75.45,Costco,Groceries,2025-09-18T05:30,"Los Angeles, USA",Completed
+TXN-001666,U0026,186.36,Delta Airlines,Travel,2026-04-01T09:07,"New York, USA",Completed
+TXN-001151,U0029,83.28,Comcast,Bills,2026-01-30T02:36,"Chicago, USA",Completed
+TXN-000791,U0128,45.95,Local Deli,Food,2025-10-01T11:05,"New York, USA",Completed
+TXN-000117,U0018,67.81,Airbnb,Travel,2025-08-31T01:59,"San Francisco, USA",Completed
+TXN-001498,U0025,191.5,Coinbase,Crypto,2025-09-21T05:13,"San Francisco, USA",Completed
+TXN-000741,U0080,58.21,Kroger,Groceries,2025-09-28T02:08,"Seattle, USA",Completed
+TXN-001824,U0089,58.55,Safeway,Groceries,2025-12-20T07:12,"Seattle, USA",Completed
+TXN-001082,U0097,36.85,Chipotle,Food,2025-10-29T11:00,"Chicago, USA",Pending
+TXN-000831,U0021,89.43,Spotify,Bills,2026-02-27T03:54,"Seattle, USA",Completed
+TXN-000120,U0099,29.53,Target,Shopping,2025-08-30T04:40,"San Francisco, USA",Completed
+TXN-000657,U0069,70.84,Best Buy,Shopping,2025-11-29T22:56,"Chicago, USA",Completed
+TXN-SUSP-00056,U0110,6321.23,Unverified Marketplace,Travel,2026-04-06T02:03,Singapore,Completed
+TXN-000636,U0080,20.06,Subway,Food,2025-09-14T07:30,"Los Angeles, USA",Completed
+TXN-000370,U0093,19.48,DoorDash,Food,2025-08-15T05:09,"San Francisco, USA",Completed
+TXN-000269,U0029,32.96,Local Deli,Food,2026-01-20T05:16,"Austin, USA",Completed
+TXN-000656,U0021,26.13,Chipotle,Food,2026-04-26T13:03,"Chicago, USA",Completed
+TXN-000936,U0119,40.0,Wells Fargo ATM,ATM,2026-04-04T05:02,"San Francisco, USA",Completed
+TXN-000823,U0119,53.24,Safeway,Groceries,2025-09-13T12:57,"San Francisco, USA",Completed
+TXN-000867,U0083,7.16,Starbucks,Food,2026-03-28T02:38,"Los Angeles, USA",Completed
+TXN-000047,U0064,261.68,Coinbase,Crypto,2025-11-25T03:47,"Seattle, USA",Completed
+TXN-001374,U0148,14.0,Subway,Food,2025-08-18T06:59,"Seattle, USA",Completed
+TXN-001898,U0108,106.3,Binance,Crypto,2026-05-15T09:09,"Los Angeles, USA",Failed
+TXN-000992,U0036,163.11,Uber,Travel,2025-08-12T08:25,"New York, USA",Completed
+TXN-000877,U0053,80.91,Amazon,Shopping,2025-07-14T01:02,"Chicago, USA",Completed
+TXN-000774,U0045,30.77,Local Deli,Food,2025-08-11T11:27,"San Francisco, USA",Completed
+TXN-001220,U0092,72.32,Uber,Travel,2026-01-18T12:07,"New York, USA",Completed
+TXN-001127,U0096,68.69,Kroger,Groceries,2025-07-04T22:12,"Chicago, USA",Completed
+TXN-000005,U0089,91.14,Amazon,Shopping,2025-12-06T00:26,"Seattle, USA",Completed
+TXN-001004,U0016,93.37,Safeway,Groceries,2026-02-08T00:50,"Los Angeles, USA",Completed
+TXN-001799,U0042,115.74,Walmart,Shopping,2025-12-10T06:00,"Austin, USA",Completed
+TXN-001859,U0007,33.21,DoorDash,Food,2025-09-07T01:22,"New York, USA",Completed
+TXN-000264,U0122,19.16,Local Deli,Food,2025-08-14T10:45,"Chicago, USA",Completed
+TXN-001691,U0064,177.02,Kraken,Crypto,2025-06-18T01:58,"San Francisco, USA",Completed
+TXN-001978,U0063,74.32,Trader Joe's,Groceries,2026-04-23T06:29,"New York, USA",Completed
+TXN-000444,U0122,34.17,Starbucks,Food,2025-12-10T10:38,"Chicago, USA",Completed
+TXN-001003,U0139,104.04,Walmart,Shopping,2025-06-05T22:00,"Chicago, USA",Completed
+TXN-001078,U0021,54.64,Target,Shopping,2025-07-29T12:17,"Los Angeles, USA",Completed
+TXN-000838,U0029,179.64,Coinbase,Crypto,2025-07-20T02:21,"Seattle, USA",Completed
+TXN-001933,U0017,117.36,Uber,Travel,2026-01-01T21:30,"Chicago, USA",Completed
+TXN-000305,U0020,334.19,Uber,Travel,2026-02-17T22:57,"Dubai, UAE",Completed
+TXN-001366,U0044,12.99,DoorDash,Food,2026-05-13T09:21,Singapore,Completed
+TXN-001945,U0069,403.2,Kraken,Crypto,2026-02-11T10:16,"New York, USA",Completed
+TXN-000314,U0020,40.0,Wells Fargo ATM,ATM,2026-03-12T12:21,"Seattle, USA",Completed
+TXN-000150,U0038,101.35,Kroger,Groceries,2025-05-27T05:58,"Toronto, Canada",Completed
+TXN-001149,U0126,62.96,Target,Shopping,2025-05-29T02:56,"New York, USA",Completed
+TXN-001214,U0004,211.05,Marriott,Travel,2026-05-18T00:29,"Seattle, USA",Completed
+TXN-000575,U0039,7.22,Local Deli,Food,2026-05-11T10:56,"Seattle, USA",Completed
+TXN-000051,U0059,345.94,Lyft,Travel,2026-01-16T08:23,"San Francisco, USA",Completed
+TXN-001674,U0148,192.48,Kraken,Crypto,2026-02-25T12:22,"Austin, USA",Completed
+TXN-000727,U0040,114.58,Uber,Travel,2026-04-21T01:34,"Seattle, USA",Completed
+TXN-000834,U0058,35.22,Airbnb,Travel,2026-03-19T03:52,"Austin, USA",Completed
+TXN-001378,U0104,76.4,Netflix,Bills,2025-09-02T06:16,"San Francisco, USA",Completed
+TXN-001116,U0062,100.62,Walmart,Shopping,2025-09-30T09:02,"San Francisco, USA",Completed
+TXN-001167,U0032,100.0,Bank of America ATM,ATM,2025-09-15T05:46,"Seattle, USA",Pending
+TXN-000471,U0143,60.0,Bank of America ATM,ATM,2026-02-09T06:58,"San Francisco, USA",Completed
+TXN-000972,U0044,85.93,Uber,Travel,2025-12-14T00:04,"Seattle, USA",Completed
+TXN-000654,U0050,34.71,Starbucks,Food,2025-09-06T00:35,"New York, USA",Completed
+TXN-000400,U0016,7.2,Local Deli,Food,2025-09-24T10:35,"Berlin, Germany",Completed
+TXN-000512,U0066,66.3,Safeway,Groceries,2025-08-05T10:10,"Seattle, USA",Completed
+TXN-000321,U0040,78.35,Comcast,Bills,2025-07-01T23:21,"Austin, USA",Completed
+TXN-000020,U0146,48.92,Target,Shopping,2025-09-24T22:19,"Dubai, UAE",Completed
+TXN-000685,U0026,68.08,Safeway,Groceries,2025-09-21T09:36,"London, UK",Completed
+TXN-000036,U0011,46.74,Safeway,Groceries,2025-07-26T04:41,"Seattle, USA",Completed
+TXN-000903,U0006,60.0,Chase ATM,ATM,2025-10-29T00:25,"Chicago, USA",Completed
+TXN-001920,U0140,6.33,Local Deli,Food,2026-05-16T08:44,"New York, USA",Completed
+TXN-000828,U0147,43.15,DoorDash,Food,2025-08-16T11:58,"Seattle, USA",Completed
+TXN-001941,U0075,28.79,Subway,Food,2026-03-19T02:11,"Seattle, USA",Completed
+TXN-000408,U0077,193.1,Crypto.com,Crypto,2026-02-11T22:47,"San Francisco, USA",Failed
+TXN-000921,U0061,70.33,Costco,Groceries,2026-03-21T09:55,"Dubai, UAE",Completed
+TXN-000538,U0017,25.48,Local Deli,Food,2026-02-22T21:44,"San Francisco, USA",Completed
+TXN-000759,U0101,42.93,Whole Foods,Groceries,2025-09-23T10:48,"Seattle, USA",Completed
+TXN-SUSP-00055,U0097,1742.64,Unverified Marketplace,ATM,2026-03-13T01:32,"Tokyo, Japan",Completed
+TXN-001063,U0012,103.69,Safeway,Groceries,2025-08-29T04:12,"New York, USA",Completed
+TXN-001200,U0069,85.47,Walmart,Shopping,2026-02-24T03:08,"Toronto, Canada",Completed
+TXN-000246,U0096,94.84,Verizon,Bills,2025-07-30T00:29,"Los Angeles, USA",Completed
+TXN-001417,U0062,74.4,Amazon,Shopping,2025-08-28T01:56,"San Francisco, USA",Completed
+TXN-001128,U0085,61.77,Amazon,Shopping,2025-09-24T11:51,"New York, USA",Completed
+TXN-000785,U0031,165.12,Comcast,Bills,2026-03-28T00:49,"New York, USA",Completed
+TXN-001879,U0100,44.07,Chipotle,Food,2025-11-12T03:35,"Seattle, USA",Completed
+TXN-000490,U0105,121.47,PG&E,Bills,2026-02-17T03:26,"San Francisco, USA",Completed
+TXN-000155,U0021,77.07,Amazon,Shopping,2026-02-01T11:08,"Austin, USA",Completed
+TXN-001663,U0083,6.27,DoorDash,Food,2025-10-23T08:05,"Austin, USA",Completed
+TXN-000962,U0095,40.0,Wells Fargo ATM,ATM,2025-08-01T08:46,"Chicago, USA",Completed
+TXN-000854,U0110,200.0,Wells Fargo ATM,ATM,2025-11-26T09:13,"Austin, USA",Completed
+TXN-001312,U0098,6.05,Chipotle,Food,2025-11-04T22:42,"New York, USA",Completed
+TXN-000626,U0145,69.42,Marriott,Travel,2026-03-27T11:44,"Austin, USA",Completed
+TXN-000686,U0118,94.11,Verizon,Bills,2025-08-29T03:36,"Chicago, USA",Completed
+TXN-001785,U0146,127.92,PG&E,Bills,2026-02-24T06:22,"San Francisco, USA",Completed
+TXN-000570,U0132,93.18,Walmart,Shopping,2026-03-15T02:12,"New York, USA",Completed
+TXN-000566,U0124,259.15,Delta Airlines,Travel,2025-11-18T12:54,"Los Angeles, USA",Completed
+TXN-000018,U0077,82.31,Apple Store,Shopping,2025-08-25T00:59,"Los Angeles, USA",Completed
+TXN-000128,U0136,71.93,Target,Shopping,2026-01-01T01:19,"Austin, USA",Completed
+TXN-001347,U0132,426.65,Delta Airlines,Travel,2026-01-20T12:31,"Dubai, UAE",Pending
+TXN-001280,U0037,174.22,Walmart,Shopping,2025-06-23T01:11,"Austin, USA",Completed
+TXN-SUSP-00085,U0022,1571.39,Offshore Exchange,Crypto,2026-02-18T03:38,"Toronto, Canada",Completed
+TXN-000928,U0105,25.31,Subway,Food,2026-04-14T08:00,"Los Angeles, USA",Completed
+TXN-000981,U0089,32.27,Subway,Food,2026-01-23T00:35,"Austin, USA",Completed
+TXN-000253,U0147,86.44,Trader Joe's,Groceries,2026-05-09T04:06,"Dubai, UAE",Completed
+TXN-000191,U0087,25.13,Kroger,Groceries,2026-02-25T22:46,"Los Angeles, USA",Completed
+TXN-001140,U0107,94.13,Costco,Groceries,2026-02-01T10:03,"Dubai, UAE",Failed
+TXN-000993,U0074,70.43,Coinbase,Crypto,2025-09-28T12:25,"Chicago, USA",Completed
+TXN-000700,U0118,44.85,Crypto.com,Crypto,2026-05-13T07:59,"Los Angeles, USA",Completed
+TXN-001786,U0033,48.67,Walmart,Shopping,2025-07-09T12:16,"Chicago, USA",Completed
+TXN-000607,U0054,62.54,Delta Airlines,Travel,2026-05-12T21:04,"Austin, USA",Completed
+TXN-000181,U0024,21.02,DoorDash,Food,2025-10-18T23:45,"Seattle, USA",Completed
+TXN-000302,U0040,31.03,Whole Foods,Groceries,2025-10-06T10:22,"San Francisco, USA",Completed
+TXN-000497,U0108,74.25,Best Buy,Shopping,2026-05-14T12:55,"Seattle, USA",Completed
+TXN-001830,U0060,25.27,Starbucks,Food,2025-07-10T21:31,"San Francisco, USA",Completed
+TXN-001844,U0041,44.92,Walmart,Shopping,2025-06-06T12:29,"Austin, USA",Pending
+TXN-001791,U0048,29.57,Target,Shopping,2026-02-07T23:18,"Seattle, USA",Completed
+TXN-001765,U0090,227.9,Uber,Travel,2025-11-01T06:10,"Seattle, USA",Completed
+TXN-000518,U0132,324.98,Crypto.com,Crypto,2025-08-02T01:30,"San Francisco, USA",Completed
+TXN-001397,U0017,19.54,Binance,Crypto,2025-10-28T12:22,"Los Angeles, USA",Completed
+TXN-001070,U0002,16.34,Best Buy,Shopping,2025-09-08T09:15,"Austin, USA",Completed
+TXN-000477,U0116,90.44,Comcast,Bills,2025-11-01T22:04,"San Francisco, USA",Completed
+TXN-000158,U0110,99.71,Safeway,Groceries,2025-12-24T00:24,"Austin, USA",Completed
+TXN-001244,U0031,75.75,Kroger,Groceries,2025-11-19T08:32,"London, UK",Completed
+TXN-001196,U0138,34.72,Delta Airlines,Travel,2026-02-17T08:42,"Chicago, USA",Completed
+TXN-000017,U0001,110.98,Target,Shopping,2026-01-03T02:33,"Tokyo, Japan",Completed
+TXN-001536,U0135,11.5,Subway,Food,2026-02-03T02:44,"Chicago, USA",Completed
+TXN-001073,U0006,14.55,Local Deli,Food,2025-09-28T02:16,"San Francisco, USA",Completed
+TXN-SUSP-00087,U0084,3876.15,Night ATM,Crypto,2026-04-30T01:32,Singapore,Completed
+TXN-000547,U0141,14.31,Local Deli,Food,2026-03-27T09:38,"Dubai, UAE",Completed
+TXN-001540,U0082,166.3,Walmart,Shopping,2025-08-18T12:04,"Austin, USA",Completed
+TXN-000659,U0143,69.26,Lyft,Travel,2026-03-13T02:39,"Austin, USA",Completed
+TXN-SUSP-00037,U0026,4854.98,Night ATM,ATM,2026-05-12T04:54,Singapore,Completed
+TXN-001020,U0043,16.56,Subway,Food,2025-10-14T23:59,"Seattle, USA",Completed
+TXN-001792,U0063,59.88,Whole Foods,Groceries,2026-01-05T23:57,"Seattle, USA",Completed
+TXN-001505,U0036,83.81,Verizon,Bills,2026-04-14T21:19,"Chicago, USA",Completed
+TXN-000960,U0054,72.79,Safeway,Groceries,2025-07-09T21:58,"San Francisco, USA",Completed
+TXN-SUSP-00033,U0039,2477.05,Unverified Marketplace,Crypto,2026-02-16T04:44,"Toronto, Canada",Completed
+TXN-000284,U0046,96.64,Spotify,Bills,2025-08-02T08:11,"Toronto, Canada",Completed
+TXN-001633,U0063,14.96,Starbucks,Food,2026-01-15T12:52,"Los Angeles, USA",Completed
+TXN-000798,U0017,36.08,Local Deli,Food,2025-09-25T12:28,"Los Angeles, USA",Completed
+TXN-001750,U0089,4.92,Subway,Food,2026-03-07T23:01,"Chicago, USA",Completed
+TXN-000226,U0093,33.6,Chipotle,Food,2025-09-24T12:05,"Chicago, USA",Completed
+TXN-000027,U0120,19.34,Subway,Food,2025-11-23T10:30,"Los Angeles, USA",Completed
+TXN-001912,U0106,14.0,DoorDash,Food,2026-03-04T11:17,"New York, USA",Completed
+TXN-000438,U0093,30.97,Apple Store,Shopping,2026-02-01T01:07,"New York, USA",Completed
+TXN-SUSP-00075,U0026,5915.15,Unverified Marketplace,Travel,2026-03-01T04:39,"Tokyo, Japan",Completed
+TXN-001389,U0091,107.4,Delta Airlines,Travel,2026-01-14T21:56,"Austin, USA",Completed
+TXN-000230,U0043,25.77,Starbucks,Food,2026-02-15T01:23,"San Francisco, USA",Pending
+TXN-000038,U0019,115.37,PG&E,Bills,2026-01-15T08:03,"New York, USA",Completed
+TXN-001694,U0029,229.45,Lyft,Travel,2026-05-03T02:27,"Los Angeles, USA",Completed
+TXN-000750,U0099,125.49,Apple Store,Shopping,2025-09-27T02:34,"New York, USA",Completed
+TXN-001046,U0102,137.29,Comcast,Bills,2025-05-29T03:56,"New York, USA",Completed
+TXN-001399,U0090,124.03,Verizon,Bills,2025-06-20T05:12,"Los Angeles, USA",Completed
+TXN-000470,U0137,57.97,Binance,Crypto,2025-11-17T04:47,"Seattle, USA",Completed
+TXN-001826,U0028,77.46,Whole Foods,Groceries,2025-06-06T01:55,"San Francisco, USA",Completed
+TXN-SUSP-00084,U0039,5553.32,Unverified Marketplace,Travel,2026-03-12T01:59,"Tokyo, Japan",Completed
+TXN-000688,U0129,70.91,PG&E,Bills,2026-04-11T06:19,"San Francisco, USA",Completed
+TXN-001992,U0084,58.73,Costco,Groceries,2026-03-17T07:44,"Chicago, USA",Completed
+TXN-000640,U0080,11.89,Chipotle,Food,2026-01-23T09:47,"Dubai, UAE",Completed
+TXN-001847,U0126,8.67,Local Deli,Food,2026-02-03T03:30,"New York, USA",Completed
+TXN-001219,U0079,83.49,Kroger,Groceries,2025-12-13T04:03,Singapore,Pending
+TXN-001159,U0064,6.83,Local Deli,Food,2025-07-27T05:48,"Austin, USA",Completed
+TXN-001416,U0113,18.26,Lyft,Travel,2025-09-23T05:56,"Los Angeles, USA",Completed
+TXN-001528,U0007,179.7,Coinbase,Crypto,2026-01-12T04:40,"Austin, USA",Completed
+TXN-001784,U0066,100.16,Lyft,Travel,2026-02-24T07:14,"Tokyo, Japan",Completed
+TXN-001301,U0081,100.81,Whole Foods,Groceries,2026-02-05T00:33,"San Francisco, USA",Completed
+TXN-001969,U0003,24.04,Local Deli,Food,2025-08-29T04:54,"Austin, USA",Completed
+TXN-000801,U0121,40.0,Chase ATM,ATM,2025-08-06T12:45,"London, UK",Completed
+TXN-001604,U0050,124.72,Verizon,Bills,2026-01-02T00:54,"Chicago, USA",Failed
+TXN-000161,U0080,84.66,Best Buy,Shopping,2025-06-21T06:42,"Austin, USA",Completed
+TXN-001705,U0003,125.09,Comcast,Bills,2025-08-16T09:24,"Chicago, USA",Completed
+TXN-000957,U0002,33.11,Subway,Food,2026-01-13T05:42,"Austin, USA",Completed
+TXN-001744,U0048,170.83,Airbnb,Travel,2025-12-24T03:30,"Los Angeles, USA",Completed
+TXN-001187,U0003,109.13,PG&E,Bills,2026-04-14T11:27,"New York, USA",Completed
+TXN-000822,U0142,108.04,Walmart,Shopping,2026-04-17T02:40,"Los Angeles, USA",Completed
+TXN-001730,U0101,84.19,Costco,Groceries,2026-03-19T10:56,"Seattle, USA",Completed
+TXN-001814,U0098,22.18,Subway,Food,2025-07-13T22:12,"Chicago, USA",Completed
+TXN-000878,U0072,71.17,Verizon,Bills,2025-07-11T01:58,"Dubai, UAE",Completed
+TXN-000914,U0017,79.26,Costco,Groceries,2026-01-03T10:24,"Seattle, USA",Completed
+TXN-000153,U0028,82.61,Safeway,Groceries,2026-01-10T08:36,"Chicago, USA",Completed
+TXN-001985,U0113,52.89,Apple Store,Shopping,2026-03-21T01:00,"Los Angeles, USA",Completed
+TXN-001918,U0030,74.69,Netflix,Bills,2025-09-20T11:55,"New York, USA",Completed
+TXN-000510,U0116,59.38,Kroger,Groceries,2026-01-23T08:49,"New York, USA",Completed
+TXN-001136,U0040,81.82,Apple Store,Shopping,2026-04-03T10:52,"Los Angeles, USA",Completed
+TXN-001251,U0064,11.4,Walmart,Shopping,2025-10-10T22:45,"Toronto, Canada",Completed
+TXN-001794,U0037,140.13,Comcast,Bills,2025-11-06T08:06,"London, UK",Completed
+TXN-000104,U0079,88.9,Whole Foods,Groceries,2025-06-25T02:54,"Chicago, USA",Completed
+TXN-001446,U0100,77.22,Verizon,Bills,2026-03-04T12:07,"Los Angeles, USA",Completed
+TXN-001444,U0130,4.57,Starbucks,Food,2025-07-17T22:35,"San Francisco, USA",Completed
+TXN-001875,U0067,81.08,PG&E,Bills,2025-09-03T08:01,"Austin, USA",Completed
+TXN-000587,U0017,20.61,Chipotle,Food,2026-01-22T10:09,"San Francisco, USA",Completed
+TXN-001910,U0024,21.42,Coinbase,Crypto,2026-01-24T05:38,"New York, USA",Completed
+TXN-001697,U0026,65.55,Apple Store,Shopping,2026-02-18T02:14,"New York, USA",Completed
+TXN-001144,U0038,8.39,DoorDash,Food,2026-04-13T21:48,"San Francisco, USA",Completed
+TXN-000054,U0131,4.7,Subway,Food,2025-11-18T07:31,"New York, USA",Completed
+TXN-000152,U0033,73.86,Verizon,Bills,2025-08-23T05:07,"Seattle, USA",Completed
+TXN-000404,U0035,65.1,Target,Shopping,2025-09-21T23:16,"Los Angeles, USA",Completed
+TXN-001155,U0002,60.69,Coinbase,Crypto,2025-07-14T03:37,"Austin, USA",Completed
+TXN-000208,U0045,58.95,Amazon,Shopping,2025-11-22T07:56,"Los Angeles, USA",Completed
+TXN-SUSP-00046,U0097,5573.6,Unknown Crypto Wallet,ATM,2026-04-14T02:01,"Berlin, Germany",Completed
+TXN-001683,U0078,117.2,Walmart,Shopping,2026-04-27T03:16,"San Francisco, USA",Failed
+TXN-001123,U0084,192.88,Marriott,Travel,2025-08-21T05:10,"Berlin, Germany",Completed
+TXN-001889,U0069,78.78,Costco,Groceries,2026-01-26T03:55,"New York, USA",Completed
+TXN-000009,U0019,10.71,DoorDash,Food,2025-09-10T05:48,"Seattle, USA",Completed
+TXN-001015,U0079,395.2,Lyft,Travel,2025-08-06T10:07,"Los Angeles, USA",Completed
+TXN-001940,U0093,12.2,Local Deli,Food,2025-08-05T06:16,"Seattle, USA",Completed
+TXN-001061,U0050,157.74,Amazon,Shopping,2026-01-13T07:41,"New York, USA",Completed
+TXN-000453,U0087,16.14,Subway,Food,2025-10-10T08:05,"Los Angeles, USA",Completed
+TXN-001676,U0019,16.51,Subway,Food,2026-04-03T03:52,"Los Angeles, USA",Completed
+TXN-000254,U0053,19.71,DoorDash,Food,2025-12-26T01:30,"Austin, USA",Completed
+TXN-001328,U0117,70.44,Best Buy,Shopping,2025-09-11T04:53,"Chicago, USA",Completed
+TXN-000897,U0111,170.45,PG&E,Bills,2026-05-22T02:35,"New York, USA",Completed
+TXN-001870,U0100,75.09,Trader Joe's,Groceries,2025-08-04T07:24,"Los Angeles, USA",Completed
+TXN-000881,U0048,49.66,Coinbase,Crypto,2025-09-12T12:27,"Austin, USA",Pending
+TXN-001596,U0117,29.37,Local Deli,Food,2025-10-05T03:36,"Austin, USA",Completed
+TXN-SUSP-00040,U0022,2646.52,Luxury Wire Transfer,Shopping,2026-05-23T02:41,"Dubai, UAE",Pending
+TXN-000624,U0009,89.15,Comcast,Bills,2026-02-19T02:05,"Seattle, USA",Completed
+TXN-000346,U0002,73.81,Safeway,Groceries,2026-03-25T10:28,"Seattle, USA",Completed
+TXN-SUSP-00021,U0097,6284.36,Luxury Wire Transfer,Travel,2026-03-18T03:02,"Tokyo, Japan",Completed
+TXN-001788,U0037,28.09,Trader Joe's,Groceries,2026-01-04T08:32,"Austin, USA",Completed
+TXN-000263,U0121,125.53,Verizon,Bills,2025-07-16T10:25,"New York, USA",Completed
+TXN-001635,U0095,40.28,DoorDash,Food,2025-06-08T05:00,"Chicago, USA",Completed
+TXN-001322,U0094,12.8,Chipotle,Food,2025-08-30T21:27,"New York, USA",Completed
+TXN-001439,U0015,99.41,Marriott,Travel,2026-04-03T06:29,"Chicago, USA",Completed
+TXN-000151,U0004,97.63,Whole Foods,Groceries,2026-04-28T21:12,"Austin, USA",Completed
+TXN-000473,U0067,15.96,DoorDash,Food,2025-12-27T07:27,"Chicago, USA",Completed
+TXN-001803,U0094,112.74,Walmart,Shopping,2026-03-13T03:59,"London, UK",Completed
+TXN-000641,U0124,79.85,Kroger,Groceries,2026-02-16T00:20,"Seattle, USA",Completed
+TXN-000872,U0093,21.21,Starbucks,Food,2026-01-26T08:23,"New York, USA",Completed
+TXN-SUSP-00034,U0087,6294.82,Offshore Exchange,Shopping,2026-04-10T00:28,"Berlin, Germany",Failed
+TXN-000551,U0061,78.71,PG&E,Bills,2025-11-24T01:46,"New York, USA",Completed
+TXN-001921,U0017,110.8,Apple Store,Shopping,2026-05-20T10:08,"New York, USA",Completed
+TXN-000929,U0086,14.31,Subway,Food,2026-01-22T11:03,"Seattle, USA",Completed
+TXN-000489,U0030,8.63,Starbucks,Food,2026-02-11T00:22,"Los Angeles, USA",Completed
+TXN-001735,U0091,114.77,Trader Joe's,Groceries,2026-02-04T23:25,"Seattle, USA",Completed
+TXN-001957,U0020,111.92,Kroger,Groceries,2025-09-08T08:13,"Seattle, USA",Completed
+TXN-001172,U0082,7.21,Local Deli,Food,2025-08-31T09:31,"Los Angeles, USA",Completed
+TXN-000147,U0102,6.3,DoorDash,Food,2026-02-28T08:07,"San Francisco, USA",Pending
+TXN-001839,U0126,20.41,Best Buy,Shopping,2025-12-01T12:23,"Austin, USA",Failed
+TXN-001370,U0127,134.68,Comcast,Bills,2026-05-15T23:08,"New York, USA",Completed
+TXN-000403,U0101,21.15,DoorDash,Food,2025-10-06T08:03,"Seattle, USA",Completed
+TXN-000955,U0025,19.38,Amazon,Shopping,2025-09-29T12:47,"Los Angeles, USA",Completed
+TXN-SUSP-00028,U0041,5649.41,Night ATM,Crypto,2026-03-17T01:10,"Toronto, Canada",Completed
+TXN-000660,U0110,126.43,PG&E,Bills,2026-05-06T11:48,"Los Angeles, USA",Completed
+TXN-001795,U0100,31.74,Starbucks,Food,2026-03-09T22:56,"Los Angeles, USA",Completed
+TXN-001373,U0132,54.18,DoorDash,Food,2025-12-09T11:59,"San Francisco, USA",Completed
+TXN-000464,U0097,44.72,Target,Shopping,2026-05-25T05:31,"Los Angeles, USA",Completed
+TXN-001350,U0052,81.34,Kroger,Groceries,2025-07-20T09:31,"Chicago, USA",Completed
+TXN-000187,U0150,69.07,Kroger,Groceries,2025-08-10T07:09,"Seattle, USA",Completed
+TXN-001148,U0069,60.0,Chase ATM,ATM,2025-07-20T08:56,"Seattle, USA",Pending
+TXN-001225,U0049,143.82,Target,Shopping,2026-05-24T03:11,"San Francisco, USA",Completed
+TXN-000609,U0096,210.95,Best Buy,Shopping,2025-12-29T03:30,"Austin, USA",Completed
+TXN-000144,U0095,17.53,Local Deli,Food,2025-08-03T09:33,"Seattle, USA",Completed
+TXN-000752,U0119,63.31,Kroger,Groceries,2026-01-30T00:41,"Austin, USA",Completed
+TXN-001535,U0051,16.56,Starbucks,Food,2025-08-16T00:14,"Austin, USA",Failed
+TXN-000982,U0060,9.11,Chipotle,Food,2026-01-21T08:32,"Chicago, USA",Completed
+TXN-000198,U0102,76.52,Costco,Groceries,2025-06-08T10:07,"Chicago, USA",Completed
+TXN-001634,U0071,75.81,PG&E,Bills,2026-01-11T05:40,"Chicago, USA",Completed
+TXN-000884,U0030,28.89,Amazon,Shopping,2025-07-07T07:35,"Austin, USA",Completed
+TXN-000280,U0119,39.55,Subway,Food,2026-01-13T22:39,"Seattle, USA",Completed
+TXN-000294,U0143,113.78,Whole Foods,Groceries,2026-03-09T10:30,"Chicago, USA",Completed
+TXN-001970,U0035,35.79,Amazon,Shopping,2026-02-05T22:29,"San Francisco, USA",Completed
+TXN-000401,U0096,143.94,Amazon,Shopping,2025-09-21T10:48,"Chicago, USA",Completed
+TXN-000123,U0121,8.59,Chipotle,Food,2025-12-21T01:08,"Los Angeles, USA",Completed
+TXN-001208,U0069,76.26,Comcast,Bills,2025-08-07T09:40,"New York, USA",Completed
+TXN-000203,U0128,26.74,Local Deli,Food,2026-01-14T23:11,"Chicago, USA",Completed
+TXN-001463,U0098,20.77,Marriott,Travel,2026-03-12T05:14,"Chicago, USA",Failed
+TXN-000836,U0095,147.96,Uber,Travel,2026-01-21T06:32,"Los Angeles, USA",Pending
+TXN-000247,U0012,40.0,Chase ATM,ATM,2025-09-04T09:36,"New York, USA",Completed
+TXN-001440,U0087,90.12,PG&E,Bills,2026-04-24T21:06,"Austin, USA",Completed
+TXN-001734,U0141,57.49,Target,Shopping,2025-08-16T03:39,"Seattle, USA",Completed
+TXN-001892,U0121,148.83,Amazon,Shopping,2026-03-28T08:33,"Chicago, USA",Completed
+TXN-000730,U0008,35.95,Costco,Groceries,2025-06-28T01:21,"Austin, USA",Completed
+TXN-001708,U0088,151.03,Marriott,Travel,2026-01-14T00:46,"Los Angeles, USA",Completed
+TXN-SUSP-00032,U0043,2453.8,Luxury Wire Transfer,ATM,2026-04-25T00:52,"Tokyo, Japan",Completed
+TXN-001154,U0026,28.0,Chipotle,Food,2026-01-25T12:47,"New York, USA",Completed
+TXN-001662,U0071,28.88,Subway,Food,2025-11-23T01:33,"New York, USA",Completed
+TXN-001427,U0122,79.84,Trader Joe's,Groceries,2025-07-14T00:35,"Austin, USA",Completed
+TXN-000385,U0017,9.38,Chipotle,Food,2026-02-24T07:29,"Austin, USA",Completed
+TXN-001899,U0141,146.66,Marriott,Travel,2025-07-17T21:20,"Seattle, USA",Completed
+TXN-001760,U0016,20.09,Subway,Food,2025-07-13T05:05,"Berlin, Germany",Completed
+TXN-000855,U0144,43.92,Target,Shopping,2025-10-30T11:59,"New York, USA",Completed
+TXN-001590,U0067,25.42,DoorDash,Food,2025-12-10T12:06,"Tokyo, Japan",Completed
+TXN-000220,U0094,134.62,Amazon,Shopping,2026-03-15T01:37,"Austin, USA",Completed
+TXN-000642,U0112,65.93,Trader Joe's,Groceries,2025-07-22T04:44,"Austin, USA",Completed
+TXN-000002,U0008,71.54,Whole Foods,Groceries,2026-03-24T10:06,"New York, USA",Completed
+TXN-000113,U0141,58.43,Airbnb,Travel,2025-06-21T03:21,"New York, USA",Completed
+TXN-000699,U0053,11.79,Best Buy,Shopping,2025-09-16T03:52,"New York, USA",Pending
+TXN-001105,U0047,83.97,Netflix,Bills,2026-01-15T10:02,"Seattle, USA",Completed
+TXN-000952,U0127,11.92,DoorDash,Food,2026-05-24T12:33,"New York, USA",Completed
+TXN-001649,U0114,51.76,Whole Foods,Groceries,2025-09-03T12:11,"New York, USA",Completed
+TXN-001637,U0099,113.01,Trader Joe's,Groceries,2025-08-09T06:58,"San Francisco, USA",Completed
+TXN-SUSP-00047,U0087,6138.71,Luxury Wire Transfer,Travel,2026-04-09T00:16,"London, UK",Completed
+TXN-001411,U0016,86.0,Best Buy,Shopping,2026-05-14T07:59,"New York, USA",Completed
+TXN-001410,U0028,72.11,Uber,Travel,2025-07-07T22:21,"Austin, USA",Completed
+TXN-001831,U0051,36.72,Apple Store,Shopping,2025-09-01T12:56,"Seattle, USA",Completed
+TXN-001534,U0027,118.89,Best Buy,Shopping,2026-02-13T00:02,"Austin, USA",Completed
+TXN-001292,U0009,109.95,PG&E,Bills,2025-08-30T03:44,"San Francisco, USA",Completed
+TXN-001954,U0060,38.6,Marriott,Travel,2025-12-09T11:17,"New York, USA",Completed
+TXN-000442,U0069,69.54,Best Buy,Shopping,2025-10-07T04:57,"Chicago, USA",Completed
+TXN-001521,U0041,67.66,Marriott,Travel,2025-12-15T12:06,"San Francisco, USA",Completed
+TXN-001854,U0100,195.42,Marriott,Travel,2025-10-08T23:32,"Los Angeles, USA",Completed
+TXN-001137,U0077,4.59,Subway,Food,2025-12-29T23:52,"Chicago, USA",Completed
+TXN-001716,U0065,46.62,Lyft,Travel,2025-10-25T21:08,"Seattle, USA",Completed
+TXN-001257,U0118,96.98,Best Buy,Shopping,2025-07-12T12:15,"San Francisco, USA",Completed
+TXN-SUSP-00013,U0087,1270.53,Luxury Wire Transfer,Shopping,2026-05-19T00:58,"Tokyo, Japan",Completed
+TXN-001632,U0063,9.94,Subway,Food,2026-04-27T07:13,"Los Angeles, USA",Completed
+TXN-001696,U0037,26.68,Starbucks,Food,2026-01-20T22:51,"London, UK",Completed
+TXN-001398,U0126,9.06,DoorDash,Food,2026-03-25T00:07,"Austin, USA",Completed
+TXN-001851,U0085,74.09,Netflix,Bills,2025-10-16T07:40,"Seattle, USA",Completed
+TXN-000664,U0009,346.02,Crypto.com,Crypto,2025-12-14T21:50,"Berlin, Germany",Completed
+TXN-001984,U0118,4.09,Best Buy,Shopping,2025-12-18T07:55,"Austin, USA",Completed
+TXN-001258,U0080,14.68,Subway,Food,2025-08-26T06:05,"San Francisco, USA",Completed
+TXN-001843,U0025,82.9,Trader Joe's,Groceries,2025-08-11T02:17,"New York, USA",Completed
+TXN-001915,U0075,5.92,Subway,Food,2025-10-23T02:06,"Seattle, USA",Completed
+TXN-001701,U0037,41.75,Chipotle,Food,2026-02-13T01:55,"San Francisco, USA",Completed
+TXN-000318,U0060,16.04,DoorDash,Food,2025-06-22T00:31,"Los Angeles, USA",Completed
+TXN-000649,U0116,60.0,Wells Fargo ATM,ATM,2025-08-15T23:37,"San Francisco, USA",Completed
+TXN-001435,U0018,159.01,Apple Store,Shopping,2026-03-08T01:55,"Austin, USA",Completed
+TXN-001480,U0050,69.02,Spotify,Bills,2026-01-06T07:21,"Los Angeles, USA",Completed
+TXN-000710,U0046,60.0,Wells Fargo ATM,ATM,2026-04-28T01:14,"Los Angeles, USA",Completed
+TXN-001383,U0079,28.69,Chipotle,Food,2026-02-07T12:51,"Los Angeles, USA",Completed
+TXN-001283,U0036,59.69,Safeway,Groceries,2025-08-10T02:34,"Seattle, USA",Completed
+TXN-001769,U0134,117.79,Crypto.com,Crypto,2026-04-28T00:58,"New York, USA",Completed
+TXN-000973,U0093,41.55,Apple Store,Shopping,2026-01-30T06:43,"Seattle, USA",Pending
+TXN-000628,U0035,64.79,Target,Shopping,2025-05-30T21:37,"Austin, USA",Completed
+TXN-000633,U0117,41.24,Trader Joe's,Groceries,2025-08-03T06:11,"Seattle, USA",Completed
+TXN-001307,U0146,17.42,Starbucks,Food,2025-10-21T09:14,"Austin, USA",Completed
+TXN-001401,U0122,20.93,Amazon,Shopping,2025-10-21T04:06,Singapore,Completed
+TXN-001409,U0002,32.41,Subway,Food,2025-07-29T09:46,"Chicago, USA",Completed
+TXN-001249,U0057,14.63,Local Deli,Food,2026-01-14T05:23,"San Francisco, USA",Completed
+TXN-SUSP-00076,U0084,5991.38,Unknown Crypto Wallet,Travel,2026-02-01T01:31,"Tokyo, Japan",Completed
+TXN-001255,U0142,80.0,Wells Fargo ATM,ATM,2025-07-19T09:45,"San Francisco, USA",Completed
+TXN-001497,U0044,38.0,DoorDash,Food,2026-01-30T11:18,"San Francisco, USA",Completed
+TXN-001372,U0040,249.52,Delta Airlines,Travel,2025-11-01T11:45,"Los Angeles, USA",Completed
+TXN-001530,U0064,16.79,Chipotle,Food,2025-09-09T12:41,"New York, USA",Completed
+TXN-001664,U0071,44.77,Lyft,Travel,2025-09-13T11:58,"New York, USA",Completed
+TXN-001355,U0073,94.63,Delta Airlines,Travel,2025-09-21T23:28,"Seattle, USA",Completed
+TXN-001822,U0003,38.02,Amazon,Shopping,2025-11-11T22:12,"Seattle, USA",Completed
+TXN-SUSP-00064,U0110,4136.19,Night ATM,Travel,2026-02-05T01:44,"London, UK",Completed
+TXN-SUSP-00053,U0084,1811.63,Offshore Exchange,Crypto,2026-05-15T02:10,"Tokyo, Japan",Completed
+TXN-001644,U0142,5.19,DoorDash,Food,2026-02-08T23:21,"Tokyo, Japan",Completed
+TXN-001998,U0111,100.0,Chase ATM,ATM,2025-11-01T22:31,"San Francisco, USA",Completed
+TXN-000796,U0049,45.48,Local Deli,Food,2025-06-15T09:46,"San Francisco, USA",Completed
+TXN-000646,U0113,21.73,Chipotle,Food,2025-11-04T08:55,"Seattle, USA",Completed
+TXN-001013,U0105,63.93,Local Deli,Food,2025-12-01T00:42,"New York, USA",Completed
+TXN-001988,U0035,48.96,Amazon,Shopping,2025-06-17T06:04,"San Francisco, USA",Completed
+TXN-000557,U0055,106.95,Whole Foods,Groceries,2026-03-19T09:53,"London, UK",Completed
+TXN-000682,U0150,44.92,Comcast,Bills,2026-05-15T21:28,"London, UK",Completed
+TXN-000578,U0148,200.0,Bank of America ATM,ATM,2025-12-07T08:41,"New York, USA",Completed
+TXN-001820,U0043,76.64,Apple Store,Shopping,2025-06-07T12:24,"New York, USA",Completed
+TXN-001110,U0035,34.62,Amazon,Shopping,2025-10-01T00:49,"Austin, USA",Completed
+TXN-001267,U0044,14.67,Subway,Food,2026-05-12T00:35,"Toronto, Canada",Completed
+TXN-001723,U0066,71.86,Costco,Groceries,2025-06-15T09:57,"New York, USA",Completed
+TXN-SUSP-00018,U0127,2212.78,Luxury Wire Transfer,Crypto,2026-04-12T04:26,"Tokyo, Japan",Completed
+TXN-001184,U0031,13.14,DoorDash,Food,2026-01-23T02:07,"Berlin, Germany",Completed
+TXN-000525,U0131,3.41,Local Deli,Food,2025-09-17T09:19,"Los Angeles, USA",Completed
+TXN-001060,U0110,115.19,Verizon,Bills,2026-01-13T09:33,"Los Angeles, USA",Completed
+TXN-000541,U0059,15.95,DoorDash,Food,2026-03-06T23:40,"London, UK",Completed
+TXN-001195,U0076,125.5,Comcast,Bills,2025-10-25T22:37,"Seattle, USA",Completed
+TXN-001679,U0067,29.14,Chipotle,Food,2025-11-07T10:13,"Los Angeles, USA",Completed
+TXN-000749,U0078,47.01,Whole Foods,Groceries,2025-11-07T23:54,"Chicago, USA",Completed
+TXN-SUSP-00001,U0087,1871.58,Unknown Crypto Wallet,Shopping,2026-01-26T01:08,"London, UK",Completed
+TXN-001431,U0113,76.64,Lyft,Travel,2025-09-03T05:35,"Seattle, USA",Completed
+TXN-000485,U0066,54.43,Uber,Travel,2025-11-28T22:28,"Los Angeles, USA",Completed
+TXN-001758,U0046,83.2,Trader Joe's,Groceries,2025-07-14T06:26,"Seattle, USA",Completed
+TXN-001924,U0011,81.69,Spotify,Bills,2025-12-23T00:39,"San Francisco, USA",Completed
+TXN-000096,U0017,26.11,Starbucks,Food,2025-10-02T12:11,"Austin, USA",Completed
+TXN-001021,U0144,107.2,Costco,Groceries,2026-03-09T00:45,"New York, USA",Pending
+TXN-000564,U0068,25.08,Local Deli,Food,2026-04-15T05:57,"Chicago, USA",Completed
+TXN-001265,U0131,9.98,Starbucks,Food,2025-07-17T06:10,"Los Angeles, USA",Completed
+TXN-000743,U0092,61.79,Walmart,Shopping,2026-05-21T11:43,"Austin, USA",Completed
+TXN-000864,U0067,188.58,Uber,Travel,2025-12-02T21:58,"San Francisco, USA",Completed
+TXN-001599,U0010,123.46,Amazon,Shopping,2026-03-27T00:26,"Chicago, USA",Completed
+TXN-001715,U0134,161.09,Crypto.com,Crypto,2025-10-24T10:01,"Berlin, Germany",Completed
+TXN-001485,U0127,19.98,Subway,Food,2025-12-27T01:40,"Seattle, USA",Completed
+TXN-000892,U0007,14.99,Starbucks,Food,2025-06-21T23:35,"Berlin, Germany",Completed
+TXN-001578,U0110,23.15,Chipotle,Food,2026-02-09T00:30,"Los Angeles, USA",Pending
+TXN-001882,U0146,200.0,Chase ATM,ATM,2025-10-28T11:28,"Tokyo, Japan",Completed
+TXN-001039,U0035,21.26,Walmart,Shopping,2026-01-16T07:05,"Seattle, USA",Completed
+TXN-000207,U0027,10.25,Starbucks,Food,2025-11-18T04:50,"Los Angeles, USA",Completed
+TXN-000393,U0107,13.18,Subway,Food,2025-09-17T07:19,"London, UK",Completed
+TXN-000795,U0118,160.93,Coinbase,Crypto,2025-11-29T07:09,"Los Angeles, USA",Completed
+TXN-000871,U0118,119.55,Spotify,Bills,2026-02-22T00:30,"London, UK",Completed
+TXN-000398,U0060,64.8,Trader Joe's,Groceries,2025-05-29T10:05,"Chicago, USA",Completed
+TXN-000767,U0021,19.91,Local Deli,Food,2025-10-16T11:37,"Chicago, USA",Completed
+TXN-001990,U0120,75.53,Costco,Groceries,2026-01-27T23:18,"London, UK",Completed
+TXN-001242,U0122,27.68,Local Deli,Food,2026-04-07T07:23,"Toronto, Canada",Completed
+TXN-001029,U0061,55.38,Whole Foods,Groceries,2025-09-06T04:52,"Chicago, USA",Completed
+TXN-001793,U0017,2.5,Local Deli,Food,2025-11-03T22:11,"Austin, USA",Completed
+TXN-000643,U0011,85.19,Amazon,Shopping,2025-12-14T04:04,"Chicago, USA",Completed
+TXN-SUSP-00043,U0026,3379.67,Unknown Crypto Wallet,Crypto,2026-04-18T01:03,"Toronto, Canada",Failed
+TXN-001967,U0051,154.29,Walmart,Shopping,2025-09-22T21:55,"Seattle, USA",Completed
+TXN-000613,U0056,80.32,Airbnb,Travel,2025-07-15T02:07,"Los Angeles, USA",Completed
+TXN-001763,U0046,100.43,Walmart,Shopping,2026-03-29T08:40,"Los Angeles, USA",Completed
+TXN-000961,U0111,133.89,Walmart,Shopping,2025-07-26T06:35,"Seattle, USA",Pending
+TXN-001571,U0129,44.05,Target,Shopping,2025-09-09T07:48,"Chicago, USA",Completed
+TXN-000726,U0087,133.19,Verizon,Bills,2025-08-23T03:25,Singapore,Completed
+TXN-001896,U0011,159.97,Marriott,Travel,2026-05-09T03:00,"Austin, USA",Completed
+TXN-000684,U0093,24.74,Subway,Food,2026-04-29T05:46,"Los Angeles, USA",Completed
+TXN-000099,U0016,186.99,Apple Store,Shopping,2025-12-31T06:40,"Seattle, USA",Completed
+TXN-000805,U0012,37.6,Lyft,Travel,2025-11-06T03:52,"Chicago, USA",Completed
+TXN-001752,U0056,130.75,Netflix,Bills,2026-01-01T01:29,"Seattle, USA",Completed
+TXN-001598,U0076,100.8,Amazon,Shopping,2026-02-27T05:15,"Austin, USA",Completed
+TXN-000407,U0084,84.67,Apple Store,Shopping,2025-06-15T03:57,"New York, USA",Completed
+TXN-000503,U0041,7.41,Local Deli,Food,2026-04-03T22:04,"Chicago, USA",Completed
+TXN-001072,U0045,66.23,Amazon,Shopping,2025-09-04T03:22,"San Francisco, USA",Completed
+TXN-001057,U0081,117.16,Uber,Travel,2025-06-25T22:28,"Los Angeles, USA",Completed
+TXN-000930,U0017,112.27,Trader Joe's,Groceries,2026-05-18T05:36,"Austin, USA",Completed
+TXN-000780,U0111,10.24,Local Deli,Food,2026-04-17T08:58,"Seattle, USA",Completed
+TXN-001864,U0145,96.39,Amazon,Shopping,2026-04-20T06:24,"Los Angeles, USA",Completed
+TXN-000201,U0021,150.51,Netflix,Bills,2026-04-05T22:01,"New York, USA",Completed
+TXN-000135,U0049,87.06,Trader Joe's,Groceries,2026-04-01T08:18,"Seattle, USA",Completed
+TXN-001052,U0002,11.82,DoorDash,Food,2025-12-27T11:24,"Austin, USA",Completed
+TXN-000041,U0027,84.18,Spotify,Bills,2025-05-30T07:03,"Dubai, UAE",Completed
+TXN-001018,U0118,91.83,Kroger,Groceries,2025-08-01T01:36,"Los Angeles, USA",Completed
+TXN-000231,U0051,9.59,Local Deli,Food,2025-10-17T23:20,"Seattle, USA",Completed
+TXN-001514,U0082,43.59,Subway,Food,2025-06-26T07:20,"Austin, USA",Completed
+TXN-001797,U0061,31.03,Apple Store,Shopping,2025-12-10T12:02,"Seattle, USA",Completed
+TXN-000379,U0133,28.99,Amazon,Shopping,2026-04-28T06:17,"Seattle, USA",Completed
+TXN-000289,U0148,27.16,Starbucks,Food,2025-08-05T06:18,"Austin, USA",Completed
+TXN-000419,U0064,86.7,Marriott,Travel,2025-09-22T02:10,"Seattle, USA",Completed
+TXN-001699,U0122,4.9,Local Deli,Food,2026-04-16T21:23,"Chicago, USA",Completed
+TXN-000392,U0039,18.24,Starbucks,Food,2026-01-22T08:28,"San Francisco, USA",Pending
+TXN-000593,U0071,82.87,Marriott,Travel,2025-11-20T08:56,"San Francisco, USA",Pending
+TXN-001523,U0130,99.96,Target,Shopping,2025-07-07T23:08,"Seattle, USA",Completed
+TXN-001163,U0037,60.0,Wells Fargo ATM,ATM,2025-12-09T06:42,"Los Angeles, USA",Completed
+TXN-001087,U0051,42.65,Starbucks,Food,2026-03-01T03:25,"Seattle, USA",Completed
+TXN-001496,U0081,10.3,Chipotle,Food,2026-01-01T05:40,"New York, USA",Completed
+TXN-000648,U0120,112.74,Marriott,Travel,2025-08-29T08:24,"San Francisco, USA",Completed
+TXN-001153,U0097,20.74,Chipotle,Food,2025-07-05T06:09,"New York, USA",Completed
+TXN-001368,U0083,80.54,Best Buy,Shopping,2026-04-29T12:21,"Los Angeles, USA",Completed
+TXN-000521,U0147,8.3,DoorDash,Food,2026-03-09T12:41,"Dubai, UAE",Completed
+TXN-001863,U0112,24.17,Target,Shopping,2025-12-03T21:44,"Seattle, USA",Completed
+TXN-001881,U0008,40.0,Chase ATM,ATM,2026-04-06T01:00,"Seattle, USA",Completed
+TXN-000065,U0136,100.0,Chase ATM,ATM,2026-01-14T01:55,"Toronto, Canada",Completed
+TXN-001837,U0115,110.87,Kroger,Groceries,2025-12-31T23:47,"New York, USA",Completed
+TXN-000015,U0098,9.22,Subway,Food,2026-03-26T23:28,"Chicago, USA",Completed
+TXN-001181,U0042,60.87,Whole Foods,Groceries,2026-05-24T06:33,"Chicago, USA",Completed
+TXN-001065,U0061,220.26,Amazon,Shopping,2026-02-15T01:07,"Chicago, USA",Completed
+TXN-000493,U0119,80.0,Wells Fargo ATM,ATM,2025-09-21T11:22,"New York, USA",Completed
+TXN-000380,U0029,68.43,Amazon,Shopping,2025-09-25T12:28,"San Francisco, USA",Completed
+TXN-000188,U0144,218.94,Best Buy,Shopping,2025-07-30T23:23,"Austin, USA",Completed
+TXN-000764,U0002,60.44,Walmart,Shopping,2025-08-29T10:42,"Chicago, USA",Completed
+TXN-000217,U0132,123.89,Verizon,Bills,2025-07-03T09:27,"Los Angeles, USA",Completed
+TXN-001946,U0081,115.3,Coinbase,Crypto,2026-01-24T10:28,"New York, USA",Completed
+TXN-000792,U0085,200.0,Wells Fargo ATM,ATM,2025-12-11T05:13,"London, UK",Completed
+TXN-001077,U0138,153.14,Verizon,Bills,2026-04-06T03:58,"San Francisco, USA",Completed
+TXN-000879,U0146,24.33,Local Deli,Food,2026-04-04T04:36,"New York, USA",Completed
+TXN-000338,U0026,142.84,PG&E,Bills,2026-01-01T00:04,"San Francisco, USA",Completed
+TXN-001773,U0023,47.59,Whole Foods,Groceries,2026-02-19T22:16,"Austin, USA",Completed
+TXN-000720,U0082,773.02,Crypto.com,Crypto,2026-05-13T06:31,"San Francisco, USA",Completed
+TXN-001749,U0112,100.4,Amazon,Shopping,2026-01-16T11:35,"New York, USA",Failed
+TXN-000296,U0011,118.88,Trader Joe's,Groceries,2025-06-21T05:28,"Los Angeles, USA",Completed
+TXN-001726,U0131,19.52,Costco,Groceries,2025-10-14T05:44,"Austin, USA",Completed
+TXN-001017,U0087,296.08,Delta Airlines,Travel,2026-03-11T12:01,"Los Angeles, USA",Completed
+TXN-001276,U0149,51.71,Marriott,Travel,2025-09-20T09:09,"Seattle, USA",Completed
+TXN-001751,U0065,10.77,DoorDash,Food,2025-06-28T05:40,"Dubai, UAE",Completed
+TXN-001486,U0108,34.98,Safeway,Groceries,2025-06-02T02:11,"San Francisco, USA",Completed
+TXN-000456,U0015,68.28,Safeway,Groceries,2026-02-14T08:56,"Chicago, USA",Completed
+TXN-SUSP-00099,U0043,4588.5,Offshore Exchange,ATM,2026-04-01T04:01,"Toronto, Canada",Completed
+TXN-000816,U0061,3.6,Starbucks,Food,2026-01-29T00:08,"Seattle, USA",Completed
+TXN-001887,U0097,33.63,Trader Joe's,Groceries,2025-09-12T23:29,"New York, USA",Completed
+TXN-000270,U0076,31.65,Comcast,Bills,2025-06-02T07:54,"Chicago, USA",Completed
+TXN-000996,U0087,18.68,Chipotle,Food,2025-05-30T23:09,"Austin, USA",Failed
+TXN-001982,U0050,9.4,Airbnb,Travel,2025-06-29T08:25,"Austin, USA",Completed
+TXN-000202,U0074,5.71,Local Deli,Food,2026-02-20T10:11,"San Francisco, USA",Completed
+TXN-000162,U0143,8.32,Subway,Food,2025-09-17T00:26,"Austin, USA",Completed
+TXN-001580,U0086,200.0,Chase ATM,ATM,2026-03-12T01:12,"Los Angeles, USA",Completed
+TXN-000703,U0013,200.93,Crypto.com,Crypto,2025-06-15T09:37,"San Francisco, USA",Completed
+TXN-001501,U0031,6.13,Subway,Food,2025-10-24T00:49,"Austin, USA",Completed
+TXN-001130,U0014,73.47,Costco,Groceries,2025-09-27T03:38,"London, UK",Completed
+TXN-001022,U0122,88.37,Uber,Travel,2026-03-13T03:52,"Chicago, USA",Completed
+TXN-001586,U0019,19.91,Best Buy,Shopping,2026-03-27T09:38,"Austin, USA",Completed
+TXN-001956,U0006,26.3,Subway,Food,2026-01-04T07:24,"Chicago, USA",Completed
+TXN-000035,U0048,101.43,Trader Joe's,Groceries,2025-06-23T23:58,"New York, USA",Completed
+TXN-000776,U0113,127.21,Safeway,Groceries,2025-12-08T04:46,"Seattle, USA",Completed
+TXN-001479,U0136,129.33,Netflix,Bills,2026-02-25T00:58,"Los Angeles, USA",Completed
+TXN-001391,U0128,126.2,Binance,Crypto,2026-04-28T01:26,"New York, USA",Completed
+TXN-001364,U0049,3.67,Crypto.com,Crypto,2025-09-18T02:09,"Seattle, USA",Completed
+TXN-SUSP-00042,U0039,1342.06,Unverified Marketplace,Crypto,2026-03-16T02:17,Singapore,Completed
+TXN-000242,U0127,39.69,DoorDash,Food,2025-06-18T22:22,"Chicago, USA",Completed
+TXN-SUSP-00062,U0084,5106.59,Unknown Crypto Wallet,Travel,2026-03-29T01:19,"Tokyo, Japan",Completed
+TXN-000601,U0061,60.0,Wells Fargo ATM,ATM,2025-08-31T12:51,"Seattle, USA",Completed
+TXN-001298,U0075,152.47,Kraken,Crypto,2026-01-10T01:25,"Austin, USA",Completed
+TXN-SUSP-00069,U0003,938.52,Offshore Exchange,Shopping,2026-01-30T01:13,Singapore,Failed
+TXN-000647,U0113,51.84,Walmart,Shopping,2025-09-30T22:35,"Chicago, USA",Completed
+TXN-001529,U0037,60.82,Apple Store,Shopping,2025-07-20T06:25,"Los Angeles, USA",Failed
+TXN-001268,U0086,247.62,Kraken,Crypto,2025-11-23T23:43,"New York, USA",Pending
+TXN-001900,U0096,20.61,DoorDash,Food,2026-01-31T00:24,"Chicago, USA",Completed
+TXN-000563,U0012,100.0,Bank of America ATM,ATM,2025-12-10T13:02,"New York, USA",Completed
+TXN-000190,U0036,43.64,Kraken,Crypto,2026-01-29T03:18,"San Francisco, USA",Completed
+TXN-001807,U0103,183.51,Lyft,Travel,2025-10-12T01:45,"Chicago, USA",Completed
+TXN-000976,U0119,72.01,Spotify,Bills,2025-08-30T23:23,"New York, USA",Completed
+TXN-SUSP-00048,U0084,1940.11,Unknown Crypto Wallet,Travel,2026-03-12T00:23,"Berlin, Germany",Completed
+TXN-001083,U0022,35.83,Apple Store,Shopping,2025-07-08T01:52,"San Francisco, USA",Completed
+TXN-000475,U0039,77.39,Target,Shopping,2025-12-22T22:59,"New York, USA",Completed
+TXN-000748,U0148,93.09,Lyft,Travel,2025-10-17T08:42,"New York, USA",Completed
+TXN-000022,U0139,49.88,Marriott,Travel,2025-12-28T04:03,"Los Angeles, USA",Completed
+TXN-000460,U0142,63.51,Airbnb,Travel,2025-08-24T12:41,"Austin, USA",Completed
+TXN-001185,U0009,41.85,Comcast,Bills,2026-04-12T09:19,"New York, USA",Completed
+TXN-000956,U0028,71.58,Verizon,Bills,2025-12-13T08:41,"Los Angeles, USA",Completed
+TXN-001216,U0020,131.45,Walmart,Shopping,2026-05-06T04:15,"Austin, USA",Completed
+TXN-001516,U0053,62.91,Best Buy,Shopping,2025-09-16T02:38,"Los Angeles, USA",Completed
+TXN-000770,U0078,93.32,Costco,Groceries,2025-08-18T22:48,"Seattle, USA",Completed
+TXN-001686,U0149,42.2,Amazon,Shopping,2025-07-12T02:36,"Seattle, USA",Completed
+TXN-000131,U0089,178.07,Apple Store,Shopping,2025-08-13T23:32,"Toronto, Canada",Completed
+TXN-001483,U0108,129.6,Spotify,Bills,2025-09-20T11:54,"San Francisco, USA",Completed
+TXN-000331,U0063,65.01,Target,Shopping,2025-10-22T12:40,"Austin, USA",Completed
+TXN-001239,U0142,68.97,Amazon,Shopping,2025-07-13T21:47,"Los Angeles, USA",Completed
+TXN-000467,U0077,59.51,Target,Shopping,2025-10-14T05:45,"San Francisco, USA",Completed
+TXN-001639,U0044,67.64,Kroger,Groceries,2025-12-19T12:43,"Berlin, Germany",Completed
+TXN-001096,U0116,105.64,Best Buy,Shopping,2025-07-20T07:40,"Seattle, USA",Completed
+TXN-001131,U0083,43.89,Walmart,Shopping,2026-04-02T09:37,"San Francisco, USA",Completed
+TXN-001295,U0105,139.94,Walmart,Shopping,2026-05-20T00:25,"Los Angeles, USA",Completed
+TXN-000861,U0121,32.87,Trader Joe's,Groceries,2025-10-07T06:44,"New York, USA",Completed
